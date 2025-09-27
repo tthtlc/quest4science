@@ -7,3 +7,8 @@ comments: true
 ---
 Write your post content here.
 
+
+![Alt text](assets/images/gemini.png)
+![Alt text](assets/images/chatgpt1.png)
+![Alt text](assets/images/chatgpt2.png)
+
