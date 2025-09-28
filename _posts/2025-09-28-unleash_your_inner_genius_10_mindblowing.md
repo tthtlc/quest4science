@@ -6,11 +6,6 @@ tags: [science experiment]
 comments: true
 ---
 
-```
-# Unleash Your Inner Genius: 10 Mind-Blowing Science Experiments You Can Try
-**Date:** 2nd October, 2021
-**Author:** Your Sci-Tech Guru
-
 Hey there, tech wizards! Ever wanted to bring out the Einstein in you? Put on your lab coats, because here are 10 mind-bending experiments that would not only make you love science but also help you unleash your inner genius. 
 
 ## 1. The Erupting Volcano
@@ -44,5 +39,3 @@ Hey there, tech wizards! Ever wanted to bring out the Einstein in you? Put on yo
 *Create a cloud in a jar using shaving cream, water, and food coloring. It's rain on demand, folks!*
 
 Remember, science isn't just about textbooks and exams, it's also about exploring, experimenting, and learning while having a ton of fun! So get out there and unleash your inner genius!
-
-```

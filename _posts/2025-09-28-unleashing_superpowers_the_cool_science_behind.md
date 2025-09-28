@@ -6,8 +6,6 @@ tags: [science experiment]
 comments: true
 ---
 
-# Unleashing Superpowers: The Cool Science Behind Your Favorite Video Games!
-
 Hey, Game Lovers! Ever wondered how your favorite video games seem to create a world that's almost too real to believe? Guess what, it's all about the Superpowers of Science! Let's dive into the fascinating world of game development and decipher the magic!
 
 ## The Physics That Powers Your Games

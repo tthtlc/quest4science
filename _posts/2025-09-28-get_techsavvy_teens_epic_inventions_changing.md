@@ -6,8 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-# Get Tech-savvy Teens: Epic Inventions Changing Our World Right Now!
-
 Hello there, superheroes of the future! Let's jump straight into the era of groundbreaking tech inventions, making our world a LOT more exciting and efficient.
 
 1. **Artificial Intelligence (AI)** - No, we're not saying that robots will rule the world. But hey, they sure are making our jobs easier. From Siri on your iPhones to self-driving cars, AI is everywhere and is making mundane tasks seem like a piece of cake! All hail, AI! 
