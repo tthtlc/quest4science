@@ -6,8 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-# Unleashing the Whiz Kid Within: 5 Incredible Science Experiments Teens Can Try!
-
 Hey there, young Einsteins! Always thought science was all about long equations and boring text books? Well, think again! Today we're rolling up our sleeves and digging into some hands-on experiments that are not only fun, but will also make you fall in love with science. Let's start unleashing that whiz kid within!
 
 ## 1. Homemade Lava Lamp
