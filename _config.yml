@@ -20,8 +20,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Quest4Science"
 title_separator          : "-"
 subtitle                 : "Questions and answers" # site tagline that appears below site title in masthead
-name                     : "Peter Teoh"
-description              : "Exploration of unknown in science and technology for the teenager."
+name                     : 
+description              :
 url			 : "https://quest4science.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 production_url		 : "https://quest4science.xyz"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,22 +113,22 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "Peter Teoh"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Explorer in Science and Technology"
-  location         : "Singapore"
-  email            :
-  links:
-    - label: "htmldeveloper@gmail.com"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:htmldeveloper@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://quest4science.xyz"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tthtlc"
+#author:
+#  name             : "Peter Teoh"
+#  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#  bio              : "Explorer in Science and Technology"
+#  location         : "Singapore"
+#  email            :
+#  links:
+#    - label: "htmldeveloper@gmail.com"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:htmldeveloper@gmail.com"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://quest4science.xyz"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/tthtlc"
 
 # Site Footer
 footer:
