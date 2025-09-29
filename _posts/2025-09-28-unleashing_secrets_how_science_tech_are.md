@@ -24,9 +24,8 @@ Stay curious, keep exploring, and remember — in the world of science and tech,
 
 🚀 Let's build a better future, together. Encourage your friends to join this exciting journey with a quick click to share! 
 
-``` 
+
 Code to Share with Friends:
 copy and paste this link to share this blog - www.techwiz-blog.com/unleashingsecrets 
-``` 
 
 Stay tuned for more exciting peeks into the future! 🤖🌍💡
