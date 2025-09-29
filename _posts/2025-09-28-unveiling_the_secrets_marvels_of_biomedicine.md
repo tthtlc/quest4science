@@ -2,14 +2,10 @@
 title: "Unveiling the Secrets: Marvels of Bio-Medicine, Atomic Physics & Cutting-edge Tech"
 date: 2025-09-28 19:22:26 +08:00
 categories: blog
-tags: [jekyll, minimal-mistakes]
+tags: Science, Bio-Medicine, Atomic Physics, Tech, Teenagers
 comments: true
 ---
 
----
-title: "Unveiling the Secrets: Marvels of Bio-Medicine, Atomic Physics & Cutting-edge Tech"
-date: 2021-12-18
-tags: Science, Bio-Medicine, Atomic Physics, Tech, Teenagers
 ---
 
 Hey there, curious minds! 👋 

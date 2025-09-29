@@ -6,8 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-# Unlocking the Future: The Coolest Tech Toys Teens Will Love in 2022!
-
 Hello, tech enthusiasts! 🎉 As we begin the new year, it's fun to peek into the future. Let's dive into some exciting tech gadgets that are going to make your 2022 even more fun and tech-tastic! 🚀
 
 1. **Smart Lighting:** Get the party started with Philips Hue. These smart bulbs can change over 16 million colors. You can control them via your smartphone or even sync them with your games and music! 💡🎮🎵

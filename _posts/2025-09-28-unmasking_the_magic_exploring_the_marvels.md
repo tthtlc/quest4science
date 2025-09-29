@@ -6,8 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-# Unmasking the Magic: Exploring the Marvels of Science & Tech!
-
 *Everybody loves a good magic trick, right? But what if I told you that every enchanting trick has its roots in science and technology? Strap in, fellow nerds, as we unravel the awe-inspiring magic of Science and Technology!*
 
 1. **LEDs**: LEDs are the tiny little lights that light up your life (quite literally). But did you know, these are actually semiconductors that emit light when a current is applied? That’s right, your gaming room setup is just a bunch of cleverly manipulated atoms!

@@ -6,8 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-# Unmasking The Future: Teens, Tech, and The Marvels of Modern Science!
-
 Hey there future minds! Our world is spinning so fast that it might just throw us into the next big technological revolution before we even know it! From self-driving cars to AI that can beat us at our own games, it's a thrilling ride! 
 
 So, what’s driving this mind-blowing era of innovation? I'll tell you in two buzz words: **Science** & **Technology**. 

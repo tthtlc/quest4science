@@ -6,16 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
----
-title: 'Unraveling the Secrets of DNA: Merging Medicine, Tech and the Cosmos!'
-date: '2022-04-12'
-thumbnail: '/images/post-thumbnails/dna.jpg'
-categories: 
-  - Science
-  - Technology
-author: 'SciTechTeen Guru'
----
-
 Hey there, young Einsteins! Today, we're gonna traverse the labyrinthine universe inside us - **our DNA** - and unveil how it's merging with the spheres of medicine, technology, and even the cosmos!
 
 Ever wondered how a tiny, twisted molecule determines everything about us? From the color of our eyes to our risk for certain diseases, DNA holds the blueprint. But, guess what? It's not just about biology anymore!

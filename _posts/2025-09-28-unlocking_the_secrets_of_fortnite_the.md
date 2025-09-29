@@ -6,9 +6,6 @@ tags: [3D-graphics]
 comments: true
 ---
 
-```markdown
-# Unlocking the Secrets of Fortnite: The Science Behind Your Favorite Game
-
 Hey there, tech-savvy teens! Today, we're diving deep into the world of Fortnite, a game that has taken the globe by storm. But have you ever paused to think what goes on behind those high-energy battles and fort-building shenanigans? Let's unlock those secrets!
 
 ## 1. The Physics of Fortnite
@@ -38,4 +35,3 @@ Ever wondered how you get to play with players from all over the world in real t
 Fortnite makes use of AI for those non-player characters. This AI, based on patterns and algorithms, determines how these characters react to player actions.
 
 Get this: the exciting world of Fortnite is a mashup of physics, computer graphics, networking, and AI! Now, isn't that an epic game of science?
-```

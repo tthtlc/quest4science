@@ -6,12 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
----
-title: 'Unlocking Secrets: The Thrilling Crossroads of Tech and Life Sciences!'
-tags: technology, life sciences, innovation, teens
-date: 2022-08-01
----
-
 Hey tech aficionados and bio-nerds! 🚀🧪
 
 Have you ever contemplated how your smartphone is getting smarter, or how doctors can predict diseases even before symptoms appear? Welcome to the phenomenal intersection of technology and life sciences! 🎯🔬

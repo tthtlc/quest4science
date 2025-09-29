@@ -6,8 +6,6 @@ tags: [quantum-physics]
 comments: true
 ---
 
-# Unlocking the Secrets of the Universe: The Teenager's Guide to Quantum Physics
-
 What if I told you that you could be in two places at the same time? Or that you could change something just by looking at it? Nah, we haven't tapped into some secret wizarding world, we're diving into the mind-boggling realm of **Quantum Physics**!
 
 ## 1. Wait, What's Quantum Physics?

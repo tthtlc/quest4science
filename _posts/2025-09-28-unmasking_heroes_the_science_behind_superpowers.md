@@ -6,11 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
----
-title: Unmasking Heroes: The Science Behind Superpowers & Today's Tech Titans!
-author: [Your Name]
----
-
 Hey there, tech enthusiasts! 💻 🚀 Ever wondered if the superhuman visions of comic books and Marvel cinema could come alive? Could your favorite superpowers be transformed from fiction to reality? Well, gear up, because you're about to embark on an exhilarating journey with me! Let's 'unmask' and decode the science behind superpowers and today's tech titans! 🦸 💡
 
 1. **Iron Man’s suit**: What if I told you, you could become an Iron Man? Well, not completely, but kind of. We’re talking about **exoskeleton tech**! Inspired by the mechanic suit of our beloved Stark, exoskeletons are wearable machines powered by a system of electric motors, pneumatics, or hydraulic levers. They enhance the physical performance of the user, often used in the military and medical sector to assist individuals with disabilities.

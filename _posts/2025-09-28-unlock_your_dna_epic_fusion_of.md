@@ -6,9 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-```markdown
-# Unlock Your DNA: Epic Fusion of Medicine, Physics, Chemistry & IT Tech!
-
 Hey there, science enthusiasts! 🚀 Today, we'll dive deep into your cells to unlock the secrets of your DNA. We'll witness the fantastic fusion of medicine, physics, chemistry, and IT tech, transforming the way we understand ourselves and our health. Ready for an epic journey? Let's GO!
 
 ## Your DNA: The Tiny Mighty 
@@ -34,5 +31,3 @@ print(DNA_complement(sequence)) #This prints: 'TGAC'
 ```
 
 In the grand scheme, this epic fusion of various fields helps us understand our DNA better. It's time to celebrate this wonderful mixture of science and technology. Stay curious, my friends! 🚀
-
-```

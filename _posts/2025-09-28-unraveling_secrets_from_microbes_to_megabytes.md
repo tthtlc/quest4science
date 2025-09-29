@@ -6,9 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-```markdown
-# Unraveling Secrets: From Microbes to MegaBytes – A Teen's Sci-Tech
-
 Hey there, tech enthusiasts! 🚀 
 
 Our world is incredible, isn't it? We've got everything from the tiny little organisms that we can't even see with our naked eyes to the gigantic digital universe that fills up our screens. Let's unlock the cryptic world of science and technology, from **Microbes** to **Megabytes.**
@@ -32,4 +29,3 @@ Remember:
 - _Never stop exploring and learning, because science and technology are awesome!_
 
 Until next time, keep your science game strong! 💪
-```

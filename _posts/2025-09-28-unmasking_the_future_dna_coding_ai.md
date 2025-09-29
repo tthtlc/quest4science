@@ -6,9 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-```markdown
-# Unmasking the Future: DNA Coding, AI Doctors, and Quantum Bits!
-
 Hey Future Leaders,
 
 Ever wondered how the world beyond today might look like? How about unmasking the future with me? It’s full of DNA coding, AI doctors, and quantum bits!
@@ -47,4 +44,3 @@ So, gear up my tech-savvy friends, for a future that is as exciting as it is unp
 
 Stay curious,
 [Your Name]
-```

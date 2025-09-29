@@ -6,8 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-# Unlocking the Secrets: Teen Geniuses Rocking Bio-Med, Chem, Physics
-
 Hello, science enthusiasts! Today, we're casting the spotlight on three mind-blowing teenage geniuses who are taking the world of bio-med, chemistry, and physics by storm. Let's dive right in!
 
 ## 1. Bio-Med Whizz: Brittany Wenger

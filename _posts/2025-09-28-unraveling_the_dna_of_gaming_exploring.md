@@ -6,13 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
----
-layout: post
-title: Unraveling the DNA of Gaming: Exploring the Science Behind Fortnite Physics!
-author: [Your Name]
-date: [Post Date]
----
-
 Hello gamers and science enthusiasts! Do you ever wonder about the science that allows you to pull off those insane stunts in Fortnite? Let's dig into the DNA of gaming and explore the physics behind your beloved battleground.
 
 ## The Gravity of the Situation

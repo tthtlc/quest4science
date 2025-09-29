@@ -6,13 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
----
-title: 'Unlocking Secrets: DNA, Nanobots, Quantum Computing & You!'
-date: 2022-04-20
-author: SciTechTeen
-tags: DNA, Nanobots, Quantum Computing, FutureTech
----
-
 Ever wondered what connects **DNA**, funky **Nanobots**, and brainy **Quantum Computing** with *you*? Let's dive deep into the mind-boggling world of science to unlock these secrets!
 
 First things first, what is a DNA? To put it simply,

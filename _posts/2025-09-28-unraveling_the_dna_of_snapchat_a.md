@@ -2,15 +2,8 @@
 title: "Unraveling the DNA of Snapchat: A Teen's Guide to Science & Tech Magic!"
 date: 2025-09-28 20:03:16 +08:00
 categories: blog
-tags: [jekyll, minimal-mistakes]
-comments: true
----
-
----
-format: markdown
-title: Unraveling the DNA of Snapchat: A Teen's Guide to Science & Tech Magic!
-date: '2021-12-16'
 tags: ['Snapchat', 'Technology', 'Science', 'Teenagers']
+comments: true
 ---
 
 Hey Tech-Savvy Teens! 👋
