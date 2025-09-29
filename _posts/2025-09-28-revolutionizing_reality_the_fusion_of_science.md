@@ -6,8 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-# Revolutionizing Reality: The Fusion of Science, Medicine & Tech Magic!
-
 A new decade is upon us, and it is more *sci-fi* than ever before. From self-driving cars to AI-powered everything, the future is looking bright and extremely interesting. But what's even cooler is the intersection of science, medicine, and technology. 
 
 ## Magic in the Making

@@ -6,8 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-# Cracking the Code: How DNA Tech Meets Video Gaming
-
 Hello fellow tech enthusiasts! 🎮
 
 Today, we're going to unravel the intersection of two of the most mind-blowing realms: DNA technology and video gaming. We're all familiar with the concept of DNA. It's that crazy, twisty ladder thing that contains all the information to make us who we are - the ultimate cheat code to life. But what happens when we combine the power of DNA tech with our love for video games? Let's dive in!

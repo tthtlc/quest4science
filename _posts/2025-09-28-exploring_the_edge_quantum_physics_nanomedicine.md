@@ -6,9 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-```markdown
-# Exploring the Edge: Quantum Physics, Nano-medicine, and the Tech Revolution!
-
 Hello there, tech enthusiasts! Today we're diving deep into the realms of **Quantum Physics**, **Nano-medicine** and, of course, the never-ending **Tech Revolution**!
 
 ## What's Quantum Physics?
@@ -31,5 +28,3 @@ Here's a quick list of some cool things happening in the tech world:
 3. **Blockchain Technology** - Not just for cryptocurrencies, blockchain tech offers transparent, secure and decentralized data storage.
 
 So folks, buckle up as we ride this tech wave together. The future is excitingly unpredictable and filled with potential! Till next time, stay curious, stay hungry!
-
-```

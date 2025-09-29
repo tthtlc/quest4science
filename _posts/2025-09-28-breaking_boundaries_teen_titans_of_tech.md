@@ -6,8 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-# Breaking Boundaries: Teen Titans of Tech, Physics, and Biomedicine!
-
 Hey there, future Einsteins and Curies! 🚀
 
 We've all heard stories of young geniuses making waves in the worlds of tech, physics, and biomedicine. These aren't just stories from movies or comic books. They're real-life teen titans who are breaking boundaries and changing the world. Let's meet a few of them.

@@ -5,8 +5,6 @@ categories: blog
 tags: [Science, DNA, AI, Teenagers, Technology]
 comments: true
 ---
-published: True
----
 
 Hey, Gen-Zers! Ever wondered how DNA, the source code of life, is somewhat similar to AI, the "it" thing in the tech world? How about embarking on an epic adventure from DNA to AI? Buckle up, because it's going to be an exhilarating ride!
 

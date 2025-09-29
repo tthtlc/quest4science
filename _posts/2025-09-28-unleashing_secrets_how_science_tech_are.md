@@ -6,8 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-# Unleashing Secrets: How Science & Tech are Redefining Your Future!
-
 Hey there, future tech-wizards!👨‍💻👩‍🔬
 
 Look around you. From the smartphone in your hand to the AI-powered games you play, it’s clear that we're living in an _incredible_ era of **science** and **technology**.

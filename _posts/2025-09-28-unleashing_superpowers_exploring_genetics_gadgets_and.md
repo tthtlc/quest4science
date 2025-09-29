@@ -6,8 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-# Unleashing Superpowers: Exploring Genetics, Gadgets, and the Galaxy!
-
 Hello, super teens! Ever dreamed of having superpowers, owning high-tech gadgets, or exploring galaxies far, far away? Well, hold on to your mousepads, because science and technology are turning myth into reality as we speak! 🚀
 
 ## 🧬 Genetics: X-Men in the Making

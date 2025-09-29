@@ -6,12 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
----
-
-# Unleashing Superpowers: The Fusion of Gamer Tech & Groundbreaking Science!
-
----
-
 Hey Tech Whizzes!
 
 Today we're diving into an exhilarating realm; one where the adrenalin of gaming merges with the thrill of cutting-edge science. Buckle up as we journey into the future of **Reality Gaming**!

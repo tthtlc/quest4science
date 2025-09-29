@@ -6,8 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-# Exploring the Galaxy in our Cells - A Teen’s Guide to BioTech Magic!
-
 Hello, young explorers! 🚀 Today, we're going to embark on a thrilling journey where science fiction meets reality, where we'll navigate the galaxy within our cells! Fasten your seatbelts, because this Biotech adventure is about to get **exciting**!
 
 You know, inside every teeny-tiny cell of ours, there's a universe bustling with activity. Imagine your cells as bustling cities and proteins as the busy citizens. These proteins talk to each other, send messages, build structures - they're the little workers making you, you!

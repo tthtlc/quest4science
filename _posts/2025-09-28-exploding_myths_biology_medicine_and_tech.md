@@ -6,8 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-# Exploding Myths: Biology, Medicine, and Tech- The Unseen Teenage Superpowers
-
 Ever wondered why adults often seem perplexed by your ability to catch up with the newest tech trends or that you can stay up until 2 AM and still rock your school assignments the next day? The answer lies in your biology and your innate, and often unappreciated, superpowers. 
 
 So let's dive into the truth behind these three worlds: Biology, Medicine, and Technology, and debunk some myths along the way.

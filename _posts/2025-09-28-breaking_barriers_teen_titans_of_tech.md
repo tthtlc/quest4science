@@ -6,9 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-```markdown
-# Breaking Barriers: Teen Titans of Tech, Science, & Medicine Revolution
-
 Hey there, future leaders! It's hard to believe that teenagers, just like you, are revolutionizing the world of tech, science, and medicine. Thanks to tenacity, creativity, and courage, these young visionaries are breaking barriers and changing the world. Let's take a look at some of these Teen Titans!
 
 ## 1. Brittany Wenger
@@ -27,6 +24,5 @@ So, what separates these teens from the rest? It's their curiosity, their refusa
 
 Whether you're into tech, passionate about science, fascinated by medicine, the key takeaway is to **keep asking questions**. Oh, and most importantly, remember that **you're never too young to make a difference**!
 
-```
+
 Happy innovating, whizz-kids! 
-```

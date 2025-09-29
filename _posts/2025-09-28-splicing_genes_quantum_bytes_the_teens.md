@@ -6,9 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-```markdown
-# Splicing Genes & Quantum Bytes: The Teen's Guide to the Future of Science!
-
 Hello future scientists and tech wizards! Welcome to a world where biology and computers collide, in the best possible way. Today, we're diving into **Gene Splicing** and **Quantum Computing** - two incredibly exciting fields that are shaping our lives as we know it. Let's get started!
 
 ## Gene Splicing
@@ -31,4 +28,3 @@ These are just glimpses into the future of science. It's a lot to take in, but d
 
 Over and out,  
 \[Your Name\]
-```

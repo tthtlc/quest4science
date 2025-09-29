@@ -6,9 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-```markdown
-# Unleashing Superpowers: Your DNA, AI Robots, and the Future of Health!
-
 Hello, future superheroes! Today we're diving into the exciting world of genetics, artificial intelligence and futuristic health technologies.
 
 ## Your DNA: The Blueprint of You 
@@ -24,4 +21,3 @@ Combine the power of our DNA knowledge and AI expertise, and you've got the futu
 - **Enhanced abilities**: By understanding our DNA better, we could unlock enhancements that already exist within us. Faster healing? Improved memory? The possibilities are endless!
 
 So, there you have it. Harnessing the power of our DNA and AI robots could truly transform the future of health, unleashing our very own superpowers!
-```

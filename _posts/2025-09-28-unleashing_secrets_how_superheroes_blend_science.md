@@ -6,8 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-# Unleashing Secrets: How Superheroes Blend Science, Medicine, & Tech in Real Life!
-
 Hey science enthusiasts! Ever wondered how superheroes, with their superpowers, blend in real-life concepts of science, medicine, and technology? Well let's deep dive into this interesting topic!
 
 ## Iron Man and His Super Tech Suit

@@ -6,8 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-# Unleashing Secrets: How Tech Titans are Revolutionizing Medicine with Science!
-
 Hey, tech enthusiasts! Ever wondered how our friendly neighborhood tech giants are transforming medicine with science? Buckle up! You're about to embark on a thrilling journey of captivating discoveries!
 
 ## How AI is Reinventing Diagnostics 🩺

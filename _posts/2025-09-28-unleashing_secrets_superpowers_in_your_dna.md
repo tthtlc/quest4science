@@ -6,8 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-# Unleashing Secrets: Superpowers in Your DNA and the Magic of Tech! 
-
 Hey Superteens! 🚀 Ever wondered if superpowers were only limited to comic books or movies? What if I told you our very own (D)riving (N)atural (A)bilities, or DNA is the real superhero within us! 🧬💥 
 
 ## The Superpower Within

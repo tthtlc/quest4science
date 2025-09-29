@@ -6,8 +6,6 @@ tags: [jekyll, minimal-mistakes]
 comments: true
 ---
 
-# Breaking Code: The Fusion of DNA, Quantum Physics, and AI Tech!
-
 Hey Codebreakers! 👋 Ever wondered how the building blocks of life, mysterious quantum particles, and cutting-edge AI can all be interconnected? 🧐 Let's take a dive into the future and see!
 
 ## DNA: The Blueprint of Life

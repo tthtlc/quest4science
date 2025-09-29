@@ -2,14 +2,8 @@
 title: "Unleashing Superpowers: Modern Tech Meets the Marvels of Our Body & Universe!"
 date: 2025-09-28 19:25:13 +08:00
 categories: blog
-tags: [jekyll, minimal-mistakes]
-comments: true
----
-
----
-title: 'Unleashing Superpowers: Modern Tech Meets the Marvels of Our Body & Universe!'
-description: 'An exciting journey where technology meets our body and the universe, unleashing our superpowers!'
 tags: ['Tech', 'Superpowers', 'Marvels', 'Body & Universe']
+comments: true
 ---
 
 Hello, super beings!
