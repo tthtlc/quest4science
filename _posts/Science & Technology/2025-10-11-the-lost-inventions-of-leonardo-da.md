@@ -17,7 +17,7 @@ comments: true
 
 ## The Genius Who Imagined the Future
 
-### By [Your Name]
+### By [Peter Teoh]
 
 Imagine a world where flying machines, underwater boats, and self-playing musical instruments exist—not today, but 500 years ago. That’s exactly what Leonardo da Vinci, the ultimate Renaissance man, dreamed up in his notebooks. While you might know him as the painter of the Mona Lisa, Leonardo was also a super-curious scientist and inventor who sketched gadgets that were way ahead of his time. Some of his wildest ideas never got built, and some were lost to history. Let’s dive into the fascinating world of Leonardo’s “lost” inventions and see how his imagination still inspires us today.
 
