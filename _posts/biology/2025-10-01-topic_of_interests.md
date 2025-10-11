@@ -1,16 +1,14 @@
 ---
-title: "Topics of interests"
+title: "**Plants That 'Talk' Underground: The Secret World of Fungal Networks**"
 date: 2025-10-01 08:23:56 +08:00
 categories: biology
 tags: [plants, that, talk, through]
 comments: true
 ---
 
-**Plants That 'Talk' Underground: The Secret World of Fungal Networks**
-
 *How trees and plants use a hidden internet beneath our feet to share news, food, and even warnings*
 
-By [Your Name]
+By Peter Teoh,
 
 *Main Image Suggestion:* A vibrant forest floor close-up showing tree roots intertwined with white fungal threads (mycelium) weaving through the soil.  
 *Caption:* Invisible to the eye, fungal networks connect plant roots underground, forming a natural communication web scientists call the "Wood Wide Web."
