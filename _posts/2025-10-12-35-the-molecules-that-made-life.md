@@ -13,9 +13,6 @@ comments: true
 
 <!-- Image Description: A colorful artistic illustration of early Earth’s surface showing a primitive ocean with volcanic islands, comets and meteorites raining down, and simple molecules like hydrogen cyanide and amino acids forming in the water under UV sunlight. -->
 
-
-# The Molecules That Made Life Possible on Early Earth
-
 ## How simple molecules sparked the origin of life
 
 *By Peter Teoh, Science Writer*

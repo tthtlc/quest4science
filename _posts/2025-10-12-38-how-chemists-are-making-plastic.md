@@ -62,4 +62,3 @@ With ongoing research, the dream of a plastic-free planet — or at least a plas
 2. Bottlenecks in biobased approaches to plastic degradation, Nature Communications (2024)
 3. How Does Technology Reduce Plastic Pollution? Sustainability Directory
 4. New 'Living Plastic' Self-Destructs Once It's Thrown Away, ScienceAlert
-

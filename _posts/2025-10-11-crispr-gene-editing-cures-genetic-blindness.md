@@ -8,16 +8,14 @@ image_description: "A close-up image of a human eye with a glowing digital overl
 comments: true
 ---
 
-
 ![CRISPR gene editing targets faulty genes in the eye, offering hope to cure inherited blindness.](/assets/images/crispr_gene_editing_eye_treatment.jpg)
 *CRISPR gene editing targets faulty genes in the eye, offering hope to cure inherited blindness.*
 
 <!-- Image Description: A close-up image of a human eye with a glowing digital overlay representing gene editing technology. The image combines a realistic eye photo with illustrated molecular structures of CRISPR-Cas9 editing tools and DNA strands, symbolizing the gene therapy process targeting inherited blindness. -->
 
-
 ### CRISPR Gene Editing: A New Dawn for Treating Genetic Blindness
 
-**By Peter Teoh, Science Writer**
+*By Peter Teoh, Science Writer*
 
 Imagine a world where scientists can fix broken genes that cause blindness — not just in theory, but right inside your eyes. Thanks to a cutting-edge tool called CRISPR, this is becoming a reality, and it’s especially exciting for people born with inherited blindness.
 

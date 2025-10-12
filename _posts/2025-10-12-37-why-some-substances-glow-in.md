@@ -13,12 +13,9 @@ comments: true
 
 <!-- Image Description: A dimly lit laboratory table featuring various glow-in-the-dark objects—stars, a bracelet, a glow stick, and a beaker of tonic water under a black light—each emitting a soft, colorful glow. A pair of hands in protective gloves is placing a glowing star on a dark surface, emphasizing the contrast between the glowing objects and the surrounding darkness. -->
 
-
 ## Why Some Substances Glow in the Dark: The Secret of Luminescence
 
-### Shedding Light on the Glow
-
-**By Jamie Science**
+*By Peter Teoh, Science Writer*
 
 Ever wondered why your glow-in-the-dark stars stick around long after you’ve turned off the lights? Or what’s inside a glow stick that makes it shine at a concert? The answer lies in a cool scientific phenomenon called **luminescence**—the ability of certain materials to give off light without getting hot. Unlike a light bulb or the sun, which glow because they’re super hot, luminescent materials shine without the heat, and the science behind it is both fascinating and surprisingly accessible[1][2].
 

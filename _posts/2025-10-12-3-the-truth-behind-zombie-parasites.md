@@ -13,8 +13,6 @@ comments: true
 
 <!-- Image Description: A close-up photo of an ant clamping onto a leaf with the characteristic fungal growth of cordyceps emerging from its head, illustrating how the parasite controls the ant's body to spread its spores. -->
 
-### The Truth Behind 'Zombie' Parasites That Control Animal Minds
-
 *By Peter Teoh, Science Writer*
 
 Imagine a tiny creature taking over your brain, making you act in ways that benefit it, not you. Sounds like a horror movie, right? But in the natural world, this is exactly what some parasites do—they turn their hosts into real-life zombies. These "zombie" parasites hijack the minds of animals, changing their behavior to spread themselves and survive. Let’s dive into the fascinating world of these mind-controlling invaders.

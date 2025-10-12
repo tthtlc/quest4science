@@ -16,7 +16,7 @@ comments: true
 
 ### How Self-Driving Cars Learn from Millions of Miles of Data
 
-**By [Author Name]**
+*By Peter Teoh, Science Writer*
 
 Imagine a car that can drive itself—no hands on the wheel, no eyes on the road. Sounds like science fiction, right? But self-driving cars, also called autonomous vehicles, are becoming a reality thanks to advanced technology and lots of data. 
 

@@ -13,11 +13,7 @@ comments: true
 
 <!-- Image Description: A high-tech laboratory setting showing scientists working with genetically edited pig embryos and advanced gene-editing tools like CRISPR, alongside computer screens displaying DNA sequences. -->
 
-# Can We Grow Human Organs Inside Pigs?
-
-## Exploring the Science of Growing Human Organs in Pigs
-
-*By Perplexity Science Writer*
+*By Peter Teoh, Science Writer*
 
 ### Introduction
 
