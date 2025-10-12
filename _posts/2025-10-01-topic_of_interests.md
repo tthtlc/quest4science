@@ -8,7 +8,7 @@ comments: true
 
 *How trees and plants use a hidden internet beneath our feet to share news, food, and even warnings*
 
-By Peter Teoh,
+*By Peter Teoh, Science Writer*
 
 *Main Image Suggestion:* A vibrant forest floor close-up showing tree roots intertwined with white fungal threads (mycelium) weaving through the soil.  
 *Caption:* Invisible to the eye, fungal networks connect plant roots underground, forming a natural communication web scientists call the "Wood Wide Web."
