@@ -5,7 +5,7 @@ categories: [Science Education]
 tags: ["Astatine", "PeriodicTable", "RadioactiveElements", "ScienceForTeens", "Chemistry"]
 image_name: astatine_element_visualization.jpg
 image_description: "A stylized digital illustration showing a dark, lustrous sample of astatine glowing faintly with a radioactive symbol overlay, accompanied by a periodic table highlighting element 85 in the halogen group. The background subtly features a laboratory setting with nuclear research equipment."
-comments: true
+comments: false
 ---
 
 ![Astatine, element 85, is the rarest naturally occurring element on Earth and one of the most mysterious members of the halogen family.](/assets/images/astatine_element_visualization.jpg)

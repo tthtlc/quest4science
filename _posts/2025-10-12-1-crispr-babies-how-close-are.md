@@ -5,7 +5,7 @@ categories: [Science & Technology]
 tags: ["CRISPR", "gene editing", "genetic diseases", "biotechnology", "personalized medicine"]
 image_name: crispr_gene_editing_baby_dna.jpg
 image_description: "A vibrant illustration showing a DNA double helix being precisely edited by molecular scissors labeled CRISPR, with a softly glowing baby silhouette in the background symbolizing gene editing's impact on future humans."
-comments: true
+comments: false
 ---
 
 ![CRISPR gene editing holds the promise to change DNA with precision, raising hopes and questions about designing human traits.](/assets/images/crispr_gene_editing_baby_dna.jpg)

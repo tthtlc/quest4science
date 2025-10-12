@@ -5,7 +5,7 @@ categories: [Science & Technology]
 tags: ["CRISPR", "gene editing", "genetic blindness", "science for teens", "biotechnology"]
 image_name: crispr_gene_editing_eye_treatment.jpg
 image_description: "A close-up image of a human eye with a glowing digital overlay representing gene editing technology. The image combines a realistic eye photo with illustrated molecular structures of CRISPR-Cas9 editing tools and DNA strands, symbolizing the gene therapy process targeting inherited blindness."
-comments: true
+comments: false
 ---
 
 ![CRISPR gene editing targets faulty genes in the eye, offering hope to cure inherited blindness.](/assets/images/crispr_gene_editing_eye_treatment.jpg)

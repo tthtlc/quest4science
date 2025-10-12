@@ -5,7 +5,7 @@ categories: [Science & Technology]
 tags: ["liquid metal", "soft robotics", "shape-shifting robots", "technology", "science"]
 image_name: liquid_metal_robot_escape.jpg
 image_description: "A close-up photo showing a small, shiny, silver liquid metal robot in a semi-liquid state squeezing through thin vertical bars of a cage, illustrating its shape-shifting ability. The robot has a smooth, reflective surface, resembling a tiny metallic blob in motion."
-comments: true
+comments: false
 ---
 
 ![A liquid metal robot morphs to slip through jail bars, inspired by the T-1000 from Terminator 2[1][4].](/assets/images/liquid_metal_robot_escape.jpg)

@@ -5,7 +5,7 @@ categories: [Science & Technology]
 tags: ["Leonardo da Vinci", "Inventions", "Renaissance", "Science History", "Engineering", "Teen Science"]
 image_name: da-vinci-notebooks.jpg
 image_description: "A colorful, high-resolution image showing an open page from one of Leonardo da Vinci’s notebooks, filled with detailed sketches of flying machines, gears, and anatomical drawings. The background features a mix of Renaissance art tools and modern tech gadgets, highlighting the bridge between past and future."
-comments: true
+comments: false
 ---
 
 ![Leonardo da Vinci’s notebooks are packed with ideas that were centuries ahead of their time—some lost to history, others inspiring inventors even today.](/assets/images/da-vinci-notebooks.jpg)

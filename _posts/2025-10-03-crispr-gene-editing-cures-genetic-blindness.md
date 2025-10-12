@@ -5,7 +5,7 @@ categories: [Science & Technology]
 tags: ["CRISPR", "gene editing", "genetic blindness", "Leber Congenital Amaurosis", "biotechnology"]
 image_name: crispr_gene_editing_eye_trial.jpg
 image_description: "A close-up photo of a human eye with a digital overlay showing DNA strands and a CRISPR gene-editing tool targeting a gene, symbolizing the gene therapy being applied to treat inherited blindness."
-comments: true
+comments: false
 ---
 
 ![CRISPR gene editing being used to repair genetic mutations in the retina to restore vision.](/assets/images/crispr_gene_editing_eye_trial.jpg)

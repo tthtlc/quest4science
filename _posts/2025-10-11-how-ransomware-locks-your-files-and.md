@@ -5,7 +5,7 @@ categories: [Technology & Cybersecurity]
 tags: ["ransomware", "cybersecurity", "encryption", "technology", "teens", "malware"]
 image_name: ransomware_locking_files.jpg
 image_description: "A colorful digital illustration showing a computer screen with files turning into digital locks, surrounded by a hacker silhouette demanding cryptocurrency, symbolizing ransomware encrypting files and demanding ransom."
-comments: true
+comments: false
 ---
 
 ![Ransomware encrypts your files and demands money to unlock them, acting like a digital kidnapper.](/assets/images/ransomware_locking_files.jpg)

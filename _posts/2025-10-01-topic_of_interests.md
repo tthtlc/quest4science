@@ -3,7 +3,7 @@ title: "**Plants That 'Talk' Underground: The Secret World of Fungal Networks**"
 date: 2025-10-01 08:23:56 +08:00
 categories: biology
 tags: [plants, that, talk, through]
-comments: true
+comments: false
 ---
 
 *How trees and plants use a hidden internet beneath our feet to share news, food, and even warnings*

@@ -5,7 +5,7 @@ categories: [Science / Chemistry]
 tags: ["superacid", "chemistry", "acid-strength", "science-for-teens", "fluoroantimonic-acid"]
 image_name: superacid_melting_glass.jpg
 image_description: "A dramatic, close-up photo showing a glass beaker partially dissolved or etched by a glowing, colorful liquid representing a superacid. Vapor and small bubbles rise from the surface, emphasizing the extreme reactivity of the acid. The background is a dark laboratory setting to highlight the bright acid."
-comments: true
+comments: false
 ---
 
 ![Superacids, like fluoroantimonic acid, are so powerful they can dissolve glass, a feat unimaginable for ordinary acids.](/assets/images/superacid_melting_glass.jpg)

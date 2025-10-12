@@ -5,7 +5,7 @@ categories: [Science & Technology]
 tags: ["brain-computer interface", "neuroscience", "technology", "mind uploading", "future tech"]
 image_name: brain_computer_interface_concept.jpg
 image_description: "A futuristic, vibrant illustration showing a human head with half of the brain digitally scanning or transforming into glowing data streams flowing into a computer or cloud, symbolizing brain-computer interface and brain uploading concepts."
-comments: true
+comments: false
 ---
 
 ![An artistic impression of the brain’s electrical signals being uploaded to a computer, illustrating the idea of brain-computer interfaces and mind uploading.](/assets/images/brain_computer_interface_concept.jpg)

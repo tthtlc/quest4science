@@ -5,7 +5,7 @@ categories: [Technology & Science]
 tags: ["self-driving cars", "artificial intelligence", "technology", "machine learning", "autonomous vehicles", "teen science"]
 image_name: self-driving-car-sensor-data.jpg
 image_description: "A sleek self-driving car equipped with sensors like LiDAR and cameras driving on a busy city street, with digital overlays showing data points and maps illustrating how the car 'sees' its surroundings."
-comments: true
+comments: false
 ---
 
 ![Self-driving cars use sensors and data collected from millions of miles to learn how to navigate safely.](/assets/images/self-driving-car-sensor-data.jpg)

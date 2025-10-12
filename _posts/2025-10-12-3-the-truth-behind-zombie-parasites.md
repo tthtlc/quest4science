@@ -5,7 +5,7 @@ categories: [Science / Biology]
 tags: ["parasites", "zombie animals", "biology", "neuroscience", "wildlife", "science education"]
 image_name: cordyceps_ant_infection.jpg
 image_description: "A close-up photo of an ant clamping onto a leaf with the characteristic fungal growth of cordyceps emerging from its head, illustrating how the parasite controls the ant's body to spread its spores."
-comments: true
+comments: false
 ---
 
 ![An ant infected by the 'zombie' fungus Cordyceps, which hijacks its brain to spread fungal spores.](/assets/images/cordyceps_ant_infection.jpg)

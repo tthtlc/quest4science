@@ -5,7 +5,7 @@ categories: [Science & Nature]
 tags: ["physics", "ice", "water", "science mysteries", "teen science"]
 image_name: ice-surface-closeup.jpg
 image_description: "A highly magnified, colorful image showing the jagged, hexagonal structure of an ice crystal surface, with a shimmering, thin layer of water molecules at the very top, highlighting the boundary between solid ice and the slippery, liquid-like layer."
-comments: true
+comments: false
 ---
 
 ![A microscopic view of ice’s surface reveals a thin, slippery layer of water—even below freezing—that helps explain why ice is so slick.](/assets/images/ice-surface-closeup.jpg)

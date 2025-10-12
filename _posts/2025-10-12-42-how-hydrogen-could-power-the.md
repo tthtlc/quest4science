@@ -5,7 +5,7 @@ categories: [Science & Technology]
 tags: ["hydrogen", "clean energy", "fuel cell", "renewable", "future tech", "climate solution"]
 image_name: hydrogen-fuel-cell-future-city.jpg
 image_description: "A vibrant, futuristic cityscape under a clear blue sky, with sleek hydrogen-powered buses, cars, and trains moving smoothly along wide streets. In the foreground, a transparent cutaway of a hydrogen fuel cell shows the flow of hydrogen and oxygen, with water vapor gently escaping. Solar panels and wind turbines dot the horizon, symbolizing renewable energy sources for hydrogen production."
-comments: true
+comments: false
 ---
 
 ![Imagine a city where cars, buses, and even skyscrapers run on clean hydrogen—water is the only exhaust!](/assets/images/hydrogen-fuel-cell-future-city.jpg)

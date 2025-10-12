@@ -5,7 +5,7 @@ categories: [Science & Nature]
 tags: ["octopus", "alien life", "marine biology", "evolution", "intelligence"]
 image_name: octopus-alien-earth.jpg
 image_description: "A vibrant underwater photograph of a common octopus (Octopus vulgaris) displaying its complex skin texture and color-changing abilities while extending multiple arms, surrounded by coral and blue ocean water."
-comments: true
+comments: false
 ---
 
 ![The octopus’s incredible camouflage and unique body make it look almost alien — but its true mystery lies beneath the surface.](/assets/images/octopus-alien-earth.jpg)

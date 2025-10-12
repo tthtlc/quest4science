@@ -5,7 +5,7 @@ categories: [Science Education]
 tags: ["chemistry", "periodic table", "elements", "science education", "chemical reactions"]
 image_name: mixed_elements_explosion.jpg
 image_description: "A dynamic, colorful artistic illustration showing a chaotic explosion of atoms and molecules, with various elements' symbols (like H, O, Fe, Au) swirling and reacting in a fiery mix, symbolizing the intense chemical interactions when all elements are combined."
-comments: true
+comments: false
 ---
 
 ![Imagine mixing every element on the periodic table—what kind of chemical fireworks would you get?](/assets/images/mixed_elements_explosion.jpg)

@@ -5,7 +5,7 @@ categories: [Science Education]
 tags: ["fungi", "mycorrhiza", "forest ecology", "wood-wide-web", "science education"]
 image_name: wood-wide-web-fungi-network.jpg
 image_description: "A vibrant cross-sectional illustration of a forest floor showing tree roots interconnected by delicate, glowing fungal hyphae forming an underground network that links multiple trees of different species. Nutrient flow is depicted as glowing lines moving through the fungi, and small icons represent chemical signals moving between trees."
-comments: true
+comments: false
 ---
 
 ![The 'Wood-Wide Web' connects trees underground through fungal networks, enabling communication and nutrient sharing across forests.](/assets/images/wood-wide-web-fungi-network.jpg)

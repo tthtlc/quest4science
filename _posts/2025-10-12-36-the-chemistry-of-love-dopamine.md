@@ -5,7 +5,7 @@ categories: [Science / Neuroscience]
 tags: ["love", "neuroscience", "dopamine", "oxytocin", "teen science", "brain chemistry"]
 image_name: brain-love-chemistry.jpg
 image_description: "A vibrant illustration showing a human brain with highlighted areas glowing in warm colors like red and pink, depicting neural activity linked to feelings of love. Around the brain, molecules representing dopamine and oxytocin float, symbolizing their role in attraction and bonding."
-comments: true
+comments: false
 ---
 
 ![Brain activity during love lights up reward and bonding centers, driven by dopamine and oxytocin.](/assets/images/brain-love-chemistry.jpg)
