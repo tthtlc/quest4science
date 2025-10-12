@@ -8,7 +8,6 @@ image_description: "A close-up photo showing a small, shiny, silver liquid metal
 comments: true
 ---
 
-
 ![A liquid metal robot morphs to slip through jail bars, inspired by the T-1000 from Terminator 2[1][4].](/assets/images/liquid_metal_robot_escape.jpg)
 *A liquid metal robot morphs to slip through jail bars, inspired by the T-1000 from Terminator 2[1][4].*
 
@@ -19,7 +18,7 @@ comments: true
 
 ### How robots that flow like liquid could change the world
 
-*By Science Explorer*
+*By Peter Teoh, Science Writer*
 
 ### Introduction
 Imagine a robot that can melt, flow through tiny cracks, and then solidify again into any shape it wants. Sounds like science fiction? Thanks to recent breakthroughs in liquid metal technology, this futuristic idea is closer than you think. Scientists are building robots that can shift between solid and liquid states, opening up exciting possibilities in medicine, manufacturing, and beyond.

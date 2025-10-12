@@ -8,7 +8,6 @@ image_description: "A dimly lit laboratory table featuring various glow-in-the-d
 comments: true
 ---
 
-
 ![Glow-in-the-dark materials come to life in the lab, showing off the magic of luminescence.](/assets/images/glowing-materials-lab.jpg)
 *Glow-in-the-dark materials come to life in the lab, showing off the magic of luminescence.*
 

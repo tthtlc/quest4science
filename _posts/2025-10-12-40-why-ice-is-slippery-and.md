@@ -8,7 +8,6 @@ image_description: "A highly magnified, colorful image showing the jagged, hexag
 comments: true
 ---
 
-
 ![A microscopic view of ice’s surface reveals a thin, slippery layer of water—even below freezing—that helps explain why ice is so slick.](/assets/images/ice-surface-closeup.jpg)
 *A microscopic view of ice’s surface reveals a thin, slippery layer of water—even below freezing—that helps explain why ice is so slick.*
 

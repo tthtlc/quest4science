@@ -8,7 +8,6 @@ image_description: "A vibrant illustration showing a human brain with highlighte
 comments: true
 ---
 
-
 ![Brain activity during love lights up reward and bonding centers, driven by dopamine and oxytocin.](/assets/images/brain-love-chemistry.jpg)
 *Brain activity during love lights up reward and bonding centers, driven by dopamine and oxytocin.*
 

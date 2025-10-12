@@ -19,7 +19,7 @@ comments: true
 
 ## How a Groundbreaking Technology Is Changing Vision for the Better
 
-*By Science Writer*
+*By Peter Teoh, Science Writer*
 
 Imagine a world where scientists can fix broken genes just like fixing a typo in a text message. Thanks to CRISPR, a powerful gene-editing tool, that world is becoming real — especially for people born with genetic blindness.
 

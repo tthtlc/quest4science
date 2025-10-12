@@ -8,7 +8,6 @@ image_description: "A vibrant, futuristic cityscape under a clear blue sky, with
 comments: true
 ---
 
-
 ![Imagine a city where cars, buses, and even skyscrapers run on clean hydrogen—water is the only exhaust!](/assets/images/hydrogen-fuel-cell-future-city.jpg)
 *Imagine a city where cars, buses, and even skyscrapers run on clean hydrogen—water is the only exhaust!*
 

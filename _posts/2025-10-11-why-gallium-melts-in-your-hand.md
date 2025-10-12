@@ -8,7 +8,6 @@ image_description: "A close-up photo showing a shiny, silvery piece of gallium m
 comments: true
 ---
 
-
 ![Gallium metal melting in the warmth of a human hand, demonstrating its unique low melting point.](/assets/images/gallium_melting_in_hand.jpg)
 *Gallium metal melting in the warmth of a human hand, demonstrating its unique low melting point.*
 
@@ -19,7 +18,7 @@ comments: true
 
 ## The cool metal that melts like ice
 
-*By Science Writer*
+*By Peter Teoh, Science Writer*
 
 Have you ever held a small piece of metal and watched it slowly melt right in your hand? Sounds like magic, but it’s actually science—and the metal is called gallium. Unlike most metals, gallium is a soft, silvery metal that melts at just about 30°C (86°F), just below or around the temperature of your own body. That means when you hold gallium, your body heat is enough to turn it from solid to liquid!
 

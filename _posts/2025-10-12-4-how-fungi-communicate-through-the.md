@@ -8,7 +8,6 @@ image_description: "A vibrant cross-sectional illustration of a forest floor sho
 comments: true
 ---
 
-
 ![The 'Wood-Wide Web' connects trees underground through fungal networks, enabling communication and nutrient sharing across forests.](/assets/images/wood-wide-web-fungi-network.jpg)
 *The 'Wood-Wide Web' connects trees underground through fungal networks, enabling communication and nutrient sharing across forests.*
 
@@ -19,7 +18,7 @@ comments: true
 
 ## Discover the secret underground network that links trees like never before
 
-*By Peter Teoh*
+*By Peter Teoh, Science Writer*
 
 Imagine a secret internet beneath the forest floor, where trees send messages, share food, and warn each other about dangers. This isn’t science fiction—it’s the fascinating reality of the **Wood-Wide Web**, an underground network of fungi connecting trees and plants in forests worldwide.
 

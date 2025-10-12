@@ -8,7 +8,6 @@ image_description: "A vibrant illustration showing a DNA double helix being prec
 comments: true
 ---
 
-
 ![CRISPR gene editing holds the promise to change DNA with precision, raising hopes and questions about designing human traits.](/assets/images/crispr_gene_editing_baby_dna.jpg)
 *CRISPR gene editing holds the promise to change DNA with precision, raising hopes and questions about designing human traits.*
 

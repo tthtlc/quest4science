@@ -8,12 +8,10 @@ image_description: "A high-tech laboratory setting showing scientists working wi
 comments: true
 ---
 
-
 ![Scientists use gene-editing tools to modify pig embryos, opening doors to growing human-compatible organs inside pigs.](/assets/images/pig-organ-lab-research.jpg)
 *Scientists use gene-editing tools to modify pig embryos, opening doors to growing human-compatible organs inside pigs.*
 
 <!-- Image Description: A high-tech laboratory setting showing scientists working with genetically edited pig embryos and advanced gene-editing tools like CRISPR, alongside computer screens displaying DNA sequences. -->
-
 
 # Can We Grow Human Organs Inside Pigs?
 

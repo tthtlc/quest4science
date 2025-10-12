@@ -8,7 +8,6 @@ image_description: "An artistic illustration showing a human body transitioning 
 comments: true
 ---
 
-
 ![Visualizing the molecular breakdown of the human body after death — from living cells to decomposition.](/assets/images/molecular_decomposition_process.jpg)
 *Visualizing the molecular breakdown of the human body after death — from living cells to decomposition.*
 

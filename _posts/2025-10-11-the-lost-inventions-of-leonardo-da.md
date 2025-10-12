@@ -8,7 +8,6 @@ image_description: "A colorful, high-resolution image showing an open page from 
 comments: true
 ---
 
-
 ![Leonardo da Vinci’s notebooks are packed with ideas that were centuries ahead of their time—some lost to history, others inspiring inventors even today.](/assets/images/da-vinci-notebooks.jpg)
 *Leonardo da Vinci’s notebooks are packed with ideas that were centuries ahead of their time—some lost to history, others inspiring inventors even today.*
 

@@ -8,7 +8,6 @@ image_description: "A sleek self-driving car equipped with sensors like LiDAR an
 comments: true
 ---
 
-
 ![Self-driving cars use sensors and data collected from millions of miles to learn how to navigate safely.](/assets/images/self-driving-car-sensor-data.jpg)
 *Self-driving cars use sensors and data collected from millions of miles to learn how to navigate safely.*
 

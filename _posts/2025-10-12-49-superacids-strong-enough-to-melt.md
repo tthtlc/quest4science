@@ -8,7 +8,6 @@ image_description: "A dramatic, close-up photo showing a glass beaker partially 
 comments: true
 ---
 
-
 ![Superacids, like fluoroantimonic acid, are so powerful they can dissolve glass, a feat unimaginable for ordinary acids.](/assets/images/superacid_melting_glass.jpg)
 *Superacids, like fluoroantimonic acid, are so powerful they can dissolve glass, a feat unimaginable for ordinary acids.*
 
