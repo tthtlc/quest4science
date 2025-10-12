@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-![Self-driving cars use sensors and data collected from millions of miles to learn how to navigate safely.](/assets/images/Technology & Science/self-driving-car-sensor-data.jpg)
+![Self-driving cars use sensors and data collected from millions of miles to learn how to navigate safely.](/assets/images/self-driving-car-sensor-data.jpg)
 *Self-driving cars use sensors and data collected from millions of miles to learn how to navigate safely.*
 
 <!-- Image Description: A sleek self-driving car equipped with sensors like LiDAR and cameras driving on a busy city street, with digital overlays showing data points and maps illustrating how the car 'sees' its surroundings. -->

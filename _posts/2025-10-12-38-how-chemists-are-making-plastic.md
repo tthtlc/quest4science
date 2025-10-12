@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-![Scientists at UC San Diego develop innovative plastic that can break down itself using natural microbes.](/assets/images/Science & Technology/self_recycling_plastic_research_lab.jpg)
+![Scientists at UC San Diego develop innovative plastic that can break down itself using natural microbes.](/assets/images/self_recycling_plastic_research_lab.jpg)
 *Scientists at UC San Diego develop innovative plastic that can break down itself using natural microbes.*
 
 <!-- Image Description: A close-up photo of a scientist in a laboratory setting holding a flexible, transparent sample of self-recycling plastic, with microscopes and chemical equipment in the background. -->

@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-![The octopus’s incredible camouflage and unique body make it look almost alien — but its true mystery lies beneath the surface.](/assets/images/Science & Nature/octopus-alien-earth.jpg)
+![The octopus’s incredible camouflage and unique body make it look almost alien — but its true mystery lies beneath the surface.](/assets/images/octopus-alien-earth.jpg)
 *The octopus’s incredible camouflage and unique body make it look almost alien — but its true mystery lies beneath the surface.*
 
 <!-- Image Description: A vibrant underwater photograph of a common octopus (Octopus vulgaris) displaying its complex skin texture and color-changing abilities while extending multiple arms, surrounded by coral and blue ocean water. -->

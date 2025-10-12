@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-![CRISPR gene editing holds the promise to change DNA with precision, raising hopes and questions about designing human traits.](/assets/images/Science & Technology/crispr_gene_editing_baby_dna.jpg)
+![CRISPR gene editing holds the promise to change DNA with precision, raising hopes and questions about designing human traits.](/assets/images/crispr_gene_editing_baby_dna.jpg)
 *CRISPR gene editing holds the promise to change DNA with precision, raising hopes and questions about designing human traits.*
 
 <!-- Image Description: A vibrant illustration showing a DNA double helix being precisely edited by molecular scissors labeled CRISPR, with a softly glowing baby silhouette in the background symbolizing gene editing's impact on future humans. -->

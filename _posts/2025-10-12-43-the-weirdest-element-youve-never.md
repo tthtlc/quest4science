@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-![Astatine, element 85, is the rarest naturally occurring element on Earth and one of the most mysterious members of the halogen family.](/assets/images/Science Education/astatine_element_visualization.jpg)
+![Astatine, element 85, is the rarest naturally occurring element on Earth and one of the most mysterious members of the halogen family.](/assets/images/astatine_element_visualization.jpg)
 *Astatine, element 85, is the rarest naturally occurring element on Earth and one of the most mysterious members of the halogen family.*
 
 <!-- Image Description: A stylized digital illustration showing a dark, lustrous sample of astatine glowing faintly with a radioactive symbol overlay, accompanied by a periodic table highlighting element 85 in the halogen group. The background subtly features a laboratory setting with nuclear research equipment. -->

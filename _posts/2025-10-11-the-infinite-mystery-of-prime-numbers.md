@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-![Prime numbers are the building blocks of all numbers, stretching into infinity without a clear pattern.](/assets/images/Science & Math/infinite_primes_visual.jpg)
+![Prime numbers are the building blocks of all numbers, stretching into infinity without a clear pattern.](/assets/images/infinite_primes_visual.jpg)
 *Prime numbers are the building blocks of all numbers, stretching into infinity without a clear pattern.*
 
 <!-- Image Description: A colorful spiral of numbers stretching infinitely outward, highlighting prime numbers in bright colors among other numbers fading into the distance, symbolizing the endless and mysterious nature of primes. -->

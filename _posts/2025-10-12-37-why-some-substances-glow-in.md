@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-![Glow-in-the-dark materials come to life in the lab, showing off the magic of luminescence.](/assets/images/Science & Technology/glowing-materials-lab.jpg)
+![Glow-in-the-dark materials come to life in the lab, showing off the magic of luminescence.](/assets/images/glowing-materials-lab.jpg)
 *Glow-in-the-dark materials come to life in the lab, showing off the magic of luminescence.*
 
 <!-- Image Description: A dimly lit laboratory table featuring various glow-in-the-dark objects—stars, a bracelet, a glow stick, and a beaker of tonic water under a black light—each emitting a soft, colorful glow. A pair of hands in protective gloves is placing a glowing star on a dark surface, emphasizing the contrast between the glowing objects and the surrounding darkness. -->

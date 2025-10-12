@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-![A microscopic view of ice’s surface reveals a thin, slippery layer of water—even below freezing—that helps explain why ice is so slick.](/assets/images/Science & Nature/ice-surface-closeup.jpg)
+![A microscopic view of ice’s surface reveals a thin, slippery layer of water—even below freezing—that helps explain why ice is so slick.](/assets/images/ice-surface-closeup.jpg)
 *A microscopic view of ice’s surface reveals a thin, slippery layer of water—even below freezing—that helps explain why ice is so slick.*
 
 <!-- Image Description: A highly magnified, colorful image showing the jagged, hexagonal structure of an ice crystal surface, with a shimmering, thin layer of water molecules at the very top, highlighting the boundary between solid ice and the slippery, liquid-like layer. -->

@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-![Imagine mixing every element on the periodic table—what kind of chemical fireworks would you get?](/assets/images/Science Education/mixed_elements_explosion.jpg)
+![Imagine mixing every element on the periodic table—what kind of chemical fireworks would you get?](/assets/images/mixed_elements_explosion.jpg)
 *Imagine mixing every element on the periodic table—what kind of chemical fireworks would you get?*
 
 <!-- Image Description: A dynamic, colorful artistic illustration showing a chaotic explosion of atoms and molecules, with various elements' symbols (like H, O, Fe, Au) swirling and reacting in a fiery mix, symbolizing the intense chemical interactions when all elements are combined. -->

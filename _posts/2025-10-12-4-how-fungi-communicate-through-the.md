@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-![The 'Wood-Wide Web' connects trees underground through fungal networks, enabling communication and nutrient sharing across forests.](/assets/images/Science Education/wood-wide-web-fungi-network.jpg)
+![The 'Wood-Wide Web' connects trees underground through fungal networks, enabling communication and nutrient sharing across forests.](/assets/images/wood-wide-web-fungi-network.jpg)
 *The 'Wood-Wide Web' connects trees underground through fungal networks, enabling communication and nutrient sharing across forests.*
 
 <!-- Image Description: A vibrant cross-sectional illustration of a forest floor showing tree roots interconnected by delicate, glowing fungal hyphae forming an underground network that links multiple trees of different species. Nutrient flow is depicted as glowing lines moving through the fungi, and small icons represent chemical signals moving between trees. -->

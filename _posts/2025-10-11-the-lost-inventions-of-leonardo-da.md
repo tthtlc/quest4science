@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-![Leonardo da Vinci’s notebooks are packed with ideas that were centuries ahead of their time—some lost to history, others inspiring inventors even today.](/assets/images/Science & Technology/da-vinci-notebooks.jpg)
+![Leonardo da Vinci’s notebooks are packed with ideas that were centuries ahead of their time—some lost to history, others inspiring inventors even today.](/assets/images/da-vinci-notebooks.jpg)
 *Leonardo da Vinci’s notebooks are packed with ideas that were centuries ahead of their time—some lost to history, others inspiring inventors even today.*
 
 <!-- Image Description: A colorful, high-resolution image showing an open page from one of Leonardo da Vinci’s notebooks, filled with detailed sketches of flying machines, gears, and anatomical drawings. The background features a mix of Renaissance art tools and modern tech gadgets, highlighting the bridge between past and future. -->

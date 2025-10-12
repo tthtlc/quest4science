@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-![An ant infected by the 'zombie' fungus Cordyceps, which hijacks its brain to spread fungal spores.](/assets/images/Science / Biology/cordyceps_ant_infection.jpg)
+![An ant infected by the 'zombie' fungus Cordyceps, which hijacks its brain to spread fungal spores.](/assets/images/cordyceps_ant_infection.jpg)
 *An ant infected by the 'zombie' fungus Cordyceps, which hijacks its brain to spread fungal spores.*
 
 <!-- Image Description: A close-up photo of an ant clamping onto a leaf with the characteristic fungal growth of cordyceps emerging from its head, illustrating how the parasite controls the ant's body to spread its spores. -->

@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-![Early Earth was a dynamic place where simple molecules combined under the right conditions to create the building blocks of life.](/assets/images/Science / Origins of Life/early_earth_molecules_life.jpg)
+![Early Earth was a dynamic place where simple molecules combined under the right conditions to create the building blocks of life.](/assets/images/early_earth_molecules_life.jpg)
 *Early Earth was a dynamic place where simple molecules combined under the right conditions to create the building blocks of life.*
 
 <!-- Image Description: A colorful artistic illustration of early Earth’s surface showing a primitive ocean with volcanic islands, comets and meteorites raining down, and simple molecules like hydrogen cyanide and amino acids forming in the water under UV sunlight. -->

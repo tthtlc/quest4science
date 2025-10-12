@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-![Gallium metal melting in the warmth of a human hand, demonstrating its unique low melting point.](/assets/images/Science for Teens/gallium_melting_in_hand.jpg)
+![Gallium metal melting in the warmth of a human hand, demonstrating its unique low melting point.](/assets/images/gallium_melting_in_hand.jpg)
 *Gallium metal melting in the warmth of a human hand, demonstrating its unique low melting point.*
 
 <!-- Image Description: A close-up photo showing a shiny, silvery piece of gallium metal melting into a small reflective puddle in the palm of a teenager’s hand, with warm skin tones contrasting the bright metal. -->

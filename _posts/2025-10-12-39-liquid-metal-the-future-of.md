@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-![A liquid metal robot morphs to slip through jail bars, inspired by the T-1000 from Terminator 2[1][4].](/assets/images/Science & Technology/liquid_metal_robot_escape.jpg)
+![A liquid metal robot morphs to slip through jail bars, inspired by the T-1000 from Terminator 2[1][4].](/assets/images/liquid_metal_robot_escape.jpg)
 *A liquid metal robot morphs to slip through jail bars, inspired by the T-1000 from Terminator 2[1][4].*
 
 <!-- Image Description: A close-up photo showing a small, shiny, silver liquid metal robot in a semi-liquid state squeezing through thin vertical bars of a cage, illustrating its shape-shifting ability. The robot has a smooth, reflective surface, resembling a tiny metallic blob in motion. -->
