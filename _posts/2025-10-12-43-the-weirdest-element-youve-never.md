@@ -13,9 +13,6 @@ comments: true
 
 <!-- Image Description: A stylized digital illustration showing a dark, lustrous sample of astatine glowing faintly with a radioactive symbol overlay, accompanied by a periodic table highlighting element 85 in the halogen group. The background subtly features a laboratory setting with nuclear research equipment. -->
 
-
-### The Weirdest Element You’ve Never Heard Of: Astatine
-
 *By Peter Teoh, Science Writer*
 
 **Introduction**
