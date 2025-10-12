@@ -13,20 +13,14 @@ comments: false
 
 <!-- Image Description: A vibrant, futuristic cityscape under a clear blue sky, with sleek hydrogen-powered buses, cars, and trains moving smoothly along wide streets. In the foreground, a transparent cutaway of a hydrogen fuel cell shows the flow of hydrogen and oxygen, with water vapor gently escaping. Solar panels and wind turbines dot the horizon, symbolizing renewable energy sources for hydrogen production. -->
 
-
-## Headline
 **Hydrogen: The Invisible Fuel That Could Run the World**
 
-## Subheadline
 **What if the key to a pollution-free planet was the most common element in the universe?**
 
-## Byline
-By Peter Teoh, Science Writer
+*By Peter Teoh, Science Writer*
 
-## Introduction Paragraph
 Picture a world where cars don’t puff out smoke, factories don’t cloud the sky, and the only thing coming out of tailpipes is pure water. Sounds like science fiction? It’s not. Meet hydrogen—the simplest, lightest, and most abundant element in the cosmos. Scientists and engineers believe hydrogen could be the superstar of clean energy, powering everything from your phone to entire cities. But how does it work? And could it really replace fossil fuels? Let’s dive in.
 
-## Main Body
 ### What Is Hydrogen, Anyway?
 Hydrogen is the first element on the periodic table. It’s everywhere—in water, in the air, even in your body. But here’s the catch: hydrogen almost never exists alone in nature. It’s usually stuck to other atoms, like oxygen in water (H₂O). To use hydrogen as fuel, we have to “free” it from these molecules, which takes energy. The big idea? Use clean energy (like wind or solar) to make hydrogen, then use that hydrogen to power stuff—with zero pollution.
 
@@ -41,7 +35,6 @@ Right now, most hydrogen is made from natural gas, which isn’t exactly green. 
 
 But there are challenges. Storing and transporting hydrogen isn’t easy—it’s super light and likes to escape. Fuel cells and hydrogen tanks are still expensive. And we’d need a massive build-out of renewable energy to make enough green hydrogen. Still, countries and companies are racing to solve these problems, with hydrogen buses, trucks, and even airplanes already in testing[1][4].
 
-## Closing Paragraph
 Hydrogen isn’t a magic bullet, but it’s a serious contender in the race to save the planet. With smart science, bold engineering, and a lot of clean energy, hydrogen could help us kick our fossil fuel habit for good. The future might just be a breath of fresh (hydrogen-powered) air.
 
 ## Side Notes
