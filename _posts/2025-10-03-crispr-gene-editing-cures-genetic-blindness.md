@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-![CRISPR gene editing being used to repair genetic mutations in the retina to restore vision.](/assets/images/Science & Technology/crispr_gene_editing_eye_trial.jpg)
+![CRISPR gene editing being used to repair genetic mutations in the retina to restore vision.](/assets/images/crispr_gene_editing_eye_trial.jpg)
 *CRISPR gene editing being used to repair genetic mutations in the retina to restore vision.*
 
 <!-- Image Description: A close-up photo of a human eye with a digital overlay showing DNA strands and a CRISPR gene-editing tool targeting a gene, symbolizing the gene therapy being applied to treat inherited blindness. -->

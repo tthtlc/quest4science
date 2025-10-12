@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-![A black hole ‘burping’ leftover star material years after swallowing it, shooting out jets of glowing light at near half the speed of light.](/assets/images/Astronomy & Space Science/blackhole_burping_starlight.jpg)
+![A black hole ‘burping’ leftover star material years after swallowing it, shooting out jets of glowing light at near half the speed of light.](/assets/images/blackhole_burping_starlight.jpg)
 *A black hole ‘burping’ leftover star material years after swallowing it, shooting out jets of glowing light at near half the speed of light.*
 
 <!-- Image Description: An artistic illustration showing a black hole at the center with bright jets of material shooting out from around its edges. Surrounding the black hole is a glowing disk of shredded star material being pulled inward, while streams of light and particles burst outward, symbolizing the 'burping' phenomenon. -->
