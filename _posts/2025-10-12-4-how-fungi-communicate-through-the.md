@@ -19,7 +19,7 @@ comments: true
 
 ## Discover the secret underground network that links trees like never before
 
-*By [Your Name]*
+*By Peter Teoh*
 
 Imagine a secret internet beneath the forest floor, where trees send messages, share food, and warn each other about dangers. This isn’t science fiction—it’s the fascinating reality of the **Wood-Wide Web**, an underground network of fungi connecting trees and plants in forests worldwide.
 

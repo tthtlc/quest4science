@@ -19,7 +19,7 @@ comments: true
 
 ### Unlocking the Blueprint of Life, One Gene at a Time
 
-**By [Your Name]**
+**By Peter Teoh**
 
 Imagine a world where babies could be designed with the best traits: no genetic diseases, perfect eyesight, maybe even enhanced intelligence or athleticism. This idea, once the stuff of science fiction, is now edging closer to reality thanks to a powerful gene-editing tool called CRISPR. But how close are we really to designing humans? Let’s dive into the story of CRISPR babies and the science behind them.
 
