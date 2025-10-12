@@ -113,8 +113,8 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "Peter Teoh"
+#author:
+#  name             : "Peter Teoh"
 #  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
 #  bio              : "Explorer in Science and Technology"
 #  location         : "Singapore"
