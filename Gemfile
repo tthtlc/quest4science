@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 gemspec
 
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 4.3"
 gem "rake"
 
 gem "tzinfo-data"
