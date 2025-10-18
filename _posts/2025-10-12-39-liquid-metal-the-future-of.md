@@ -19,7 +19,7 @@ comments: true
 
 ### How robots that flow like liquid could change the world
 
-*By Science Explorer*
+*By Peter Teoh, Science Writer*
 
 ### Introduction
 Imagine a robot that can melt, flow through tiny cracks, and then solidify again into any shape it wants. Sounds like science fiction? Thanks to recent breakthroughs in liquid metal technology, this futuristic idea is closer than you think. Scientists are building robots that can shift between solid and liquid states, opening up exciting possibilities in medicine, manufacturing, and beyond.

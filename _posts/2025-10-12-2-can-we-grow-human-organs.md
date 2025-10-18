@@ -19,7 +19,7 @@ comments: true
 
 ## Exploring the Science of Growing Human Organs in Pigs
 
-*By Perplexity Science Writer*
+*By Peter Teoh, Science Writer*
 
 ### Introduction
 

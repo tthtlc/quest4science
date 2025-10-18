@@ -19,7 +19,7 @@ comments: true
 
 ## How simple molecules sparked the origin of life
 
-*By Science Writer*
+*By Peter Teoh, Science Writer*
 
 Imagine a world nearly 4 billion years ago, long before plants, animals, or even tiny microbes existed. The Earth was a harsh place—volcanoes erupted, comets crashed, and ultraviolet rays blasted its surface. Yet, in this chaotic environment, the first molecules that would eventually lead to life began to form. But what were these molecules, and how did they come together to make life possible? Let’s explore the fascinating story of the molecules that kickstarted life on early Earth.
 

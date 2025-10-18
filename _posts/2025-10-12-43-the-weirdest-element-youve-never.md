@@ -17,7 +17,7 @@ comments: true
 
 ### The Weirdest Element You’ve Never Heard Of: Astatine
 
-*By Science Writer*
+*By Peter Teoh, Science Writer*
 
 **Introduction**
 Imagine an element so rare that only about 25 grams exist naturally on Earth at any time. Astatine, the 85th element on the periodic table, is just that — a mysterious, radioactive halogen that barely makes an appearance in nature but sparks big questions about chemistry and physics. Let’s dive into the story of this elusive element, why it’s so weird, and what makes it fascinating for scientists and curious minds alike.

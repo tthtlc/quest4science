@@ -19,7 +19,7 @@ comments: true
 
 ## Exploring the Science Behind Mind Uploading and Brain-Computer Interfaces
 
-*By Peter Teoh*
+*By Peter Teoh, Science Writer*
 
 Imagine if you could save your thoughts, memories, and even your personality like a file on a computer. Could we one day upload our brains to a computer and live forever in a digital world? It sounds like sci-fi, but scientists are exploring technologies that bring us closer to this idea than ever before.
 

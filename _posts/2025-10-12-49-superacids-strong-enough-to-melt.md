@@ -19,7 +19,8 @@ comments: true
 
 #### The hidden power beyond ordinary acids
 
-##### By Peter Teoh, Science Writer
+*By Peter Teoh, Science Writer*
+
 
 Imagine an acid so strong it can eat through glass, the material that usually protects us from dangerous chemicals. Welcome to the fascinating world of **superacids** — acids that are millions to billions of times stronger than sulfuric acid, one of the strongest acids you probably already know.
 

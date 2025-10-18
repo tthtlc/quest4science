@@ -18,7 +18,7 @@ comments: true
 
 **What if the key to a pollution-free planet was the most common element in the universe?**
 
-By Peter Teoh, Science Writer
+*By Peter Teoh, Science Writer*
 
 Picture a world where cars don’t puff out smoke, factories don’t cloud the sky, and the only thing coming out of tailpipes is pure water. Sounds like science fiction? It’s not. Meet hydrogen—the simplest, lightest, and most abundant element in the cosmos. Scientists and engineers believe hydrogen could be the superstar of clean energy, powering everything from your phone to entire cities. But how does it work? And could it really replace fossil fuels? Let’s dive in.
 

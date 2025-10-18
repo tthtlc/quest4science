@@ -19,7 +19,7 @@ comments: true
 
 ## Exploring the invisible chemistry behind life’s final moments
 
-*By Science Explorer*
+*By Peter Teoh, Science Writer*
 
 ### Introduction
 

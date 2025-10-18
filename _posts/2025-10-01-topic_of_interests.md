@@ -10,7 +10,7 @@ comments: true
 
 ![Invisible to the eye, fungal networks connect plant roots underground, forming a natural communication web scientists call the "Wood Wide Web."](/assets/images/forest_fungi.png)
 
-By Peter Teoh,
+*By Peter Teoh, Science Writer*
 ---
 
 Have you ever thought plants might be chatting with each other? It sounds like something out of a sci-fi movie, but beneath the soil, plants are connected by vast underground networks of fungi that let them send messages, share nutrients, and even warn each other of danger. This secret communication system is sometimes called the "Wood Wide Web," and it’s changing how scientists understand life in forests and gardens.

@@ -19,7 +19,7 @@ comments: true
 
 ### Shedding Light on the Glow
 
-**By Jamie Science**
+*By Peter Teoh, Science Writer*
 
 Ever wondered why your glow-in-the-dark stars stick around long after you’ve turned off the lights? Or what’s inside a glow stick that makes it shine at a concert? The answer lies in a cool scientific phenomenon called **luminescence**—the ability of certain materials to give off light without getting hot. Unlike a light bulb or the sun, which glow because they’re super hot, luminescent materials shine without the heat, and the science behind it is both fascinating and surprisingly accessible[1][2].
 

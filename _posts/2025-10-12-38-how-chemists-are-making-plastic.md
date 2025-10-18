@@ -19,7 +19,7 @@ comments: true
 
 *The future of plastic waste could be a world where plastics disappear on their own — thanks to clever chemistry and nature’s tiny helpers.*
 
-**By Science Writer**
+*By Peter Teoh, Science Writer*
 
 Imagine a plastic bottle that doesn’t stick around for hundreds of years in a landfill or ocean. Instead, it breaks itself down naturally, disappearing in just a few months. This sounds like science fiction, but chemists today are making plastics that can literally "eat themselves" — a breakthrough that could change how we handle plastic pollution forever.
 

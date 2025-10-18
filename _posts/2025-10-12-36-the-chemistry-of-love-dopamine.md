@@ -17,7 +17,7 @@ comments: true
 
 ## The Chemistry of Love: Dopamine, Oxytocin, and Attraction
 
-*By Peter Teoh*
+*By Peter Teoh, Science Writer*
 
 ### Introduction
 Have you ever wondered why your heart races when you see someone you like, or why hugs and close moments feel so comforting? Love isn’t just about feelings—it's also about chemistry happening inside your brain. Scientists have discovered that special chemicals like dopamine and oxytocin play huge roles in how we experience attraction and form bonds. Let’s take a closer look at the fascinating science behind love!

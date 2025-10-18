@@ -17,7 +17,7 @@ comments: true
 
 ### Black Holes Burping: When Space Giants Let Out Leftover Star Stuff
 
-*By [Peter Teoh]*
+*By Peter Teoh, Science Writer*
 
 Have you ever heard of a black hole burping? It sounds like something from a sci-fi movie, but it’s a real cosmic event that has astronomers buzzing! Imagine a black hole swallowing a star, then years later shooting out leftover material like a giant cosmic burp. Let’s dive into this fascinating phenomenon and find out what it means.
 

@@ -19,7 +19,7 @@ comments: true
 
 ### The sneaky cyber threat that locks your digital world
 
-*By CyberTech Insights*  
+*By Peter Teoh, Science Writer*
 
 Imagine waking up one day and finding your phone or computer telling you that all your photos, games, homework, and music are locked — and the only way to get them back is to pay a stranger. This is exactly what ransomware does, and it’s one of the most dangerous types of cyber attacks today. But how does it work? Let's dive in!
 

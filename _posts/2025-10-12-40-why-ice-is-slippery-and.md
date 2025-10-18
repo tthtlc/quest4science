@@ -18,6 +18,7 @@ comments: true
 ## Why Is Ice So Slippery? (And Why Scientists Still Debate It)
 
 ### The Slippery Mystery Beneath Your Feet
+*By Peter Teoh, Science Writer*
 
 Have you ever wondered why ice is so slippery—why you can glide across a frozen pond but not a wooden floor? For over 200 years, scientists have scratched their heads over this everyday mystery. Even today, the answer isn’t as simple as you might think, and researchers are still uncovering new clues[3].
 

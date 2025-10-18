@@ -19,7 +19,7 @@ comments: true
 
 ## Unlocking the Secrets of the Building Blocks of Mathematics
 
-*By Science Explorers Team*
+*By Peter Teoh, Science Writer*
 
 Have you ever wondered which numbers are special enough to be called *prime*? Prime numbers are like the atoms of math — tiny, unique pieces that help build every other number. But despite their simple definition, they hold secrets that have puzzled mathematicians for thousands of years. Let’s dive into the fascinating world of prime numbers and explore why they’re an infinite mystery.
 

@@ -17,7 +17,7 @@ comments: true
 
 ### CRISPR Gene Editing: A New Dawn for Treating Genetic Blindness
 
-**By Science Writer**
+*By Peter Teoh, Science Writer*
 
 Imagine a world where scientists can fix broken genes that cause blindness — not just in theory, but right inside your eyes. Thanks to a cutting-edge tool called CRISPR, this is becoming a reality, and it’s especially exciting for people born with inherited blindness.
 

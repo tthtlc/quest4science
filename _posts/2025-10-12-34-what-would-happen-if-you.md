@@ -17,7 +17,7 @@ comments: true
 
 ### What Would Happen If You Mixed Every Chemical Element Together?
 
-*By Science Explorer*
+*By Peter Teoh, Science Writer*
 
 Have you ever wondered what would happen if you just grabbed every single chemical element from the periodic table and dumped them all into one giant pot? Would it explode? Fizzle out? Or turn into something completely new? Let’s dive into this wild science experiment that’s never been done but is fascinating to imagine.
 

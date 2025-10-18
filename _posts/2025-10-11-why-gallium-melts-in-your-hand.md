@@ -19,7 +19,7 @@ comments: true
 
 ## The cool metal that melts like ice
 
-*By Science Writer*
+*By Peter Teoh, Science Writer*
 
 Have you ever held a small piece of metal and watched it slowly melt right in your hand? Sounds like magic, but it’s actually science—and the metal is called gallium. Unlike most metals, gallium is a soft, silvery metal that melts at just about 30°C (86°F), just below or around the temperature of your own body. That means when you hold gallium, your body heat is enough to turn it from solid to liquid!
 
