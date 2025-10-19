@@ -27,8 +27,6 @@ Imagine you’re told to count every grain of sand on every beach in the world. 
 
 When you think of infinity, you probably imagine something that never ends—like counting numbers forever, or a line that goes on and on. And you’re not wrong! But math takes this idea much further, revealing that “infinity” isn’t just one thing. There are different kinds, and some are way more “infinite” than others. This article will show you how mathematicians compare infinities, why it matters, and what it means for our understanding of the universe.
 
-## Main Body
-
 ### What Exactly Is Infinity?
 
 Infinity isn’t a number you can write down. It’s a concept that means “without end.” When you count 1, 2, 3, and keep going, you’re dealing with infinity. Even the number of points on a line is infinite[6]. But here’s the twist: not all infinite collections are the same size.
