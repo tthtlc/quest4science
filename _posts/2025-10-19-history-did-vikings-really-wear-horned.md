@@ -19,7 +19,7 @@ comments: true
 
 ### The Truth Behind the Horns
 
-**By Peter Teoh, Science Writer**
+*By Peter Teoh, Science Writer*
 
 Picture a Viking. Chances are, you’re imagining a fierce warrior with a helmet crowned by two massive, curved horns. But here’s the twist: real Vikings almost certainly never wore anything like that. The horned helmet is one of history’s most persistent—and incorrect—stereotypes. So where did this myth come from, and what did actual Viking helmets look like? Let’s dig into the facts—and the fiction.
 

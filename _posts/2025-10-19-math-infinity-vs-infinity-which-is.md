@@ -19,7 +19,7 @@ comments: true
 
 ### Not All Infinities Are Created Equal
 
-**By Peter Teoh, Science Writer**
+*By Peter Teoh, Science Writer*
 
 Imagine you’re told to count every grain of sand on every beach in the world. Impossible, right? Now imagine counting every star in the universe. Still impossible! Both tasks seem endless, but are they the same kind of “endless”? In math, the answer is surprising: some infinities are bigger than others. Let’s dive into how mathematicians make sense of this mind-bending idea.
 
