@@ -14,9 +14,6 @@ comments: true
 
 <!-- Image Description: A detailed artistic depiction of the coronation of Henry VI as King of England and France at around nine months old, showing medieval nobles and clergy surrounding the infant king seated on a throne, highlighting the grandeur and solemnity of the ceremony despite his young age. -->
 
-
-# The Youngest Ruler in History: How a Baby Became King
-
 ## When Power Comes with a Pacifier
 
 *By Peter Teoh, Science Writer*

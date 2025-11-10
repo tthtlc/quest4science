@@ -14,9 +14,6 @@ comments: true
 
 <!-- Image Description: A high-speed capture of a popcorn kernel mid-explosion, showing the starch 'leg' pushing out and the kernel in the process of turning inside out, with steam expanding inside causing the burst. -->
 
-
-# Why Popcorn Actually Explodes When It Pops
-
 ## The surprising science behind your favorite movie snack
 
 *By Peter Teoh, Science Writer*

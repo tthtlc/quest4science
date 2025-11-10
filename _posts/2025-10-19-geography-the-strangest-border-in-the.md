@@ -14,9 +14,6 @@ comments: true
 
 <!-- Image Description: Aerial photo showing the complex patchwork border lines running through the town of Baarle, highlighting the intricate enclaves of Belgium and the Netherlands interwoven within the town's streets and buildings. -->
 
-
-# The Strangest Border in the World – One Town Split in Two Countries
-
 ## How a tiny town became a puzzle of borders between Belgium and the Netherlands
 
 *By Peter Teoh, Science Writer*

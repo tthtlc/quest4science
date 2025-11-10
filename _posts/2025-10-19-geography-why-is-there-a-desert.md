@@ -14,9 +14,6 @@ comments: true
 
 <!-- Image Description: A striking aerial view showing the lush green Amazon rainforest abruptly transitioning into the dry, barren landscape of the Atacama Desert, highlighting the stark contrast between these two neighboring ecosystems. -->
 
-
-# Why Is There a Desert *Next* to the Amazon Rainforest?
-
 ### Discovering the surprising neighbors of South America’s wildest landscapes
 
 *By Peter Teoh, Science Writer*

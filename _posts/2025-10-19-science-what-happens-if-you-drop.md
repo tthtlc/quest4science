@@ -14,9 +14,6 @@ comments: true
 
 <!-- Image Description: An artistic illustration showing a smartphone falling through Earth's atmosphere from space, with layers of atmosphere visible and the phone glowing due to friction and heat. -->
 
-
-# What Happens If You Drop Your Phone From Space?
-
 ## The wild science behind a falling phone
 
 *By Peter Teoh, Science Writer*

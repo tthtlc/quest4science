@@ -15,8 +15,6 @@ comments: true
 <!-- Image Description: A colorful digital illustration showing a computer screen with files turning into digital locks, surrounded by a hacker silhouette demanding cryptocurrency, symbolizing ransomware encrypting files and demanding ransom. -->
 
 
-# How Ransomware Locks Your Files and Demands Money
-
 ### The sneaky cyber threat that locks your digital world
 
 *By Peter Teoh, Science Writer*

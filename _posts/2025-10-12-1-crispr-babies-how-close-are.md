@@ -15,8 +15,6 @@ comments: true
 <!-- Image Description: A vibrant illustration showing a DNA double helix being precisely edited by molecular scissors labeled CRISPR, with a softly glowing baby silhouette in the background symbolizing gene editing's impact on future humans. -->
 
 
-# CRISPR Babies: How Close Are We to Designing Humans?
-
 ### Unlocking the Blueprint of Life, One Gene at a Time
 
 *By Peter Teoh, Science Writer*

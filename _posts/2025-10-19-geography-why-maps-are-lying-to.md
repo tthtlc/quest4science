@@ -14,9 +14,6 @@ comments: true
 
 <!-- Image Description: A world map highlighting Greenland with an overlay showing its true size compared side-by-side with countries like India, Australia, and the Democratic Republic of Congo. The map uses the Mercator projection to illustrate how Greenland appears disproportionately large compared to its actual area. -->
 
-
-# Why Maps Are Lying to You: Greenland Is NOT That Big
-
 ## The Truth Behind the Giant Island Trick
 
 *By Peter Teoh, Science Writer*

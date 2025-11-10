@@ -15,8 +15,6 @@ comments: true
 <!-- Image Description: A close-up photo of a human eye with a digital overlay showing DNA strands and a CRISPR gene-editing tool targeting a gene, symbolizing the gene therapy being applied to treat inherited blindness. -->
 
 
-# CRISPR Gene Editing: A New Hope for Genetic Blindness
-
 ## How a Groundbreaking Technology Is Changing Vision for the Better
 
 *By Peter Teoh, Science Writer*

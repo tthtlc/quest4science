@@ -14,9 +14,6 @@ comments: true
 
 <!-- Image Description: An artistic illustration showing a human body transitioning from a living state to the molecular breakdown stage after death, highlighting cells breaking down, enzymes releasing, and bacteria colonizing tissues. -->
 
-
-# What Happens to Your Body at the Molecular Level When You Die
-
 ## Exploring the invisible chemistry behind life’s final moments
 
 *By Peter Teoh, Science Writer*

@@ -1,5 +1,5 @@
 ---
-title: "This tiny war lasted only 38 minutes"
+title: "The World's Shortest War: How a 38-Minute Conflict Changed History"
 date: 2025-10-19 16:09:42 +08:00
 categories: [History]
 tags: ["Anglo-Zanzibar War", "shortest war", "history", "British Empire", "Zanzibar"]
@@ -8,16 +8,12 @@ image_description: "A vintage illustration or photograph of the Sultan's palace 
 comments: true
 ---
 
-
 ![British warships bombarded the Sultan's palace in Zanzibar, ending the shortest war in history in just 38 minutes on August 27, 1896.](/assets/images/anglo-zanzibar-war-1896.jpg)
 *British warships bombarded the Sultan's palace in Zanzibar, ending the shortest war in history in just 38 minutes on August 27, 1896.*
 
 <!-- Image Description: A vintage illustration or photograph of the Sultan's palace in Zanzibar during the 1896 conflict, with British naval ships visible offshore firing towards the palace under a bright morning sky. -->
 
-
-# The World's Shortest War: How a 38-Minute Conflict Changed History
-
-### When Empires Clash: The Anglo-Zanzibar War of 1896
+## When Empires Clash: The Anglo-Zanzibar War of 1896
 
 *By Peter Teoh, Science Writer*
 

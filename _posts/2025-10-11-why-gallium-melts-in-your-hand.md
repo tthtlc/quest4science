@@ -15,8 +15,6 @@ comments: true
 <!-- Image Description: A close-up photo showing a shiny, silvery piece of gallium metal melting into a small reflective puddle in the palm of a teenager’s hand, with warm skin tones contrasting the bright metal. -->
 
 
-# Why Does Gallium Melt in Your Hand?
-
 ## The cool metal that melts like ice
 
 *By Peter Teoh, Science Writer*

@@ -14,9 +14,6 @@ comments: true
 
 <!-- Image Description: A vibrant underwater photograph of a common octopus (Octopus vulgaris) displaying its complex skin texture and color-changing abilities while extending multiple arms, surrounded by coral and blue ocean water. -->
 
-
-# Why Octopuses Might Be the Closest Thing to Aliens on Earth
-
 ### What makes these sea creatures so strange and fascinating?
 
 *By Peter Teoh, Science Writer*

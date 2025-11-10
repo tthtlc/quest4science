@@ -15,8 +15,6 @@ comments: true
 <!-- Image Description: A colorful spiral of numbers stretching infinitely outward, highlighting prime numbers in bright colors among other numbers fading into the distance, symbolizing the endless and mysterious nature of primes. -->
 
 
-# The Infinite Mystery of Prime Numbers
-
 ## Unlocking the Secrets of the Building Blocks of Mathematics
 
 *By Peter Teoh, Science Writer*

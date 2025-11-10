@@ -14,9 +14,6 @@ comments: true
 
 <!-- Image Description: A detailed close-up illustration of an Ancient Egyptian man and woman applying traditional kohl eyeliner around their eyes, showing the dark, bold eye makeup characteristic of the era. Surrounding them are ancient cosmetic tools like stone palettes and alabaster jars, set against a backdrop of Egyptian hieroglyphs and desert sunlight. -->
 
-
-# Ancient Egyptian Makeup Wasn’t for Beauty—It Was for Survival
-
 ## How Ancient Egyptians Used Cosmetics to Protect Themselves in Harsh Environments
 
 *By Peter Teoh, Science Writer*

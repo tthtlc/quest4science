@@ -14,9 +14,6 @@ comments: true
 
 <!-- Image Description: An illustrated infographic showing the step-by-step journey of a WhatsApp message from sender's phone, through encryption, to WhatsApp servers, and finally to the recipient's phone, highlighting encryption locks and network paths. -->
 
-
-# What Happens When You Send a Message on WhatsApp?
-
 ## Discover the secret journey of your texts inside the internet
 
 *By Peter Teoh, Science Writer*

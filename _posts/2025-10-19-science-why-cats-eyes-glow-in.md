@@ -14,10 +14,7 @@ comments: true
 
 <!-- Image Description: A close-up photo of a cat's eyes glowing brightly in the dark as a green laser pointer beam is directed towards them, showing the reflective tapetum lucidum effect clearly. -->
 
-
-# Why Do Cats’ Eyes Glow in the Dark? Explained with a Laser Pointer
-
-### Discover the science behind that eerie glow and how a laser pointer reveals your cat’s secret night vision superpower.
+## Discover the science behind that eerie glow and how a laser pointer reveals your cat’s secret night vision superpower.
 
 *By Peter Teoh, Science Writer*
 

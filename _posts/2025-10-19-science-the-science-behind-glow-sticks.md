@@ -14,10 +14,7 @@ comments: true
 
 <!-- Image Description: A close-up photo of a glowing green glow stick activated and glowing brightly in a dark background, with a semi-transparent overlay showing a simplified chemical reaction diagram illustrating the mix of hydrogen peroxide and phenyl oxalate ester producing light. -->
 
-
-# The Science Behind Glow Sticks (and How to Make One at Home)
-
-### How a simple snap lights up the night
+## How a simple snap lights up the night
 
 *By Peter Teoh, Science Writer*
 

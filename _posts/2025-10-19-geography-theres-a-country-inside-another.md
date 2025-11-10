@@ -14,9 +14,6 @@ comments: true
 
 <!-- Image Description: A detailed political map showing the enclave country of Lesotho completely surrounded by South Africa, highlighting the borders and nearby South African provinces. -->
 
-
-# There’s a Country Inside Another Country (and You’ve Never Heard of It)
-
 ## Discovering the Hidden World of Enclave Countries
 
 *By Peter Teoh, Science Writer*
