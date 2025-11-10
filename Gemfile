@@ -1,6 +1,10 @@
 source "https://rubygems.org"
 gemspec
 
+# Pin working sass runtime to avoid Ruby 3.1 bug
+gem "sass-embedded", "~> 1.68.0"
+gem "jekyll-sass-converter", "~> 2.2"
+
 gem "jekyll", "~> 4.3"
 gem "rake"
 
