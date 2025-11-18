@@ -4,6 +4,7 @@
 
 # IntelliJ IDEA
 *.idea
+.env
 
 # Sublime Text
 *.sublime-project
