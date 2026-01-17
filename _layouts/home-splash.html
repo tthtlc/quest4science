@@ -264,6 +264,7 @@ layout: default
         .feature-card:nth-child(6) { animation-delay: 1.2s; }
         .feature-card:nth-child(7) { animation-delay: 1.4s; }
         .feature-card:nth-child(8) { animation-delay: 1.6s; }
+        .feature-card:nth-child(9) { animation-delay: 1.8s; }
 
         @keyframes fadeIn {
             from {
@@ -752,6 +753,101 @@ layout: default
             }
         }
 
+        /* Mathematics Icon */
+        .math-icon {
+            position: relative;
+            width: 80px;
+            height: 80px;
+            margin: 0 auto;
+        }
+
+        .math-pi {
+            position: absolute;
+            font-family: 'Times New Roman', serif;
+            font-size: 48px;
+            font-weight: bold;
+            color: transparent;
+            background: linear-gradient(135deg, #f093fb 0%, #667eea 100%);
+            -webkit-background-clip: text;
+            background-clip: text;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            animation: math-pulse 3s infinite ease-in-out;
+        }
+
+        @keyframes math-pulse {
+            0%, 100% {
+                transform: translate(-50%, -50%) scale(1);
+                filter: drop-shadow(0 0 10px rgba(102, 126, 234, 0.5));
+            }
+            50% {
+                transform: translate(-50%, -50%) scale(1.1);
+                filter: drop-shadow(0 0 20px rgba(240, 147, 251, 0.8));
+            }
+        }
+
+        .math-symbol {
+            position: absolute;
+            font-family: 'Times New Roman', serif;
+            font-size: 16px;
+            font-weight: bold;
+            color: rgba(255, 255, 255, 0.8);
+            animation: symbol-orbit 4s infinite linear;
+        }
+
+        .math-symbol:nth-child(2) {
+            animation-delay: 0s;
+        }
+
+        .math-symbol:nth-child(3) {
+            animation-delay: -1s;
+        }
+
+        .math-symbol:nth-child(4) {
+            animation-delay: -2s;
+        }
+
+        .math-symbol:nth-child(5) {
+            animation-delay: -3s;
+        }
+
+        @keyframes symbol-orbit {
+            0% {
+                transform: rotate(0deg) translateX(35px) rotate(0deg);
+                opacity: 0.6;
+            }
+            50% {
+                opacity: 1;
+            }
+            100% {
+                transform: rotate(360deg) translateX(35px) rotate(-360deg);
+                opacity: 0.6;
+            }
+        }
+
+        .math-ring {
+            position: absolute;
+            width: 70px;
+            height: 70px;
+            border: 2px solid rgba(102, 126, 234, 0.3);
+            border-radius: 50%;
+            top: 5px;
+            left: 5px;
+            animation: ring-pulse 3s infinite ease-in-out;
+        }
+
+        @keyframes ring-pulse {
+            0%, 100% {
+                transform: scale(1);
+                border-color: rgba(102, 126, 234, 0.3);
+            }
+            50% {
+                transform: scale(1.05);
+                border-color: rgba(240, 147, 251, 0.5);
+            }
+        }
+
         /* Scroll indicator */
         .scroll-indicator {
             position: absolute;
@@ -931,6 +1027,21 @@ layout: default
                 </div>
                 <h3>Medicine</h3>
                 <p>Learn about medical breakthroughs, human health, and the science of healing that extends and improves lives.</p>
+            </a>
+
+            <a href="/categories/#mathematics" class="feature-card" data-category="mathematics">
+                <div class="feature-icon">
+                    <div class="math-icon">
+                        <div class="math-ring"></div>
+                        <span class="math-pi">π</span>
+                        <span class="math-symbol">∑</span>
+                        <span class="math-symbol">∞</span>
+                        <span class="math-symbol">√</span>
+                        <span class="math-symbol">∫</span>
+                    </div>
+                </div>
+                <h3>Mathematics</h3>
+                <p>Unravel the elegant patterns, theorems, and equations that form the universal language of logic and discovery.</p>
             </a>
         </div>
     </section>
