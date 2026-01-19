@@ -1,7 +1,7 @@
 ---
 title: "Superacids Strong Enough to Melt Glass"
 date: 2025-10-12 09:08:20 +08:00
-categories: [Science / Chemistry]
+categories: chemistry
 tags: ["superacid", "chemistry", "acid-strength", "science-for-teens", "fluoroantimonic-acid"]
 image_name: superacid_melting_glass.jpg
 image_description: "A dramatic, close-up photo showing a glass beaker partially dissolved or etched by a glowing, colorful liquid representing a superacid. Vapor and small bubbles rise from the surface, emphasizing the extreme reactivity of the acid. The background is a dark laboratory setting to highlight the bright acid."

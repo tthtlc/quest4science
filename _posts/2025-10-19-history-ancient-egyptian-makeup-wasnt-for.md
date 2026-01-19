@@ -1,7 +1,7 @@
 ---
 title: "Ancient Egyptian Makeup Wasn’t for Beauty—It Was for Survival"
 date: 2025-10-19 16:07:14 +08:00
-categories: [History / Science]
+categories: history-society
 tags: ["Ancient Egypt", "Makeup", "History", "Science", "Cosmetics"]
 image_name: ancient_egypt_kohl_makeup.jpg
 image_description: "A detailed close-up illustration of an Ancient Egyptian man and woman applying traditional kohl eyeliner around their eyes, showing the dark, bold eye makeup characteristic of the era. Surrounding them are ancient cosmetic tools like stone palettes and alabaster jars, set against a backdrop of Egyptian hieroglyphs and desert sunlight."

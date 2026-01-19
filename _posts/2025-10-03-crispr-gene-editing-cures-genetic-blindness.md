@@ -1,7 +1,7 @@
 ---
 title: "CRISPR gene editing cures genetic blindness in lab trials"
 date: 2025-10-03 00:08:25 +08:00
-categories: [Science & Technology]
+categories: medicine
 tags: ["CRISPR", "gene editing", "genetic blindness", "Leber Congenital Amaurosis", "biotechnology"]
 image_name: crispr_gene_editing_eye_trial.jpg
 image_description: "A close-up photo of a human eye with a digital overlay showing DNA strands and a CRISPR gene-editing tool targeting a gene, symbolizing the gene therapy being applied to treat inherited blindness."

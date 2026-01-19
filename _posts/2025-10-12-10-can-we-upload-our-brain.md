@@ -1,7 +1,7 @@
 ---
 title: "Can We Upload Our Brain to a Computer?"
 date: 2025-10-12 01:19:04 +08:00
-categories: [Science & Technology]
+categories: technology
 tags: ["brain-computer interface", "neuroscience", "technology", "mind uploading", "future tech"]
 image_name: brain_computer_interface_concept.jpg
 image_description: "A futuristic, vibrant illustration showing a human head with half of the brain digitally scanning or transforming into glowing data streams flowing into a computer or cloud, symbolizing brain-computer interface and brain uploading concepts."

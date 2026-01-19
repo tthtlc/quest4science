@@ -1,7 +1,7 @@
 ---
 title: "How ransomware locks your files and demands money"
 date: 2025-10-11 12:08:21 +08:00
-categories: [Technology & Cybersecurity]
+categories: technology
 tags: ["ransomware", "cybersecurity", "encryption", "technology", "teens", "malware"]
 image_name: ransomware_locking_files.jpg
 image_description: "A colorful digital illustration showing a computer screen with files turning into digital locks, surrounded by a hacker silhouette demanding cryptocurrency, symbolizing ransomware encrypting files and demanding ransom."

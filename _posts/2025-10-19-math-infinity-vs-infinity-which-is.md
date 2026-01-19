@@ -1,7 +1,7 @@
 ---
 title: "Infinity vs. infinity – which is bigger?"
 date: 2025-10-19 16:05:12 +08:00
-categories: [Mathematics]
+categories: mathematics
 tags: ["infinity", "mathematics", "cardinal numbers", "ordinal numbers", "Cantor", "popular science"]
 image_name: infinity_vs_infinity.jpg
 image_description: "A vibrant, colorful illustration showing two infinity symbols (∞) racing each other on a number line, with one symbol labeled 'countable' and the other 'uncountable'. The background features stylized sets of numbers and geometric shapes to hint at the mathematical concepts behind infinity."

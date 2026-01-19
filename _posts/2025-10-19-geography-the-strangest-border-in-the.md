@@ -1,7 +1,7 @@
 ---
 title: "The strangest border in the world – one town split in two countries"
 date: 2025-10-19 16:11:49 +08:00
-categories: [Geography]
+categories: geography
 tags: ["Geography", "Borders", "Baarle", "Enclaves", "International Relations"]
 image_name: baarle_border_street.jpg
 image_description: "Aerial photo showing the complex patchwork border lines running through the town of Baarle, highlighting the intricate enclaves of Belgium and the Netherlands interwoven within the town's streets and buildings."

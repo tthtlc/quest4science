@@ -1,7 +1,7 @@
 ---
 title: "Why Octopuses Might Be the Closest Thing to Aliens on Earth"
 date: 2025-10-12 01:18:14 +08:00
-categories: [Science & Nature]
+categories: biology
 tags: ["octopus", "alien life", "marine biology", "evolution", "intelligence"]
 image_name: octopus-alien-earth.jpg
 image_description: "A vibrant underwater photograph of a common octopus (Octopus vulgaris) displaying its complex skin texture and color-changing abilities while extending multiple arms, surrounded by coral and blue ocean water."

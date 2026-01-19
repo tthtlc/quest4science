@@ -1,7 +1,7 @@
 ---
 title: "How one wrong sandwich started a world war"
 date: 2025-10-19 16:12:10 +08:00
-categories: [History/Society]
+categories: history-society
 tags: ["World War I", "historical myths", "Sarajevo assassination", "Gavrilo Princip", "Franz Ferdinand"]
 image_name: princip-sarajevo-street.jpg
 image_description: "A colorized historical photo of Franz Joseph Street in Sarajevo, circa 1914, showing the bustling city center with horse-drawn carriages and early automobiles. In the foreground, the Latin Bridge is visible, with Moritz Schiller's Delicatessen (now the Museum of Sarajevo 1878–1918) on the corner. The scene is lively, suggesting the unexpected drama that unfolded here."

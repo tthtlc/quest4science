@@ -1,7 +1,7 @@
 ---
 title: "Why Some Substances Glow in the Dark: The Secret of Luminescence"
 date: 2025-10-12 09:04:20 +08:00
-categories: [Science & Technology]
+categories: chemistry
 tags: ["luminescence", "glow-in-the-dark", "science-for-teens", "phosphorescence", "chemiluminescence", "bioluminescence"]
 image_name: glowing-materials-lab.jpg
 image_description: "A dimly lit laboratory table featuring various glow-in-the-dark objects—stars, a bracelet, a glow stick, and a beaker of tonic water under a black light—each emitting a soft, colorful glow. A pair of hands in protective gloves is placing a glowing star on a dark surface, emphasizing the contrast between the glowing objects and the surrounding darkness."

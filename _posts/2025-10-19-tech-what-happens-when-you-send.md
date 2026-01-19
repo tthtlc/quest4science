@@ -1,7 +1,7 @@
 ---
 title: "What happens when you send a message on WhatsApp?"
 date: 2025-10-19 16:00:16 +08:00
-categories: [Technology]
+categories: technology
 tags: ["WhatsApp", "Internet", "Technology", "Encryption", "Messaging"]
 image_name: whatsapp-message-flow.jpg
 image_description: "An illustrated infographic showing the step-by-step journey of a WhatsApp message from sender's phone, through encryption, to WhatsApp servers, and finally to the recipient's phone, highlighting encryption locks and network paths."

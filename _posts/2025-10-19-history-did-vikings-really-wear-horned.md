@@ -1,7 +1,7 @@
 ---
 title: "Did Vikings really wear horned helmets? (Spoiler: No)"
 date: 2025-10-19 16:03:56 +08:00
-categories: [History]
+categories: history-society
 tags: ["Vikings", "Archaeology", "History Myths", "Medieval Europe", "Pop Culture"]
 image_name: vikings-real-vs-myth-helmets.jpg
 image_description: "A split-image: on the left, a realistic Viking warrior in a simple iron helmet, based on the Gjermundbu find; on the right, a cartoonish Viking with huge, curved horns on his helmet, symbolizing the popular myth. Background hints at a Scandinavian landscape with a Viking longship."

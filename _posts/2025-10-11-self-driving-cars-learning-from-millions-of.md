@@ -1,7 +1,7 @@
 ---
 title: "How Self-Driving Cars Learn from Millions of Miles of Data"
 date: 2025-10-11 12:08:01 +08:00
-categories: [Technology & Science]
+categories: technology
 tags: ["self-driving cars", "artificial intelligence", "technology", "machine learning", "autonomous vehicles", "teen science"]
 image_name: self-driving-car-sensor-data.jpg
 image_description: "A sleek self-driving car equipped with sensors like LiDAR and cameras driving on a busy city street, with digital overlays showing data points and maps illustrating how the car 'sees' its surroundings."

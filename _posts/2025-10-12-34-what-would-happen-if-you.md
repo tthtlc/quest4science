@@ -1,7 +1,7 @@
 ---
 title: "What Would Happen If You Mixed Every Chemical Element Together?"
 date: 2025-10-12 09:02:37 +08:00
-categories: [Science Education]
+categories: chemistry
 tags: ["chemistry", "periodic table", "elements", "science education", "chemical reactions"]
 image_name: mixed_elements_explosion.jpg
 image_description: "A dynamic, colorful artistic illustration showing a chaotic explosion of atoms and molecules, with various elements' symbols (like H, O, Fe, Au) swirling and reacting in a fiery mix, symbolizing the intense chemical interactions when all elements are combined."

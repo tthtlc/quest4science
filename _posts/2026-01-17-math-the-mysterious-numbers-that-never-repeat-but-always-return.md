@@ -1,7 +1,7 @@
 ---
 title: "The mysterious numbers that never repeat but always return"
 date: 2026-01-17 16:06:20 +08:00
-categories: [Mathematics / Number Theory]
+categories: mathematics
 tags: ["quadratic irrationals", "continued fractions", "Pell equation", "teen science", "number theory"]
 image_name: quadratic_irrational_golden_spiral.jpg
 image_description: "A mesmerizing golden spiral overlaid with mathematical equations, showing the connection between quadratic irrationals like the golden ratio and natural patterns. Floating numbers and square root symbols spiral inward, while ancient-looking mathematical manuscripts appear faintly in the background."

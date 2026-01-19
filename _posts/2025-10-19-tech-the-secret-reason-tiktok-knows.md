@@ -1,7 +1,7 @@
 ---
 title: "The Secret Reason TikTok Knows What You Like So Well"
 date: 2025-10-19 16:09:12 +08:00
-categories: [Technology & Social Media]
+categories: technology
 tags: ["TikTok", "algorithm", "social media", "personalization", "recommender systems", "teen tech"]
 image_name: tiktok-fyp-feed.jpg
 image_description: "A colorful split-screen showing a teenager scrolling through their TikTok For You Page (FYP) on a smartphone, with a variety of video thumbnails—ranging from dance challenges and science experiments to memes and cooking tips—highlighting the diversity and personalization of content. In the background, faint data streams and algorithm icons subtly hint at the invisible tech at work."

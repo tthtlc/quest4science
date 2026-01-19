@@ -1,7 +1,7 @@
 ---
 title: "Why popcorn actually explodes when it pops"
 date: 2025-10-19 16:02:04 +08:00
-categories: [Society]
+categories: physics
 tags: ["popcorn", "science", "physics", "thermodynamics", "food science"]
 image_name: popcorn_explosion_slowmotion.jpg
 image_description: "A high-speed capture of a popcorn kernel mid-explosion, showing the starch 'leg' pushing out and the kernel in the process of turning inside out, with steam expanding inside causing the burst."

@@ -1,7 +1,7 @@
 ---
 title: "How Fungi Communicate Through the 'Wood-Wide Web'"
 date: 2025-10-12 01:17:52 +08:00
-categories: [Science Education]
+categories: biology
 tags: ["fungi", "mycorrhiza", "forest ecology", "wood-wide-web", "science education"]
 image_name: wood-wide-web-fungi-network.jpg
 image_description: "A vibrant cross-sectional illustration of a forest floor showing tree roots interconnected by delicate, glowing fungal hyphae forming an underground network that links multiple trees of different species. Nutrient flow is depicted as glowing lines moving through the fungi, and small icons represent chemical signals moving between trees."

@@ -1,7 +1,7 @@
 ---
 title: "There’s a country inside another country (and you’ve never heard of it)"
 date: 2025-10-19 16:01:12 +08:00
-categories: [Geography]
+categories: geography
 tags: ["geography", "enclaves", "countries", "world", "political geography", "teen science"]
 image_name: enclave_country_map.jpg
 image_description: "A detailed political map showing the enclave country of Lesotho completely surrounded by South Africa, highlighting the borders and nearby South African provinces."

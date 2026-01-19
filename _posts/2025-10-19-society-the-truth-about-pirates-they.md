@@ -1,7 +1,7 @@
 ---
 title: "The truth about pirates (they didn’t actually say “Arrr!”)"
 date: 2025-10-19 16:08:05 +08:00
-categories: [Society]
+categories: history-society
 tags: ["pirates", "history", "Golden Age of Piracy", "myths", "sea", "adventure"]
 image_name: golden_age_pirates_ship.jpg
 image_description: "An illustration of a classic pirate ship sailing in the Caribbean during the Golden Age of Piracy (1650-1720), with pirate flags (Jolly Roger) flying and pirates dressed in period-accurate attire without exaggerated Hollywood stereotypes."

@@ -1,7 +1,7 @@
 ---
 title: "Why maps are lying to you (Greenland is NOT that big)"
 date: 2025-10-19 16:10:41 +08:00
-categories: [Geography]
+categories: geography
 tags: ["Geography", "Maps", "Greenland", "Science", "Education"]
 image_name: greenland_true_size_comparison.jpg
 image_description: "A world map highlighting Greenland with an overlay showing its true size compared side-by-side with countries like India, Australia, and the Democratic Republic of Congo. The map uses the Mercator projection to illustrate how Greenland appears disproportionately large compared to its actual area."

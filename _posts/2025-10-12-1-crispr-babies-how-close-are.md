@@ -1,7 +1,7 @@
 ---
 title: "CRISPR Babies: How Close Are We to Designing Humans?"
 date: 2025-10-12 01:16:45 +08:00
-categories: [Science & Technology]
+categories: medicine
 tags: ["CRISPR", "gene editing", "genetic diseases", "biotechnology", "personalized medicine"]
 image_name: crispr_gene_editing_baby_dna.jpg
 image_description: "A vibrant illustration showing a DNA double helix being precisely edited by molecular scissors labeled CRISPR, with a softly glowing baby silhouette in the background symbolizing gene editing's impact on future humans."

@@ -1,7 +1,7 @@
 ---
 title: "The Youngest Ruler in History: Henry VI and Other Child Monarchs"
 date: 2025-10-19 16:00:55 +08:00
-categories: [History]
+categories: history-society
 tags: ["history", "child monarchs", "Henry VI", "youngest king", "medieval history"]
 image_name: henry_vi_coronation.jpg
 image_description: "A detailed artistic depiction of the coronation of Henry VI as King of England and France at around nine months old, showing medieval nobles and clergy surrounding the infant king seated on a throne, highlighting the grandeur and solemnity of the ceremony despite his young age."

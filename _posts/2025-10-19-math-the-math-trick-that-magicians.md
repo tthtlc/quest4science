@@ -1,7 +1,7 @@
 ---
 title: "The math trick that magicians use to guess your card"
 date: 2025-10-19 16:06:20 +08:00
-categories: [Mathematics / Magic]
+categories: mathematics
 tags: ["math tricks", "card magic", "mathematics", "teen science", "magic tricks"]
 image_name: magician_card_trick_math.jpg
 image_description: "A magician holding a deck of cards, with three piles of cards on a table in front of them. The magician is pointing toward a specific pile while a teenager watches in amazement. In the background, faint mathematical symbols and numbers hover subtly, hinting at a secret math formula behind the trick."

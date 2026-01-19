@@ -1,7 +1,7 @@
 ---
 title: "The Chemistry of Love: Dopamine, Oxytocin, and Attraction"
 date: 2025-10-12 09:03:20 +08:00
-categories: [Science / Neuroscience]
+categories: biology
 tags: ["love", "neuroscience", "dopamine", "oxytocin", "teen science", "brain chemistry"]
 image_name: brain-love-chemistry.jpg
 image_description: "A vibrant illustration showing a human brain with highlighted areas glowing in warm colors like red and pink, depicting neural activity linked to feelings of love. Around the brain, molecules representing dopamine and oxytocin float, symbolizing their role in attraction and bonding."

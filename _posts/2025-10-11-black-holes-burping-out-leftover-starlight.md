@@ -1,7 +1,7 @@
 ---
 title: "Black holes 'burping' out leftover starlight"
 date: 2025-10-11 12:06:58 +08:00
-categories: [Astronomy & Space Science]
+categories: physics
 tags: ["black holes", "space", "astronomy", "tidal disruption", "science for teens"]
 image_name: blackhole_burping_starlight.jpg
 image_description: "An artistic illustration showing a black hole at the center with bright jets of material shooting out from around its edges. Surrounding the black hole is a glowing disk of shredded star material being pulled inward, while streams of light and particles burst outward, symbolizing the 'burping' phenomenon."

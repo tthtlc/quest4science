@@ -1,7 +1,7 @@
 ---
 title: "Why Does Your Phone Camera Have More Lenses Every Year?"
 date: 2025-10-19 16:03:10 +08:00
-categories: [Technology]
+categories: technology
 tags: ["smartphone", "camera", "technology", "photography", "science"]
 image_name: smartphone-multi-lens.jpg
 image_description: "A modern smartphone with three rear cameras, each lens labeled (wide, ultra-wide, telephoto), lying on a table with a colorful background of city lights and nature scenes, symbolizing the versatility of multi-lens photography."

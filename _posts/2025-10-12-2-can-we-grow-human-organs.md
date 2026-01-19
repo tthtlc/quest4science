@@ -1,7 +1,7 @@
 ---
 title: "Can We Grow Human Organs Inside Pigs?"
 date: 2025-10-12 01:17:03 +08:00
-categories: [Science & Technology]
+categories: medicine
 tags: ["xenotransplantation", "gene editing", "CRISPR", "organs", "biotechnology"]
 image_name: pig-organ-lab-research.jpg
 image_description: "A high-tech laboratory setting showing scientists working with genetically edited pig embryos and advanced gene-editing tools like CRISPR, alongside computer screens displaying DNA sequences."

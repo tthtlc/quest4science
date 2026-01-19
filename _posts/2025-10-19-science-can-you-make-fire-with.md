@@ -1,7 +1,7 @@
 ---
 title: "Can you make fire with ice? (Yes, here’s how.)"
 date: 2025-10-19 16:01:39 +08:00
-categories: [Science]
+categories: chemistry
 tags: ["chemistry", "fire", "ice", "science-experiments", "acetylene", "calcium-carbide"]
 image_name: fire-on-ice-experiment.jpg
 image_description: "A close-up photo of a glass bowl with chunks of ice reacting with calcium carbide powder, producing visible blue flames and white vapor, demonstrating fire seemingly burning on ice."

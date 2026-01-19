@@ -1,7 +1,7 @@
 ---
 title: "Why cats’ eyes glow in the dark – explained with a laser pointer"
 date: 2025-10-19 16:07:45 +08:00
-categories: [Science]
+categories: biology
 tags: ["cats", "science", "night vision", "biology", "animals", "laser pointer"]
 image_name: cats-glowing-eyes-laser-pointer.jpg
 image_description: "A close-up photo of a cat's eyes glowing brightly in the dark as a green laser pointer beam is directed towards them, showing the reflective tapetum lucidum effect clearly."

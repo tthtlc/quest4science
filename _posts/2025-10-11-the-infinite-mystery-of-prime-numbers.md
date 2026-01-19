@@ -1,7 +1,7 @@
 ---
 title: "The infinite mystery of prime numbers"
 date: 2025-10-11 12:07:27 +08:00
-categories: [Science & Math]
+categories: mathematics
 tags: ["prime numbers", "math mystery", "infinite numbers", "teen science", "cryptography"]
 image_name: infinite_primes_visual.jpg
 image_description: "A colorful spiral of numbers stretching infinitely outward, highlighting prime numbers in bright colors among other numbers fading into the distance, symbolizing the endless and mysterious nature of primes."

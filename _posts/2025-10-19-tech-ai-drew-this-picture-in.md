@@ -1,7 +1,7 @@
 ---
 title: "AI drew this picture in 5 seconds – can you tell it’s fake?"
 date: 2025-10-19 16:06:43 +08:00
-categories: [Technology]
+categories: technology
 tags: ["AI", "image generation", "technology", "fake images", "machine learning"]
 image_name: ai_generated_vs_real_comparison.jpg
 image_description: "A split image showing on one side a hyper-realistic portrait created by AI in seconds, and on the other side a genuine photo of a person. The AI side subtly reveals typical AI artifacts like slightly blurred edges and imperfect reflections, while the real photo shows natural lighting and texture."

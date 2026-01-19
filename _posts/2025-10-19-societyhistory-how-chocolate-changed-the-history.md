@@ -1,7 +1,7 @@
 ---
 title: "How chocolate changed the history of Europe"
 date: 2025-10-19 16:05:25 +08:00
-categories: [Society/History]
+categories: history-society
 tags: ["chocolate", "history", "Europe", "science", "culture", "trade"]
 image_name: chocolate_history_europe.jpg
 image_description: "An artistic depiction of a 17th-century European aristocratic gathering enjoying chocolate in elegant porcelain cups, showcasing the luxurious and social aspects of chocolate drinking in historical Europe."

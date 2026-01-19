@@ -1,7 +1,7 @@
 ---
 title: "The World's Shortest War: How a 38-Minute Conflict Changed History"
 date: 2025-10-19 16:09:42 +08:00
-categories: [History]
+categories: history-society
 tags: ["Anglo-Zanzibar War", "shortest war", "history", "British Empire", "Zanzibar"]
 image_name: anglo-zanzibar-war-1896.jpg
 image_description: "A vintage illustration or photograph of the Sultan's palace in Zanzibar during the 1896 conflict, with British naval ships visible offshore firing towards the palace under a bright morning sky."

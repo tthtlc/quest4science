@@ -1,7 +1,7 @@
 ---
 title: "What Happens to Your Body at the Molecular Level When You Die"
 date: 2025-10-12 09:08:06 +08:00
-categories: [Science / Biology]
+categories: biology
 tags: ["death", "molecular biology", "decomposition", "forensics", "biochemistry"]
 image_name: molecular_decomposition_process.jpg
 image_description: "An artistic illustration showing a human body transitioning from a living state to the molecular breakdown stage after death, highlighting cells breaking down, enzymes releasing, and bacteria colonizing tissues."

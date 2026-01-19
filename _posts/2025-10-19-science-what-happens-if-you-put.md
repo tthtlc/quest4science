@@ -1,7 +1,7 @@
 ---
 title: "What happens if you put your hand inside a vacuum chamber?"
 date: 2025-10-19 16:05:43 +08:00
-categories: [Science]
+categories: physics
 tags: ["vacuum", "physics", "human body", "space science", "experiments"]
 image_name: hand_in_vacuum_chamber.jpg
 image_description: "A detailed image of a human hand inserted inside the transparent window of a vacuum chamber, showing the vacuum environment with faint visual cues of air molecules being evacuated and slight swelling or skin texture changes on the hand due to pressure difference."

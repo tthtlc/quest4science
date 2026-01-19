@@ -1,7 +1,7 @@
 ---
 title: "How Chemists Are Making Plastic Eat Itself"
 date: 2025-10-12 09:04:38 +08:00
-categories: [Science & Technology]
+categories: chemistry
 tags: ["plastic pollution", "biodegradable plastics", "environment", "chemistry", "innovation"]
 image_name: self_recycling_plastic_research_lab.jpg
 image_description: "A close-up photo of a scientist in a laboratory setting holding a flexible, transparent sample of self-recycling plastic, with microscopes and chemical equipment in the background."

@@ -1,7 +1,7 @@
 ---
 title: "What happens if you drop your phone from space?"
 date: 2025-10-19 16:11:12 +08:00
-categories: [Science]
+categories: physics
 tags: ["space", "physics", "technology", "smartphones", "science"]
 image_name: phone_falling_from_space.jpg
 image_description: "An artistic illustration showing a smartphone falling through Earth's atmosphere from space, with layers of atmosphere visible and the phone glowing due to friction and heat."

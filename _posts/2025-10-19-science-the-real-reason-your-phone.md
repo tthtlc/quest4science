@@ -1,7 +1,7 @@
 ---
 title: "The real reason your phone battery swells like a balloon"
 date: 2025-10-19 16:04:13 +08:00
-categories: [Science]
+categories: chemistry
 tags: ["battery", "technology", "science", "lithium-ion", "smartphone"]
 image_name: swollen_phone_battery.jpg
 image_description: "Close-up photo of a smartphone with a visibly swollen battery bulging beneath its screen, distorting the phone's shape. The battery pouch is puffed up like a balloon, showing the physical effect of internal gas buildup."

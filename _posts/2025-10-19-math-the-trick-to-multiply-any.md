@@ -1,7 +1,7 @@
 ---
 title: "The Trick to Multiply ANY Number by 99 Instantly"
 date: 2025-10-19 15:59:55 +08:00
-categories: [Mathematics]
+categories: mathematics
 tags: ["math tricks", "mental math", "Vedic math", "multiplication", "teen science"]
 image_name: math-trick-multiply-by-99.jpg
 image_description: "A colorful illustration showing a chalkboard with the equation '32 × 99 = 3168' being solved step-by-step by a cartoon teenager, with thought bubbles breaking down the mental steps of the Vedic math trick."

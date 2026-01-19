@@ -1,7 +1,7 @@
 ---
 title: "Why gallium melts in your hand"
 date: 2025-10-11 12:07:16 +08:00
-categories: [Science for Teens]
+categories: chemistry
 tags: ["gallium", "melting point", "chemistry", "science for teens", "metals"]
 image_name: gallium_melting_in_hand.jpg
 image_description: "A close-up photo showing a shiny, silvery piece of gallium metal melting into a small reflective puddle in the palm of a teenager’s hand, with warm skin tones contrasting the bright metal."

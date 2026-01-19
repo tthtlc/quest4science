@@ -1,7 +1,7 @@
 ---
 title: "This pattern shows up everywhere in nature: Fibonacci explained"
 date: 2025-10-19 16:02:20 +08:00
-categories: [Math & Nature]
+categories: mathematics
 tags: ["Fibonacci", "Nature", "Mathematics", "Golden Ratio", "Science"]
 image_name: fibonacci_sunflower_spiral.jpg
 image_description: "A close-up photo of a sunflower head showing its dense spiral seed pattern. The seeds are arranged in two sets of spirals curving clockwise and counterclockwise, illustrating the Fibonacci sequence in nature."

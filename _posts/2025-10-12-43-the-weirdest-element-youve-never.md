@@ -1,7 +1,7 @@
 ---
 title: "The Weirdest Element You’ve Never Heard Of: Astatine"
 date: 2025-10-12 09:07:01 +08:00
-categories: [Science Education]
+categories: chemistry
 tags: ["Astatine", "PeriodicTable", "RadioactiveElements", "ScienceForTeens", "Chemistry"]
 image_name: astatine_element_visualization.jpg
 image_description: "A stylized digital illustration showing a dark, lustrous sample of astatine glowing faintly with a radioactive symbol overlay, accompanied by a periodic table highlighting element 85 in the halogen group. The background subtly features a laboratory setting with nuclear research equipment."

@@ -1,7 +1,7 @@
 ---
 title: "The Science Behind Glow Sticks (and How to Make One at Home)"
 date: 2025-10-19 16:10:10 +08:00
-categories: [Science Education]
+categories: chemistry
 tags: ["chemiluminescence", "glowsticks", "chemistry", "scienceforstudents", "DIYscience"]
 image_name: glowstick_chemistry_reaction.jpg
 image_description: "A close-up photo of a glowing green glow stick activated and glowing brightly in a dark background, with a semi-transparent overlay showing a simplified chemical reaction diagram illustrating the mix of hydrogen peroxide and phenyl oxalate ester producing light."

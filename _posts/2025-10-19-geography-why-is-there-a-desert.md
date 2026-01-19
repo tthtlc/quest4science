@@ -1,7 +1,7 @@
 ---
 title: "Why is there a desert next to the Amazon rainforest?"
 date: 2025-10-19 16:04:32 +08:00
-categories: [Geography]
+categories: geography
 tags: ["Amazon Rainforest", "Atacama Desert", "Geography", "Climate", "South America", "Rain Shadow"]
 image_name: amazon_rainforest_and_desert_contrast.jpg
 image_description: "A striking aerial view showing the lush green Amazon rainforest abruptly transitioning into the dry, barren landscape of the Atacama Desert, highlighting the stark contrast between these two neighboring ecosystems."

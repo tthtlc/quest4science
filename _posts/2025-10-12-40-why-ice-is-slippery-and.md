@@ -1,7 +1,7 @@
 ---
 title: "Why Ice Is Slippery (and Scientists Still Can’t Fully Agree)"
 date: 2025-10-12 09:05:40 +08:00
-categories: [Science & Nature]
+categories: physics
 tags: ["physics", "ice", "water", "science mysteries", "teen science"]
 image_name: ice-surface-closeup.jpg
 image_description: "A highly magnified, colorful image showing the jagged, hexagonal structure of an ice crystal surface, with a shimmering, thin layer of water molecules at the very top, highlighting the boundary between solid ice and the slippery, liquid-like layer."

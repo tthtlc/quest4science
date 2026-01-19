@@ -1,7 +1,7 @@
 ---
 title: "The Molecules That Made Life Possible on Early Earth"
 date: 2025-10-12 09:03:05 +08:00
-categories: [Science / Origins of Life]
+categories: biology
 tags: ["origins of life", "early Earth", "molecules", "prebiotic chemistry", "RNA world"]
 image_name: early_earth_molecules_life.jpg
 image_description: "A colorful artistic illustration of early Earth’s surface showing a primitive ocean with volcanic islands, comets and meteorites raining down, and simple molecules like hydrogen cyanide and amino acids forming in the water under UV sunlight."

@@ -1,7 +1,7 @@
 ---
 title: "The Lost Inventions of Leonardo da Vinci"
 date: 2025-10-11 12:07:50 +08:00
-categories: [Science & Technology]
+categories: history-society
 tags: ["Leonardo da Vinci", "Inventions", "Renaissance", "Science History", "Engineering", "Teen Science"]
 image_name: da-vinci-notebooks.jpg
 image_description: "A colorful, high-resolution image showing an open page from one of Leonardo da Vinci’s notebooks, filled with detailed sketches of flying machines, gears, and anatomical drawings. The background features a mix of Renaissance art tools and modern tech gadgets, highlighting the bridge between past and future."
