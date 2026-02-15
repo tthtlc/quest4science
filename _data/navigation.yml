@@ -1,12 +1,24 @@
 # main links
-#main:
-#  - title: "Quick-Start Guide"
-#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+main:
+  - title: "Home"
+    url: /
+  - title: "Physics"
+    url: /categories/#physics
+  - title: "Chemistry"
+    url: /categories/#chemistry
+  - title: "Biology"
+    url: /categories/#biology
+  - title: "Mathematics"
+    url: /categories/#mathematics
+  - title: "Technology"
+    url: /categories/#technology
+  - title: "Medicine"
+    url: /categories/#medicine
+  - title: "History"
+    url: /categories/#history-society
+  - title: "Geography"
+    url: /categories/#geography
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/

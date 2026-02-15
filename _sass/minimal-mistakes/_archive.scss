@@ -413,11 +413,25 @@
 .wide {
   .archive {
     @include breakpoint($large) {
+      float: none;
+      width: 100%;
       padding-inline-end: 0;
     }
 
     @include breakpoint($x-large) {
+      float: none;
+      width: 100%;
       padding-inline-end: 0;
+    }
+
+    .grid__wrapper {
+      @include breakpoint($large) {
+        margin-inline-end: 0;
+      }
+
+      @include breakpoint($x-large) {
+        margin-inline-end: 0;
+      }
     }
   }
 }
