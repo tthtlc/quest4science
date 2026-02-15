@@ -1,28 +1,12 @@
 ---
-title: "Major scientifically documented differences of Einstein brain and others"
-date: 2026-02-15 16:06:20 +08:00
-categories: biology
-tags: ["brain"]
-image_name: einstein_brain_analyzed.jpg
-image_description: "An analysis of Einstein brain"
+title: "Einstein's Brain Differences: What Made It Unique?"
+date: 2026-02-16 11:00:00 +08:00
+categories: [Science / Neuroscience]
+tags: ["einstein", "brain", "neuroscience", "anatomy", "genius", "parietal lobe", "glial cells", "corpus callosum"]
 comments: true
 ---
 
-
-![Quadratic irrationals: The mysterious numbers behind infinite patterns.](/assets/images/quadratic_irrational_golden_spiral.jpg)
-*Quadratic irrationals: The mysterious numbers behind infinite patterns.*
-
-<!-- Image Description: A mesmerizing golden spiral overlaid with mathematical equations, showing the connection between quadratic irrationals like the golden ratio and natural patterns. Floating numbers and square root symbols spiral inward, while ancient-looking mathematical manuscripts appear faintly in the background. -->
-
-## Exploring the strange world of quadratic irrationals
-
-*By Peter Teoh, Science Writer*
-
-Quadratic irrationals are irrational numbers that are roots of quadratic equations with integer coefficients. They often appear in number theory, continued fractions, and Diophantine approximation. Below are several **example problems** involving quadratic irrationals, ranging from basic to more advanced.
-
----
-
-Research on Albert Einstein’s brain has been going on since it was removed in 1955 by pathologist Thomas Harvey. Scientists compared it with brains of typical adults and sometimes with other high-IQ individuals.
+Research on Albert Einstein's brain has been going on since it was removed in 1955 by pathologist Thomas Harvey. Scientists compared it with brains of typical adults and sometimes with other high-IQ individuals.
 
 Below are the **major scientifically documented differences**, explained from anatomical → cellular → functional levels.
 
@@ -34,7 +18,7 @@ Below are the **major scientifically documented differences**, explained from an
 
 In 1999, neuroscientist Sandra Witelson discovered:
 
-👉 Einstein’s **inferior parietal lobule (IPL)** was:
+Einstein's **inferior parietal lobule (IPL)** was:
 
 * ~15% wider than average
 * Had **missing parietal operculum**
@@ -87,13 +71,13 @@ This suggests his brain had **exceptional cross-hemisphere integration**.
 
 A 1985 study by Marian Diamond found:
 
-👉 Einstein had **more glial cells per neuron** in association cortex.
+Einstein had **more glial cells per neuron** in association cortex.
 
 ---
 
 ## What glial cells actually do (low-level)
 
-Glia are NOT just “support cells”.
+Glia are NOT just "support cells".
 
 They:
 
@@ -111,9 +95,9 @@ Astrocytes absorb glutamate → convert → return precursors
 
 Higher glia density =
 
-✔ faster signal stabilization
-✔ better metabolic efficiency
-✔ stronger long-term potentiation (LTP)
+* faster signal stabilization
+* better metabolic efficiency
+* stronger long-term potentiation (LTP)
 
 ---
 
@@ -138,7 +122,7 @@ The corpus callosum connects the left and right hemispheres.
 
 MRI studies (2009 reanalysis) showed:
 
-👉 Einstein’s callosal fibers were **denser and thicker**.
+Einstein's callosal fibers were **denser and thicker**.
 
 ---
 
@@ -192,7 +176,7 @@ Flat cortex → limited wiring
 Highly folded cortex → massive parallel wiring
 ```
 
-Einstein’s folding pattern was especially complex in:
+Einstein's folding pattern was especially complex in:
 
 * Prefrontal cortex
 * Mathematical reasoning regions
@@ -201,7 +185,7 @@ Einstein’s folding pattern was especially complex in:
 
 # 5. Smaller overall brain size (SURPRISING FACT)
 
-Einstein’s brain:
+Einstein's brain:
 
 * ~1230 grams
 * Slightly **below average male brain weight**
@@ -214,7 +198,7 @@ This contradicts early myths that genius = larger brain.
 
 Modern understanding:
 
-👉 Intelligence depends more on:
+Intelligence depends more on:
 
 * Connectivity efficiency
 * Synaptic plasticity
@@ -226,7 +210,7 @@ NOT sheer size.
 
 # 6. Differences compared to other famous genius brains
 
-Here’s a high-level comparison:
+Here's a high-level comparison:
 
 | Feature            | Einstein          | Other famous brains (e.g., mathematicians, writers) |
 | ------------------ | ----------------- | --------------------------------------------------- |
@@ -242,7 +226,7 @@ Here’s a high-level comparison:
 
 Modern neuroscience emphasizes:
 
-⚠️ No single “genius brain pattern” exists.
+No single "genius brain pattern" exists.
 
 Studies show:
 
@@ -250,7 +234,7 @@ Studies show:
 * Environment + training reshape neural circuits
 * Brain plasticity plays a huge role
 
-Einstein’s differences likely reflect:
+Einstein's differences likely reflect:
 
 * Genetic predisposition
 * Intense lifelong cognitive training
@@ -260,9 +244,9 @@ Einstein’s differences likely reflect:
 
 # 8. Most likely explanation (modern neuroscience view)
 
-Today’s consensus:
+Today's consensus:
 
-Einstein’s brain was optimized for:
+Einstein's brain was optimized for:
 
 ```
 High connectivity
@@ -271,6 +255,6 @@ High connectivity
 = exceptional abstract reasoning ability
 ```
 
-Not simply “bigger” or “more neurons”.
+Not simply "bigger" or "more neurons".
 
 ---
