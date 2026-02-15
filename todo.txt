@@ -1,0 +1,76 @@
+
+I'll help you investigate why the tags and categories aren't updating on your Jekyll site. Let me first fetch the repository and the example page to understand the current setup.Now let me check the repository structure to see the configuration files:Let me try a different approach and look at the raw repository files:Let me search for information about Minimal Mistakes theme and tags/categories configuration:Based on my research, I can now explain the issue. Let me check the actual page to see what's missing:
+
+Looking at your site https://quest4science.xyz/math-the-trick-to-multiply-any/, I can see that the page displays but the tags and categories sections at the bottom are not showing up or not linking properly.
+
+## The Problem
+
+For the Minimal Mistakes Jekyll theme, **tags and categories won't display automatically** on posts. Here are the most common reasons why they're not working:
+
+### 1. **Missing Archive Pages**
+You need to create dedicated archive pages for categories and tags, either manually or using the jekyll-archives plugin. If these pages don't exist, the links will be broken.
+
+### 2. **Configuration Issues**
+
+Since you're using GitHub Pages (which has plugin restrictions), you likely need to use the **Liquid method** instead of jekyll-archives. Here's what should be in your `_config.yml`:
+
+```yaml
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+```
+
+### 3. **Missing Archive Page Files**
+
+If you're not using the jekyll-archives plugin, you need to create the archive pages manually. You need to create two files:
+
+**`_pages/category-archive.md`:**
+```yaml
+---
+title: "Posts by Category"
+layout: categories
+permalink: /categories/
+author_profile: true
+---
+```
+
+**`_pages/tag-archive.md`:**
+```yaml
+---
+title: "Posts by Tag"
+layout: tags
+permalink: /tags/
+author_profile: true
+---
+```
+
+### 4. **Front Matter in Posts**
+
+Your posts need proper front matter with categories and tags. For example:
+
+```yaml
+---
+title: "The Trick to Multiply ANY Number by 99 Instantly"
+categories:
+  - math
+tags:
+  - mathematics
+  - tricks
+  - vedic-math
+---
+```
+
+## Solution Steps
+
+1. **Check your `_config.yml`** - Ensure the archive configuration uses `type: liquid`
+2. **Create the archive pages** - Add `category-archive.md` and `tag-archive.md` in your `_pages` folder
+3. **Verify post front matter** - Make sure your posts have proper `categories:` and `tags:` fields
+4. **Commit and push** - GitHub Actions will rebuild your site automatically
+
+The key issue is that GitHub Pages doesn't support the jekyll-archives plugin, so you must use the Liquid method and manually create the archive pages.
+
+Would you like me to help you check your specific repository configuration files to pinpoint the exact issue?
