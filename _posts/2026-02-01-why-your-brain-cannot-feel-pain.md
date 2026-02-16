@@ -1,7 +1,7 @@
 ---
 title: "Why Your Brain Cannot Feel Pain"
 date: 2026-02-01 09:00:00 +08:00
-categories: Biology
+categories: biology
 tags: ["neuroscience", "pain", "brain", "nerves", "health"]
 image_name: why-your-brain-cannot-feel-pain.jpg
 image_description: "An anatomical brain illustration with surrounding nerves highlighted in warm colors."

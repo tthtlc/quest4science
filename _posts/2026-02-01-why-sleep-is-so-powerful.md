@@ -1,7 +1,7 @@
 ---
 title: "Why Sleep Is So Powerful"
 date: 2026-02-01 09:00:00 +08:00
-categories: Biology
+categories: biology
 tags: ["sleep", "brain", "memory", "health", "circadian"]
 image_name: why-sleep-is-so-powerful.jpg
 image_description: "A calm bedroom scene with a brain silhouette filled with soft flowing channels symbolizing cleanup."

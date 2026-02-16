@@ -1,7 +1,7 @@
 ---
 title: "CRISPR: Editing DNA Like Text"
 date: 2026-02-01 09:00:00 +08:00
-categories: Biology
+categories: biology
 tags: ["crispr", "genetics", "dna", "gene editing", "biotech"]
 image_name: crispr-editing-dna-like-text.jpg
 image_description: "A stylized DNA helix with a pair of molecular scissors cutting a highlighted segment."
