@@ -8,18 +8,17 @@ image_description: "A calm bedroom scene with a brain silhouette filled with sof
 comments: true
 ---
 
-![Sleep powers memory and brain cleanup.](/assets/images/why-sleep-is-so-powerful.jpg)
 *Sleep powers memory and brain cleanup.*
 
 <!-- Image Description: A calm bedroom scene with a brain silhouette filled with soft flowing channels symbolizing cleanup. -->
-
-## Nighttime repair for the brain
+![Sleep powers memory and brain cleanup.](/assets/images/why-sleep-is-so-powerful.png)
 
 *By Peter Teoh, Science Writer*
 
+---
+
 Sleep is not wasted time. It is when the brain consolidates memories, clears waste, and resets key systems.
 
----
 
 ### **Explainer: What happens while you sleep**
 **Focus:**
