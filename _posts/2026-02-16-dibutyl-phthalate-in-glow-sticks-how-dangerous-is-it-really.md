@@ -1,7 +1,7 @@
 ---
 title: "Dibutyl Phthalate in Glow Sticks: How Dangerous Is It Really?"
 date: 2026-02-16 11:00:00 +08:00
-categories: [Science / Chemistry]
+categories: [chemistry]
 tags: ["glow sticks", "DBP", "dibutyl phthalate", "toxicology", "phthalates", "safety", "carcinogen", "endocrine disruptor"]
 comments: true
 ---
