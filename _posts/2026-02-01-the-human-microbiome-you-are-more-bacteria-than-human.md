@@ -1,7 +1,7 @@
 ---
 title: "The Human Microbiome: You Are More Bacteria Than Human"
 date: 2026-02-01 09:00:00 +08:00
-categories: .iology
+categories: biology
 tags: ["microbiome", "gut", "bacteria", "immunity", "health"]
 image_name: the-human-microbiome-you-are-more-bacteria-than-human.jpg
 image_description: "A silhouette of a human torso filled with colorful microbial icons clustered around the gut."
