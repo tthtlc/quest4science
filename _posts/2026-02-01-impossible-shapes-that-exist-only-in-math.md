@@ -1,7 +1,7 @@
 ---
 title: "Impossible Shapes That Exist Only in Math"
 date: 2026-02-01 09:00:00 +08:00
-categories: Mathematics
+categories: mathematics
 tags: ["topology", "mobius", "klein bottle", "geometry", "visualization"]
 image_name: impossible-shapes-that-exist-only-in-math.jpg
 image_description: "A clean white Mobius strip twisting into a single continuous band against a soft gradient background."

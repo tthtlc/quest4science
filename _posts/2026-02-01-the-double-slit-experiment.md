@@ -1,7 +1,7 @@
 ---
 title: "The Double-Slit Experiment"
 date: 2026-02-01 09:00:00 +08:00
-categories: Physics
+categories: physics
 tags: ["quantum", "wave-particle", "interference", "measurement", "photons"]
 image_name: the-double-slit-experiment.jpg
 image_description: "A beam of light hitting two narrow slits and forming an interference pattern on a screen."

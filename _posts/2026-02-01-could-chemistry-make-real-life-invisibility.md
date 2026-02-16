@@ -1,7 +1,7 @@
 ---
 title: "Could Chemistry Make Real-Life Invisibility?"
 date: 2026-02-01 09:00:00 +08:00
-categories: Chemistry
+categories: chemistry
 tags: ["metamaterials", "optics", "refraction", "cloaking", "materials"]
 image_name: could-chemistry-make-real-life-invisibility.jpg
 image_description: "A translucent shape with light rays curving smoothly around it, leaving the background undisturbed."

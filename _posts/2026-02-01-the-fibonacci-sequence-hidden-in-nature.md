@@ -1,7 +1,7 @@
 ---
 title: "The Fibonacci Sequence Hidden in Nature"
 date: 2026-02-01 09:00:00 +08:00
-categories: Mathematics
+categories: mathematics
 tags: ["fibonacci", "patterns", "nature", "spirals", "growth"]
 image_name: the-fibonacci-sequence-hidden-in-nature.jpg
 image_description: "Close-up of a sunflower head with spiraling seed patterns, highlighted to show two intersecting spiral families."

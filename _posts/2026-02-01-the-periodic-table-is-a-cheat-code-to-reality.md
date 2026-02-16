@@ -1,7 +1,7 @@
 ---
 title: "The Periodic Table Is a Cheat Code to Reality"
 date: 2026-02-01 09:00:00 +08:00
-categories: Chemistry
+categories: chemistry
 tags: ["periodic table", "elements", "chemistry", "atomic structure", "trends"]
 image_name: the-periodic-table-is-a-cheat-code-to-reality.jpg
 image_description: "A clean periodic table layout with highlighted columns and faint electron shell diagrams behind it."

@@ -1,7 +1,7 @@
 ---
 title: "Why the Sky Is Not Purple"
 date: 2026-02-01 09:00:00 +08:00
-categories: Physics
+categories: physics
 tags: ["light", "scattering", "atmosphere", "color", "optics"]
 image_name: why-the-sky-is-not-purple.jpg
 image_description: "A bright blue sky gradient above a horizon, with a subtle spectrum overlay showing scattered wavelengths."

@@ -1,7 +1,7 @@
 ---
 title: "Why Zero Almost Did Not Exist"
 date: 2026-02-01 09:00:00 +08:00
-categories: Mathematics
+categories: mathematics
 tags: ["zero", "history", "numerals", "place value", "culture"]
 image_name: why-zero-almost-did-not-exist.jpg
 image_description: "A minimalist stone tablet with an empty circle carved at the center, surrounded by ancient numerals."

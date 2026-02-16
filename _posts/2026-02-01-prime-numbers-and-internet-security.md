@@ -1,7 +1,7 @@
 ---
 title: "Prime Numbers and Internet Security"
 date: 2026-02-01 09:00:00 +08:00
-categories: Mathematics
+categories: mathematics
 tags: ["primes", "cryptography", "rsa", "security", "number theory"]
 image_name: prime-numbers-and-internet-security.jpg
 image_description: "A padlock made of digits and prime symbols, with two large numbers glowing on either side."

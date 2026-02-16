@@ -1,7 +1,7 @@
 ---
 title: "Chemical Reactions That Look Like Magic"
 date: 2026-02-01 09:00:00 +08:00
-categories: Chemistry
+categories: chemistry
 tags: ["reactions", "color change", "oscillations", "exothermic", "demonstrations"]
 image_name: chemical-reactions-that-look-like-magic.jpg
 image_description: "A beaker with swirling bands of red and blue dye forming an oscillating pattern."

@@ -1,7 +1,7 @@
 ---
 title: "The Banach-Tarski Paradox"
 date: 2026-02-01 09:00:00 +08:00
-categories: Mathematics
+categories: mathematics
 tags: ["set theory", "paradox", "geometry", "axiom of choice", "infinity"]
 image_name: the-banach-tarski-paradox.jpg
 image_description: "A sphere broken into abstract floating shards, reassembling into two identical spheres, rendered in clean geometric style."

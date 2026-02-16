@@ -1,7 +1,7 @@
 ---
 title: "Could We Ever Build a Warp Drive?"
 date: 2026-02-01 09:00:00 +08:00
-categories: Physics
+categories: physics
 tags: ["relativity", "warp drive", "spacetime", "energy", "theory"]
 image_name: could-we-ever-build-a-warp-drive.jpg
 image_description: "A spacecraft surrounded by a glowing spacetime bubble, with grid lines compressed ahead and stretched behind."

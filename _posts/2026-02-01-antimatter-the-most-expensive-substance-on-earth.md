@@ -1,7 +1,7 @@
 ---
 title: "Antimatter: The Most Expensive Substance on Earth"
 date: 2026-02-01 09:00:00 +08:00
-categories: Physics
+categories: physics
 tags: ["antimatter", "particles", "annihilation", "accelerators", "energy"]
 image_name: antimatter-the-most-expensive-substance-on-earth.jpg
 image_description: "A glowing particle and anti-particle spiraling toward each other inside a magnetic trap."

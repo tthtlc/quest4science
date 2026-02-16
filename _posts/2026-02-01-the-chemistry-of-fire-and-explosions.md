@@ -1,7 +1,7 @@
 ---
 title: "The Chemistry of Fire and Explosions"
 date: 2026-02-01 09:00:00 +08:00
-categories: Chemistry
+categories: chemistry
 tags: ["combustion", "oxidation", "energy", "reaction rates", "fuel"]
 image_name: the-chemistry-of-fire-and-explosions.jpg
 image_description: "A controlled flame front in a lab chamber, with a transparent view of expanding gas."

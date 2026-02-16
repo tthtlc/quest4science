@@ -1,7 +1,7 @@
 ---
 title: "What Happens If You Fall into a Black Hole?"
 date: 2026-02-01 09:00:00 +08:00
-categories: Physics
+categories: physics
 tags: ["black holes", "gravity", "relativity", "event horizon", "spacetime"]
 image_name: what-happens-if-you-fall-into-a-black-hole.jpg
 image_description: "A dark black hole silhouette with a bright accretion ring, stars streaking as they curve inward."
