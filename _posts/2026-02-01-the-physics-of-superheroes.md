@@ -1,7 +1,7 @@
 ---
 title: "The Physics of Superheroes"
 date: 2026-02-01 09:00:00 +08:00
-categories: Physics
+categories: physics
 tags: ["mechanics", "energy", "strength", "fiction", "limits"]
 image_name: the-physics-of-superheroes.jpg
 image_description: "A superhero silhouette mid-flight with motion lines, overlaid with force arrows and equations."
