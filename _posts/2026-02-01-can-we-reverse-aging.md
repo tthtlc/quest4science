@@ -1,7 +1,7 @@
 ---
 title: "Can We Reverse Aging?"
 date: 2026-02-01 09:00:00 +08:00
-categories: Medicine
+categories: medicine
 tags: ["aging", "telomeres", "senescence", "longevity", "medicine"]
 image_name: can-we-reverse-aging.jpg
 image_description: "A split image of a healthy cell and an aged cell, with fading mitochondria and shortened telomeres."

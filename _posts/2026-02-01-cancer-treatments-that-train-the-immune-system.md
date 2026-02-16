@@ -1,7 +1,7 @@
 ---
 title: "Cancer Treatments That Train the Immune System"
 date: 2026-02-01 09:00:00 +08:00
-categories: Medicine
+categories: medicine
 tags: ["cancer", "immunotherapy", "t cells", "medicine", "oncology"]
 image_name: cancer-treatments-that-train-the-immune-system.jpg
 image_description: "Immune cells glowing as they surround and attack a cluster of tumor cells."
