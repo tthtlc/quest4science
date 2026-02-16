@@ -1,7 +1,7 @@
 ---
 title: "Side Effects of Checkpoint Inhibitors: What Patients Should Know"
 date: 2026-02-16 14:00:00 +08:00
-categories: [Science / Medicine]
+categories: [medicine]
 tags: ["checkpoint inhibitors", "immunotherapy", "side effects", "immune-related adverse events", "colitis", "pneumonitis", "thyroiditis", "oncology"]
 comments: true
 ---

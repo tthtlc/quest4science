@@ -1,7 +1,7 @@
 ---
 title: "Checkpoint Inhibitors: How They Unleash Your Immune System Against Cancer"
 date: 2026-02-16 12:00:00 +08:00
-categories: [Science / Medicine]
+categories: [medicine]
 tags: ["checkpoint inhibitors", "immunotherapy", "cancer", "PD-1", "PD-L1", "CTLA-4", "T cells", "oncology"]
 comments: true
 ---

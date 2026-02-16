@@ -1,7 +1,7 @@
 ---
 title: "The Chemistry of Glow Sticks: Are They Safe or Carcinogenic?"
 date: 2026-02-16 10:00:00 +08:00
-categories: [Science / Chemistry]
+categories: [chemistry]
 tags: ["glow sticks", "chemiluminescence", "oxalate esters", "toxicology", "carcinogens", "safety", "chemistry"]
 comments: true
 ---

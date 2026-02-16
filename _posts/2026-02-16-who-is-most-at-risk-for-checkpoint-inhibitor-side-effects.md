@@ -1,7 +1,7 @@
 ---
 title: "Who Is Most at Risk for Checkpoint Inhibitor Side Effects?"
 date: 2026-02-16 15:00:00 +08:00
-categories: [Science / Medicine]
+categories: [medicine]
 tags: ["checkpoint inhibitors", "immunotherapy", "risk factors", "autoimmune disease", "side effects", "biomarkers", "CTLA-4", "oncology"]
 comments: true
 ---

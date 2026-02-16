@@ -1,7 +1,7 @@
 ---
 title: "30 Mind-Blowing Infinite Fractions That Reveal Hidden Patterns in Numbers"
 date: 2026-01-18 10:00:00 +08:00
-categories: [Mathematics / Number Theory]
+categories: [mathematics]
 tags: ["continued fractions", "golden ratio", "pi", "euler number", "irrational numbers", "teen science", "number theory"]
 image_name: continued_fraction.jpg
 image_description: "A stunning visualization of continued fractions spiraling inward, with famous mathematical constants like pi, e, and the golden ratio represented as infinite nested fractions against a cosmic mathematical backdrop."

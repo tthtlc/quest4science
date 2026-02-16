@@ -1,7 +1,7 @@
 ---
 title: "Einstein's Brain Differences: What Made It Unique?"
 date: 2026-02-16 11:00:00 +08:00
-categories: [Science / Neuroscience]
+categories: [medicine]
 tags: ["einstein", "brain", "neuroscience", "anatomy", "genius", "parietal lobe", "glial cells", "corpus callosum"]
 comments: true
 ---

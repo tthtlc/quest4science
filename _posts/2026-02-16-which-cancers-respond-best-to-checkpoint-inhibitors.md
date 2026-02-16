@@ -1,7 +1,7 @@
 ---
 title: "Which Cancers Respond Best to Checkpoint Inhibitors?"
 date: 2026-02-16 13:00:00 +08:00
-categories: [Science / Medicine]
+categories: [medicine]
 tags: ["checkpoint inhibitors", "immunotherapy", "cancer", "melanoma", "lung cancer", "kidney cancer", "MSI-H", "tumor mutational burden"]
 comments: true
 ---
