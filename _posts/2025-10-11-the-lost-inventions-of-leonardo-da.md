@@ -8,16 +8,16 @@ image_description: "A colorful, high-resolution image showing an open page from 
 comments: true
 ---
 
+*The Genius Who Imagined the Future*
+
+*By Peter Teoh, Science Writer*
 
 ![Leonardo da Vinci’s notebooks are packed with ideas that were centuries ahead of their time—some lost to history, others inspiring inventors even today.](/assets/images/da-vinci-notebooks.jpg)
 *Leonardo da Vinci’s notebooks are packed with ideas that were centuries ahead of their time—some lost to history, others inspiring inventors even today.*
 
 <!-- Image Description: A colorful, high-resolution image showing an open page from one of Leonardo da Vinci’s notebooks, filled with detailed sketches of flying machines, gears, and anatomical drawings. The background features a mix of Renaissance art tools and modern tech gadgets, highlighting the bridge between past and future. -->
 
-
-## The Genius Who Imagined the Future
-
-*By Peter Teoh, Science Writer*
+---
 
 Imagine a world where flying machines, underwater boats, and self-playing musical instruments exist—not today, but 500 years ago. That’s exactly what Leonardo da Vinci, the ultimate Renaissance man, dreamed up in his notebooks. While you might know him as the painter of the Mona Lisa, Leonardo was also a super-curious scientist and inventor who sketched gadgets that were way ahead of his time. Some of his wildest ideas never got built, and some were lost to history. Let’s dive into the fascinating world of Leonardo’s “lost” inventions and see how his imagination still inspires us today.
 

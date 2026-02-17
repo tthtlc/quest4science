@@ -8,15 +8,16 @@ image_description: "An artistic illustration showing a human body transitioning 
 comments: true
 ---
 
+*Exploring the invisible chemistry behind life’s final moments*
+
+*By Peter Teoh, Science Writer*
 
 ![Visualizing the molecular breakdown of the human body after death — from living cells to decomposition.](/assets/images/molecular_decomposition_process.jpg)
 *Visualizing the molecular breakdown of the human body after death — from living cells to decomposition.*
 
 <!-- Image Description: An artistic illustration showing a human body transitioning from a living state to the molecular breakdown stage after death, highlighting cells breaking down, enzymes releasing, and bacteria colonizing tissues. -->
 
-## Exploring the invisible chemistry behind life’s final moments
-
-*By Peter Teoh, Science Writer*
+---
 
 ### Introduction
 

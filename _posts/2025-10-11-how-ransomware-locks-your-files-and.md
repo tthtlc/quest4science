@@ -8,16 +8,16 @@ image_description: "A colorful digital illustration showing a computer screen wi
 comments: true
 ---
 
+*The sneaky cyber threat that locks your digital world*
+
+*By Peter Teoh, Science Writer*
 
 ![Ransomware encrypts your files and demands money to unlock them, acting like a digital kidnapper.](/assets/images/ransomware_locking_files.jpg)
 *Ransomware encrypts your files and demands money to unlock them, acting like a digital kidnapper.*
 
 <!-- Image Description: A colorful digital illustration showing a computer screen with files turning into digital locks, surrounded by a hacker silhouette demanding cryptocurrency, symbolizing ransomware encrypting files and demanding ransom. -->
 
-
-### The sneaky cyber threat that locks your digital world
-
-*By Peter Teoh, Science Writer*
+---
 
 Imagine waking up one day and finding your phone or computer telling you that all your photos, games, homework, and music are locked — and the only way to get them back is to pay a stranger. This is exactly what ransomware does, and it’s one of the most dangerous types of cyber attacks today. But how does it work? Let's dive in!
 

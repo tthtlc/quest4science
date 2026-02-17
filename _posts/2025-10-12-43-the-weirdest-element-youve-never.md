@@ -8,18 +8,17 @@ image_description: "A stylized digital illustration showing a dark, lustrous sam
 comments: true
 ---
 
+*The Weirdest Element You’ve Never Heard Of: Astatine*
+
+*By Peter Teoh, Science Writer*
 
 ![Astatine, element 85, is the rarest naturally occurring element on Earth and one of the most mysterious members of the halogen family.](/assets/images/astatine_element_visualization.jpg)
 *Astatine, element 85, is the rarest naturally occurring element on Earth and one of the most mysterious members of the halogen family.*
 
 <!-- Image Description: A stylized digital illustration showing a dark, lustrous sample of astatine glowing faintly with a radioactive symbol overlay, accompanied by a periodic table highlighting element 85 in the halogen group. The background subtly features a laboratory setting with nuclear research equipment. -->
 
+---
 
-### The Weirdest Element You’ve Never Heard Of: Astatine
-
-*By Peter Teoh, Science Writer*
-
-**Introduction**
 Imagine an element so rare that only about 25 grams exist naturally on Earth at any time. Astatine, the 85th element on the periodic table, is just that — a mysterious, radioactive halogen that barely makes an appearance in nature but sparks big questions about chemistry and physics. Let’s dive into the story of this elusive element, why it’s so weird, and what makes it fascinating for scientists and curious minds alike.
 
 ---

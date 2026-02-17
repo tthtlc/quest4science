@@ -8,16 +8,16 @@ image_description: "A vibrant illustration showing a DNA double helix being prec
 comments: true
 ---
 
+*Unlocking the Blueprint of Life, One Gene at a Time*
+
+*By Peter Teoh, Science Writer*
 
 ![CRISPR gene editing holds the promise to change DNA with precision, raising hopes and questions about designing human traits.](/assets/images/crispr_gene_editing_baby_dna.jpg)
 *CRISPR gene editing holds the promise to change DNA with precision, raising hopes and questions about designing human traits.*
 
 <!-- Image Description: A vibrant illustration showing a DNA double helix being precisely edited by molecular scissors labeled CRISPR, with a softly glowing baby silhouette in the background symbolizing gene editing's impact on future humans. -->
 
-
-### Unlocking the Blueprint of Life, One Gene at a Time
-
-*By Peter Teoh, Science Writer*
+---
 
 Imagine a world where babies could be designed with the best traits: no genetic diseases, perfect eyesight, maybe even enhanced intelligence or athleticism. This idea, once the stuff of science fiction, is now edging closer to reality thanks to a powerful gene-editing tool called CRISPR. But how close are we really to designing humans? Let’s dive into the story of CRISPR babies and the science behind them.
 

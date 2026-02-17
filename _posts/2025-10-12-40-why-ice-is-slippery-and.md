@@ -8,17 +8,16 @@ image_description: "A highly magnified, colorful image showing the jagged, hexag
 comments: true
 ---
 
+*Why Is Ice So Slippery? (And Why Scientists Still Debate It)*
+
+*By Peter Teoh, Science Writer*
 
 ![A microscopic view of ice’s surface reveals a thin, slippery layer of water—even below freezing—that helps explain why ice is so slick.](/assets/images/ice-surface-closeup.jpg)
 *A microscopic view of ice’s surface reveals a thin, slippery layer of water—even below freezing—that helps explain why ice is so slick.*
 
 <!-- Image Description: A highly magnified, colorful image showing the jagged, hexagonal structure of an ice crystal surface, with a shimmering, thin layer of water molecules at the very top, highlighting the boundary between solid ice and the slippery, liquid-like layer. -->
 
-
-## Why Is Ice So Slippery? (And Why Scientists Still Debate It)
-
-### The Slippery Mystery Beneath Your Feet
-*By Peter Teoh, Science Writer*
+---
 
 Have you ever wondered why ice is so slippery—why you can glide across a frozen pond but not a wooden floor? For over 200 years, scientists have scratched their heads over this everyday mystery. Even today, the answer isn’t as simple as you might think, and researchers are still uncovering new clues[3].
 

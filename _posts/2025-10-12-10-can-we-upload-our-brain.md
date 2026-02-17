@@ -8,16 +8,16 @@ image_description: "A futuristic, vibrant illustration showing a human head with
 comments: true
 ---
 
+*Exploring the Science Behind Mind Uploading and Brain-Computer Interfaces*
+
+*By Peter Teoh, Science Writer*
 
 ![An artistic impression of the brain’s electrical signals being uploaded to a computer, illustrating the idea of brain-computer interfaces and mind uploading.](/assets/images/brain_computer_interface_concept.jpg)
 *An artistic impression of the brain’s electrical signals being uploaded to a computer, illustrating the idea of brain-computer interfaces and mind uploading.*
 
 <!-- Image Description: A futuristic, vibrant illustration showing a human head with half of the brain digitally scanning or transforming into glowing data streams flowing into a computer or cloud, symbolizing brain-computer interface and brain uploading concepts. -->
 
-
-## Exploring the Science Behind Mind Uploading and Brain-Computer Interfaces
-
-*By Peter Teoh, Science Writer*
+---
 
 Imagine if you could save your thoughts, memories, and even your personality like a file on a computer. Could we one day upload our brains to a computer and live forever in a digital world? It sounds like sci-fi, but scientists are exploring technologies that bring us closer to this idea than ever before.
 

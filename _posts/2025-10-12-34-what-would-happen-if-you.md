@@ -8,16 +8,16 @@ image_description: "A dynamic, colorful artistic illustration showing a chaotic 
 comments: true
 ---
 
+*What Would Happen If You Mixed Every Chemical Element Together?*
+
+*By Peter Teoh, Science Writer*
 
 ![Imagine mixing every element on the periodic table—what kind of chemical fireworks would you get?](/assets/images/mixed_elements_explosion.jpg)
 *Imagine mixing every element on the periodic table—what kind of chemical fireworks would you get?*
 
 <!-- Image Description: A dynamic, colorful artistic illustration showing a chaotic explosion of atoms and molecules, with various elements' symbols (like H, O, Fe, Au) swirling and reacting in a fiery mix, symbolizing the intense chemical interactions when all elements are combined. -->
 
-
-### What Would Happen If You Mixed Every Chemical Element Together?
-
-*By Peter Teoh, Science Writer*
+---
 
 Have you ever wondered what would happen if you just grabbed every single chemical element from the periodic table and dumped them all into one giant pot? Would it explode? Fizzle out? Or turn into something completely new? Let’s dive into this wild science experiment that’s never been done but is fascinating to imagine.
 

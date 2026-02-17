@@ -8,15 +8,16 @@ image_description: "A detailed political map showing the enclave country of Leso
 comments: true
 ---
 
+*Discovering the Hidden World of Enclave Countries*
+
+*By Peter Teoh, Science Writer*
 
 ![Lesotho, a country entirely surrounded by South Africa, is one of only three enclave countries in the world.](/assets/images/enclave_country_map.jpg)
 *Lesotho, a country entirely surrounded by South Africa, is one of only three enclave countries in the world.*
 
 <!-- Image Description: A detailed political map showing the enclave country of Lesotho completely surrounded by South Africa, highlighting the borders and nearby South African provinces. -->
 
-## Discovering the Hidden World of Enclave Countries
-
-*By Peter Teoh, Science Writer*
+---
 
 Imagine a country so unique that it’s completely enclosed by another country’s land. No, it’s not science fiction — this is a real geographical and political phenomenon called an *enclave*. And despite their rarity, a few such countries exist today, quietly nested within others.
 

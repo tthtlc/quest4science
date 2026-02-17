@@ -8,20 +8,18 @@ image_description: "A close-up photo of a scientist in a laboratory setting hold
 comments: true
 ---
 
+*How Chemists Are Making Plastic Eat Itself*
+
+*By Peter Teoh, Science Writer*
 
 ![Scientists at UC San Diego develop innovative plastic that can break down itself using natural microbes.](/assets/images/self_recycling_plastic_research_lab.jpg)
 *Scientists at UC San Diego develop innovative plastic that can break down itself using natural microbes.*
 
 <!-- Image Description: A close-up photo of a scientist in a laboratory setting holding a flexible, transparent sample of self-recycling plastic, with microscopes and chemical equipment in the background. -->
 
+---
 
-### How Chemists Are Making Plastic Eat Itself
-
-*The future of plastic waste could be a world where plastics disappear on their own — thanks to clever chemistry and nature’s tiny helpers.*
-
-*By Peter Teoh, Science Writer*
-
-Imagine a plastic bottle that doesn’t stick around for hundreds of years in a landfill or ocean. Instead, it breaks itself down naturally, disappearing in just a few months. This sounds like science fiction, but chemists today are making plastics that can literally "eat themselves" — a breakthrough that could change how we handle plastic pollution forever.
+The future of plastic waste could be a world where plastics disappear on their own — thanks to clever chemistry and nature’s tiny helpers
 
 ### What’s the Problem with Plastic?
 Plastic is everywhere — in bottles, shoes, watch bands, and packaging. It’s cheap, strong, and useful, but it lasts a *very* long time. Because most plastics don’t break down easily, they pile up in landfills and oceans, harming wildlife and ecosystems.

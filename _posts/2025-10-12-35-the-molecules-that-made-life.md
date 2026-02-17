@@ -8,15 +8,16 @@ image_description: "A colorful artistic illustration of early Earth’s surface 
 comments: true
 ---
 
+*How simple molecules sparked the origin of life*
+
+*By Peter Teoh, Science Writer*
 
 ![Early Earth was a dynamic place where simple molecules combined under the right conditions to create the building blocks of life.](/assets/images/early_earth_molecules_life.jpg)
 *Early Earth was a dynamic place where simple molecules combined under the right conditions to create the building blocks of life.*
 
 <!-- Image Description: A colorful artistic illustration of early Earth’s surface showing a primitive ocean with volcanic islands, comets and meteorites raining down, and simple molecules like hydrogen cyanide and amino acids forming in the water under UV sunlight. -->
 
-## How simple molecules sparked the origin of life
-
-*By Peter Teoh, Science Writer*
+---
 
 Imagine a world nearly 4 billion years ago, long before plants, animals, or even tiny microbes existed. The Earth was a harsh place—volcanoes erupted, comets crashed, and ultraviolet rays blasted its surface. Yet, in this chaotic environment, the first molecules that would eventually lead to life began to form. But what were these molecules, and how did they come together to make life possible? Let’s explore the fascinating story of the molecules that kickstarted life on early Earth.
 

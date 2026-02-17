@@ -8,17 +8,16 @@ image_description: "A vibrant, futuristic cityscape under a clear blue sky, with
 comments: true
 ---
 
+*Hydrogen: The Invisible Fuel That Could Run the World*
+
+*By Peter Teoh, Science Writer*
+
 ![Imagine a city where cars, buses, and even skyscrapers run on clean hydrogen—water is the only exhaust!](/assets/images/hydrogen-fuel-cell-future-city.jpg)
 *Imagine a city where cars, buses, and even skyscrapers run on clean hydrogen—water is the only exhaust!*
 
 <!-- Image Description: A vibrant, futuristic cityscape under a clear blue sky, with sleek hydrogen-powered buses, cars, and trains moving smoothly along wide streets. In the foreground, a transparent cutaway of a hydrogen fuel cell shows the flow of hydrogen and oxygen, with water vapor gently escaping. Solar panels and wind turbines dot the horizon, symbolizing renewable energy sources for hydrogen production. -->
 
-
-**Hydrogen: The Invisible Fuel That Could Run the World**
-
-**What if the key to a pollution-free planet was the most common element in the universe?**
-
-*By Peter Teoh, Science Writer*
+---
 
 Picture a world where cars don’t puff out smoke, factories don’t cloud the sky, and the only thing coming out of tailpipes is pure water. Sounds like science fiction? It’s not. Meet hydrogen—the simplest, lightest, and most abundant element in the cosmos. Scientists and engineers believe hydrogen could be the superstar of clean energy, powering everything from your phone to entire cities. But how does it work? And could it really replace fossil fuels? Let’s dive in.
 

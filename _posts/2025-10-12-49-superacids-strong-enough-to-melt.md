@@ -8,19 +8,16 @@ image_description: "A dramatic, close-up photo showing a glass beaker partially 
 comments: true
 ---
 
+*Superacids Strong Enough to Melt Glass*
+
+*By Peter Teoh, Science Writer*
 
 ![Superacids, like fluoroantimonic acid, are so powerful they can dissolve glass, a feat unimaginable for ordinary acids.](/assets/images/superacid_melting_glass.jpg)
 *Superacids, like fluoroantimonic acid, are so powerful they can dissolve glass, a feat unimaginable for ordinary acids.*
 
 <!-- Image Description: A dramatic, close-up photo showing a glass beaker partially dissolved or etched by a glowing, colorful liquid representing a superacid. Vapor and small bubbles rise from the surface, emphasizing the extreme reactivity of the acid. The background is a dark laboratory setting to highlight the bright acid. -->
 
-
-### Superacids Strong Enough to Melt Glass
-
-#### The hidden power beyond ordinary acids
-
-*By Peter Teoh, Science Writer*
-
+---
 
 Imagine an acid so strong it can eat through glass, the material that usually protects us from dangerous chemicals. Welcome to the fascinating world of **superacids** — acids that are millions to billions of times stronger than sulfuric acid, one of the strongest acids you probably already know.
 

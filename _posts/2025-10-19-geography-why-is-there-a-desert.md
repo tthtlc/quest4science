@@ -8,15 +8,14 @@ image_description: "A striking aerial view showing the lush green Amazon rainfor
 comments: true
 ---
 
+*Discovering the surprising neighbors of South America’s wildest landscapes*
+
+*By Peter Teoh, Science Writer*
 
 ![The Amazon rainforest and the Atacama Desert: neighbors with very different climates and ecosystems.](/assets/images/amazon_rainforest_and_desert_contrast.jpg)
 *The Amazon rainforest and the Atacama Desert: neighbors with very different climates and ecosystems.*
 
 <!-- Image Description: A striking aerial view showing the lush green Amazon rainforest abruptly transitioning into the dry, barren landscape of the Atacama Desert, highlighting the stark contrast between these two neighboring ecosystems. -->
-
-### Discovering the surprising neighbors of South America’s wildest landscapes
-
-*By Peter Teoh, Science Writer*
 
 ---
 

@@ -32,7 +32,7 @@ and after the liquid header add the following lines (including "---" and bounded
 *By Peter Teoh, Science Writer*
 ---
 
-wheere XXXX is the appropriate title for the post, and YYYY is a description for a image to be generated relevant to the post, and zzz is the image name.
+where XXXX is the appropriate title for the post, and YYYY is a description for a image to be generated relevant to the post, and zzz is the image name.
 
 and rename the filename (ie, instead of post1.md, it should be YYYY-MM-DD-title-of-post.md) likewise also.    
 

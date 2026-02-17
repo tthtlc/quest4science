@@ -8,7 +8,6 @@ image_description: "A colorized historical photo of Franz Joseph Street in Saraj
 comments: true
 ---
 
-
 ![The corner of Franz Joseph Street and the Latin Bridge in Sarajevo, where Gavrilo Princip shot Archduke Franz Ferdinand—not because of a sandwich, but due to a fateful wrong turn.](/assets/images/princip-sarajevo-street.jpg)
 *The corner of Franz Joseph Street and the Latin Bridge in Sarajevo, where Gavrilo Princip shot Archduke Franz Ferdinand—not because of a sandwich, but due to a fateful wrong turn.*
 

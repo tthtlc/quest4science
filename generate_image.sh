@@ -1,9 +1,5 @@
 
-###https://aistudio.google.com/app/apikey
-###gemini key:
-###AIzaSyDQOjpGEaq2viK2inPyXVgDKluPlTBk5_Q
-
-export GEMINI_API_KEY="AIzaSyDQOjpGEaq2viK2inPyXVgDKluPlTBk5_Q"
+export GEMINI_API_KEY=""
 
 ##curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=$GEMINI_API_KEY" \
 ##  -H 'Content-Type: application/json' \

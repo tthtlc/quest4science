@@ -8,15 +8,16 @@ image_description: "Aerial photo showing the complex patchwork border lines runn
 comments: true
 ---
 
+*How a tiny town became a puzzle of borders between Belgium and the Netherlands*
+
+*By Peter Teoh, Science Writer*
 
 ![Baarle: A town where the border between Belgium and the Netherlands zigzags through streets, houses, and even beds.](/assets/images/baarle_border_street.jpg)
 *Baarle: A town where the border between Belgium and the Netherlands zigzags through streets, houses, and even beds.*
 
 <!-- Image Description: Aerial photo showing the complex patchwork border lines running through the town of Baarle, highlighting the intricate enclaves of Belgium and the Netherlands interwoven within the town's streets and buildings. -->
 
-## How a tiny town became a puzzle of borders between Belgium and the Netherlands
-
-*By Peter Teoh, Science Writer*
+---
 
 ### Introduction
 Imagine living in a town where crossing into another country could mean stepping from one side of a street to the other, or even from one room to the next in your own house. This isn’t a story from a fantasy novel but a real-life geography oddity called Baarle — a town literally split between two countries: Belgium and the Netherlands. Let’s explore why Baarle has the strangest border in the world and what makes it so fascinating.

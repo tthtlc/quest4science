@@ -8,19 +8,16 @@ image_description: "A close-up photo showing a small, shiny, silver liquid metal
 comments: true
 ---
 
+*Liquid Metal: The Future of Shape-Shifting Robots*
+
+*By Peter Teoh, Science Writer*
 
 ![A liquid metal robot morphs to slip through jail bars, inspired by the T-1000 from Terminator 2[1][4].](/assets/images/liquid_metal_robot_escape.jpg)
 *A liquid metal robot morphs to slip through jail bars, inspired by the T-1000 from Terminator 2[1][4].*
 
 <!-- Image Description: A close-up photo showing a small, shiny, silver liquid metal robot in a semi-liquid state squeezing through thin vertical bars of a cage, illustrating its shape-shifting ability. The robot has a smooth, reflective surface, resembling a tiny metallic blob in motion. -->
 
-
-## Liquid Metal: The Future of Shape-Shifting Robots
-
-### How robots that flow like liquid could change the world
-
-*By Peter Teoh, Science Writer*
-
+---
 ### Introduction
 Imagine a robot that can melt, flow through tiny cracks, and then solidify again into any shape it wants. Sounds like science fiction? Thanks to recent breakthroughs in liquid metal technology, this futuristic idea is closer than you think. Scientists are building robots that can shift between solid and liquid states, opening up exciting possibilities in medicine, manufacturing, and beyond.
 

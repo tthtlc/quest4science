@@ -8,16 +8,15 @@ image_description: "A close-up photo of a human eye with a digital overlay showi
 comments: true
 ---
 
+*How a Groundbreaking Technology Is Changing Vision for the Better*
+
+*By Peter Teoh, Science Writer*
 
 ![CRISPR gene editing being used to repair genetic mutations in the retina to restore vision.](/assets/images/crispr_gene_editing_eye_trial.jpg)
 *CRISPR gene editing being used to repair genetic mutations in the retina to restore vision.*
-
 <!-- Image Description: A close-up photo of a human eye with a digital overlay showing DNA strands and a CRISPR gene-editing tool targeting a gene, symbolizing the gene therapy being applied to treat inherited blindness. -->
 
-
-## How a Groundbreaking Technology Is Changing Vision for the Better
-
-*By Peter Teoh, Science Writer*
+---
 
 Imagine a world where scientists can fix broken genes just like fixing a typo in a text message. Thanks to CRISPR, a powerful gene-editing tool, that world is becoming real — especially for people born with genetic blindness.
 

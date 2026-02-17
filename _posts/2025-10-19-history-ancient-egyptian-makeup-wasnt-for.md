@@ -8,15 +8,16 @@ image_description: "A detailed close-up illustration of an Ancient Egyptian man 
 comments: true
 ---
 
+*How Ancient Egyptians Used Cosmetics to Protect Themselves in Harsh Environments*
+
+*By Peter Teoh, Science Writer*
 
 ![Ancient Egyptians used kohl eyeliner not just for beauty but for protection against the harsh sun and eye infections.](/assets/images/ancient_egypt_kohl_makeup.jpg)
 *Ancient Egyptians used kohl eyeliner not just for beauty but for protection against the harsh sun and eye infections.*
 
 <!-- Image Description: A detailed close-up illustration of an Ancient Egyptian man and woman applying traditional kohl eyeliner around their eyes, showing the dark, bold eye makeup characteristic of the era. Surrounding them are ancient cosmetic tools like stone palettes and alabaster jars, set against a backdrop of Egyptian hieroglyphs and desert sunlight. -->
 
-## How Ancient Egyptians Used Cosmetics to Protect Themselves in Harsh Environments
-
-*By Peter Teoh, Science Writer*
+---
 
 ### Introduction
 When you think of makeup today, you probably imagine it as a way to look good or express yourself. But for the ancient Egyptians, makeup was much more than just a fashion statement—it was a vital part of their daily survival. From protecting their eyes against the blazing desert sun to fighting off infections, the cosmetics they used had powerful practical and spiritual purposes. Let’s dive into how makeup in ancient Egypt was a special blend of science, magic, and everyday life.

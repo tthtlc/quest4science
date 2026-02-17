@@ -8,15 +8,16 @@ image_description: "A vibrant underwater photograph of a common octopus (Octopus
 comments: true
 ---
 
+*What makes these sea creatures so strange and fascinating?*
+
+*By Peter Teoh, Science Writer*
 
 ![The octopus’s incredible camouflage and unique body make it look almost alien — but its true mystery lies beneath the surface.](/assets/images/octopus-alien-earth.jpg)
 *The octopus’s incredible camouflage and unique body make it look almost alien — but its true mystery lies beneath the surface.*
 
 <!-- Image Description: A vibrant underwater photograph of a common octopus (Octopus vulgaris) displaying its complex skin texture and color-changing abilities while extending multiple arms, surrounded by coral and blue ocean water. -->
 
-### What makes these sea creatures so strange and fascinating?
-
-*By Peter Teoh, Science Writer*
+---
 
 Have you ever looked at an octopus and thought, "This creature seems like it came from outer space"? You’re not alone. Octopuses have baffled scientists and inspired sci-fi writers because they look and behave in ways that seem completely different from other animals on Earth. Let’s dive into the ocean’s depths to explore why octopuses might just be the closest thing we have to aliens right here on our planet.
 

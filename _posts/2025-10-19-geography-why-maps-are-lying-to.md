@@ -8,15 +8,16 @@ image_description: "A world map highlighting Greenland with an overlay showing i
 comments: true
 ---
 
+*The Truth Behind the Giant Island Trick*
+
+*By Peter Teoh, Science Writer*
 
 ![Greenland looks huge on most world maps, but it's actually much smaller than it seems. This comparison shows the true size of Greenland versus other countries.](/assets/images/greenland_true_size_comparison.jpg)
 *Greenland looks huge on most world maps, but it's actually much smaller than it seems. This comparison shows the true size of Greenland versus other countries.*
 
 <!-- Image Description: A world map highlighting Greenland with an overlay showing its true size compared side-by-side with countries like India, Australia, and the Democratic Republic of Congo. The map uses the Mercator projection to illustrate how Greenland appears disproportionately large compared to its actual area. -->
 
-## The Truth Behind the Giant Island Trick
-
-*By Peter Teoh, Science Writer*
+---
 
 Imagine looking at a world map and seeing Greenland as this enormous chunk of land, almost as big as Africa. It's hard to miss because it literally takes up a huge space near the top. But here’s the twist: Greenland isn’t really that big. So, why does it look so huge on most maps? Let’s dive into the fascinating story of map projections and how they can trick your eyes.
 
