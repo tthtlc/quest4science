@@ -2,4 +2,78 @@
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
+<!-- Firebase SDK (compat mode for simplicity) -->
+{% if site.firebase.api_key and site.firebase.api_key != "YOUR_API_KEY" %}
+<script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js"></script>
+{% endif %}
+
+<!-- Firebase Auth Button Styles -->
+<style>
+.firebase-auth-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.35rem 0.75rem;
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 6px;
+  color: rgba(255, 255, 255, 0.85);
+  cursor: pointer;
+  font-size: 0.8rem;
+  font-family: inherit;
+  transition: all 0.2s ease;
+  margin-left: 0.5rem;
+  white-space: nowrap;
+}
+
+.firebase-auth-btn:hover {
+  background: rgba(102, 126, 234, 0.2);
+  border-color: rgba(102, 126, 234, 0.5);
+  color: #fff;
+}
+
+.firebase-auth-user {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+.firebase-auth-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: 2px solid rgba(102, 126, 234, 0.5);
+}
+
+.firebase-auth-name {
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.85);
+  max-width: 120px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.firebase-auth-logout {
+  background: transparent;
+  border: none;
+  color: rgba(255, 255, 255, 0.5);
+  cursor: pointer;
+  font-size: 0.75rem;
+  padding: 0.2rem 0.4rem;
+  transition: color 0.2s;
+}
+
+.firebase-auth-logout:hover {
+  color: #f5576c;
+}
+
+@media (max-width: 768px) {
+  .firebase-auth-name { display: none; }
+}
+</style>
+
 <!-- end custom head snippets -->

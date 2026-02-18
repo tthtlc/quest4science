@@ -106,6 +106,15 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
+# Firebase Authentication
+firebase:
+  api_key: "YOUR_API_KEY"
+  auth_domain: "YOUR_PROJECT.firebaseapp.com"
+  project_id: "YOUR_PROJECT_ID"
+  storage_bucket: "YOUR_PROJECT.appspot.com"
+  messaging_sender_id: "YOUR_SENDER_ID"
+  app_id: "YOUR_APP_ID"
+
 # Analytics
 analytics:
   provider               : # false (default), "google", "google-universal", "google-gtag", "custom"

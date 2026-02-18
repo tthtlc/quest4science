@@ -1,3 +1,81 @@
 <!-- start custom footer snippets -->
 
+{% if site.firebase.api_key and site.firebase.api_key != "YOUR_API_KEY" %}
+<script>
+(function() {
+  // Initialize Firebase
+  var firebaseConfig = {
+    apiKey: "{{ site.firebase.api_key }}",
+    authDomain: "{{ site.firebase.auth_domain }}",
+    projectId: "{{ site.firebase.project_id }}",
+    storageBucket: "{{ site.firebase.storage_bucket }}",
+    messagingSenderId: "{{ site.firebase.messaging_sender_id }}",
+    appId: "{{ site.firebase.app_id }}"
+  };
+
+  if (typeof firebase !== 'undefined') {
+    firebase.initializeApp(firebaseConfig);
+
+    var auth = firebase.auth();
+    var db = firebase.firestore();
+    var provider = new firebase.auth.GoogleAuthProvider();
+
+    var loginBtn = document.getElementById('firebase-login-btn');
+    var userInfo = document.getElementById('firebase-user-info');
+    var userAvatar = document.getElementById('firebase-user-avatar');
+    var userName = document.getElementById('firebase-user-name');
+    var logoutBtn = document.getElementById('firebase-logout-btn');
+
+    // Auth state observer
+    auth.onAuthStateChanged(function(user) {
+      if (user) {
+        if (loginBtn) loginBtn.style.display = 'none';
+        if (userInfo) {
+          userInfo.style.display = 'inline-flex';
+          userAvatar.src = user.photoURL || '';
+          userAvatar.alt = user.displayName || 'User';
+          userName.textContent = user.displayName || user.email;
+        }
+      } else {
+        if (loginBtn) loginBtn.style.display = 'inline-flex';
+        if (userInfo) userInfo.style.display = 'none';
+      }
+    });
+
+    // Login handler
+    if (loginBtn) {
+      loginBtn.addEventListener('click', function() {
+        auth.signInWithPopup(provider).then(function(result) {
+          var user = result.user;
+          // Log login data to Firestore
+          db.collection('user_logins').add({
+            uid: user.uid,
+            email: user.email,
+            displayName: user.displayName,
+            photoURL: user.photoURL,
+            loginTime: firebase.firestore.FieldValue.serverTimestamp(),
+            userAgent: navigator.userAgent,
+            page: window.location.href
+          }).catch(function(err) {
+            console.warn('Firestore write error:', err);
+          });
+        }).catch(function(error) {
+          if (error.code !== 'auth/popup-closed-by-user') {
+            console.error('Auth error:', error.message);
+          }
+        });
+      });
+    }
+
+    // Logout handler
+    if (logoutBtn) {
+      logoutBtn.addEventListener('click', function() {
+        auth.signOut();
+      });
+    }
+  }
+})();
+</script>
+{% endif %}
+
 <!-- end custom footer snippets -->
