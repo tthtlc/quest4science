@@ -3,12 +3,12 @@ title: "Quantum Entanglement: Instant Communication?"
 date: 2026-02-01 09:00:00 +08:00
 categories: physics
 tags: ["quantum", "entanglement", "information", "photons", "foundations"]
-image_name: quantum-entanglement-instant-communication.jpg
+image_name: quantum-entanglement-instant-communication.png
 image_description: "Two glowing particles connected by a luminous thread of light across a starry backdrop."
 comments: true
 ---
 
-![Entanglement links outcomes across distance.](/assets/images/quantum-entanglement-instant-communication.jpg)
+![Entanglement links outcomes across distance.](/assets/images/quantum-entanglement-instant-communication.png)
 *Entanglement links outcomes across distance.*
 
 <!-- Image Description: Two glowing particles connected by a luminous thread of light across a starry backdrop. -->

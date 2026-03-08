@@ -3,12 +3,12 @@ title: "Nanotechnology: Building with Atoms"
 date: 2026-02-01 09:00:00 +08:00
 categories: chemistry
 tags: ["nanotechnology", "materials", "self-assembly", "nanoparticles", "engineering"]
-image_name: nanotechnology-building-with-atoms.jpg
+image_name: nanotechnology-building-with-atoms.png
 image_description: "A magnified lattice of atoms with a tiny robot-like tool assembling a structure at the nanoscale."
 comments: true
 ---
 
-![Nanotechnology builds materials atom by atom.](/assets/images/nanotechnology-building-with-atoms.jpg)
+![Nanotechnology builds materials atom by atom.](/assets/images/nanotechnology-building-with-atoms.png)
 *Nanotechnology builds materials atom by atom.*
 
 <!-- Image Description: A magnified lattice of atoms with a tiny robot-like tool assembling a structure at the nanoscale. -->

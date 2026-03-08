@@ -3,12 +3,12 @@ title: "Math Behind Video Game Physics"
 date: 2026-02-01 09:00:00 +08:00
 categories: mathematics
 tags: ["vectors", "matrices", "collision", "simulation", "games"]
-image_name: math-behind-video-game-physics.jpg
+image_name: math-behind-video-game-physics.png
 image_description: "A stylized game scene with vector arrows on a jumping character and collision boxes around platforms."
 comments: true
 ---
 
-![Game physics turns math into motion.](/assets/images/math-behind-video-game-physics.jpg)
+![Game physics turns math into motion.](/assets/images/math-behind-video-game-physics.png)
 *Game physics turns math into motion.*
 
 <!-- Image Description: A stylized game scene with vector arrows on a jumping character and collision boxes around platforms. -->

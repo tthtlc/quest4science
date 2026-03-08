@@ -3,12 +3,12 @@ title: "What Happens If You Fall into a Black Hole?"
 date: 2026-02-01 09:00:00 +08:00
 categories: physics
 tags: ["black holes", "gravity", "relativity", "event horizon", "spacetime"]
-image_name: what-happens-if-you-fall-into-a-black-hole.jpg
+image_name: what-happens-if-you-fall-into-a-black-hole.png
 image_description: "A dark black hole silhouette with a bright accretion ring, stars streaking as they curve inward."
 comments: true
 ---
 
-![Black holes bend spacetime to extremes.](/assets/images/what-happens-if-you-fall-into-a-black-hole.jpg)
+![Black holes bend spacetime to extremes.](/assets/images/what-happens-if-you-fall-into-a-black-hole.png)
 *Black holes bend spacetime to extremes.*
 
 <!-- Image Description: A dark black hole silhouette with a bright accretion ring, stars streaking as they curve inward. -->

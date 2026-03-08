@@ -3,12 +3,12 @@ title: "Can Math Predict the Future?"
 date: 2026-02-01 09:00:00 +08:00
 categories: mathematics
 tags: ["chaos", "models", "prediction", "statistics", "systems"]
-image_name: can-math-predict-the-future.jpg
+image_name: can-math-predict-the-future.png
 image_description: "A layered weather map with swirling vector fields and probability bands fading into the future."
 comments: true
 ---
 
-![Math predicts patterns, not certainties.](/assets/images/can-math-predict-the-future.jpg)
+![Math predicts patterns, not certainties.](/assets/images/can-math-predict-the-future.png)
 *Math predicts patterns, not certainties.*
 
 <!-- Image Description: A layered weather map with swirling vector fields and probability bands fading into the future. -->

@@ -3,12 +3,12 @@ title: "The Fibonacci Sequence Hidden in Nature"
 date: 2026-02-01 09:00:00 +08:00
 categories: mathematics
 tags: ["fibonacci", "patterns", "nature", "spirals", "growth"]
-image_name: the-fibonacci-sequence-hidden-in-nature.jpg
+image_name: the-fibonacci-sequence-hidden-in-nature.png
 image_description: "Close-up of a sunflower head with spiraling seed patterns, highlighted to show two intersecting spiral families."
 comments: true
 ---
 
-![Fibonacci spirals appear in natural growth patterns.](/assets/images/the-fibonacci-sequence-hidden-in-nature.jpg)
+![Fibonacci spirals appear in natural growth patterns.](/assets/images/the-fibonacci-sequence-hidden-in-nature.png)
 *Fibonacci spirals appear in natural growth patterns.*
 
 <!-- Image Description: Close-up of a sunflower head with spiraling seed patterns, highlighted to show two intersecting spiral families. -->

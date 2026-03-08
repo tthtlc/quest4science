@@ -3,12 +3,12 @@ title: "CRISPR: Editing DNA Like Text"
 date: 2026-02-01 09:00:00 +08:00
 categories: biology
 tags: ["crispr", "genetics", "dna", "gene editing", "biotech"]
-image_name: crispr-editing-dna-like-text.jpg
+image_name: crispr-editing-dna-like-text.png
 image_description: "A stylized DNA helix with a pair of molecular scissors cutting a highlighted segment."
 comments: true
 ---
 
-![CRISPR lets scientists edit DNA with precision.](/assets/images/crispr-editing-dna-like-text.jpg)
+![CRISPR lets scientists edit DNA with precision.](/assets/images/crispr-editing-dna-like-text.png)
 *CRISPR lets scientists edit DNA with precision.*
 
 <!-- Image Description: A stylized DNA helix with a pair of molecular scissors cutting a highlighted segment. -->

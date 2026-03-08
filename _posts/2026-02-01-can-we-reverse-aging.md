@@ -3,12 +3,12 @@ title: "Can We Reverse Aging?"
 date: 2026-02-01 09:00:00 +08:00
 categories: medicine
 tags: ["aging", "telomeres", "senescence", "longevity", "medicine"]
-image_name: can-we-reverse-aging.jpg
+image_name: can-we-reverse-aging.png
 image_description: "A split image of a healthy cell and an aged cell, with fading mitochondria and shortened telomeres."
 comments: true
 ---
 
-![Aging research targets damage and senescence.](/assets/images/can-we-reverse-aging.jpg)
+![Aging research targets damage and senescence.](/assets/images/can-we-reverse-aging.png)
 *Aging research targets damage and senescence.*
 
 <!-- Image Description: A split image of a healthy cell and an aged cell, with fading mitochondria and shortened telomeres. -->

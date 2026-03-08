@@ -3,12 +3,12 @@ title: "The Chemistry of Fire and Explosions"
 date: 2026-02-01 09:00:00 +08:00
 categories: chemistry
 tags: ["combustion", "oxidation", "energy", "reaction rates", "fuel"]
-image_name: the-chemistry-of-fire-and-explosions.jpg
+image_name: the-chemistry-of-fire-and-explosions.png
 image_description: "A controlled flame front in a lab chamber, with a transparent view of expanding gas."
 comments: true
 ---
 
-![Combustion and explosions are chemistry at speed.](/assets/images/the-chemistry-of-fire-and-explosions.jpg)
+![Combustion and explosions are chemistry at speed.](/assets/images/the-chemistry-of-fire-and-explosions.png)
 *Combustion and explosions are chemistry at speed.*
 
 <!-- Image Description: A controlled flame front in a lab chamber, with a transparent view of expanding gas. -->

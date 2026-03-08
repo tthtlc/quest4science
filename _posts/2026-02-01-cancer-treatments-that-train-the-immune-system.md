@@ -3,12 +3,12 @@ title: "Cancer Treatments That Train the Immune System"
 date: 2026-02-01 09:00:00 +08:00
 categories: medicine
 tags: ["cancer", "immunotherapy", "t cells", "medicine", "oncology"]
-image_name: cancer-treatments-that-train-the-immune-system.jpg
+image_name: cancer-treatments-that-train-the-immune-system.png
 image_description: "Immune cells glowing as they surround and attack a cluster of tumor cells."
 comments: true
 ---
 
-![Immunotherapy trains the body to fight cancer.](/assets/images/cancer-treatments-that-train-the-immune-system.jpg)
+![Immunotherapy trains the body to fight cancer.](/assets/images/cancer-treatments-that-train-the-immune-system.png)
 *Immunotherapy trains the body to fight cancer.*
 
 <!-- Image Description: Immune cells glowing as they surround and attack a cluster of tumor cells. -->

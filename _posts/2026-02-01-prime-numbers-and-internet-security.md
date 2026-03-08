@@ -3,12 +3,12 @@ title: "Prime Numbers and Internet Security"
 date: 2026-02-01 09:00:00 +08:00
 categories: mathematics
 tags: ["primes", "cryptography", "rsa", "security", "number theory"]
-image_name: prime-numbers-and-internet-security.jpg
+image_name: prime-numbers-and-internet-security.png
 image_description: "A padlock made of digits and prime symbols, with two large numbers glowing on either side."
 comments: true
 ---
 
-![Prime numbers power modern encryption.](/assets/images/prime-numbers-and-internet-security.jpg)
+![Prime numbers power modern encryption.](/assets/images/prime-numbers-and-internet-security.png)
 *Prime numbers power modern encryption.*
 
 <!-- Image Description: A padlock made of digits and prime symbols, with two large numbers glowing on either side. -->

@@ -3,12 +3,12 @@ title: "What Does a 4-Dimensional Object Look Like?"
 date: 2026-02-01 09:00:00 +08:00
 categories: mathematics
 tags: ["dimensions", "tesseract", "projection", "geometry", "visualization"]
-image_name: what-does-a-4-dimensional-object-look-like.jpg
+image_name: what-does-a-4-dimensional-object-look-like.png
 image_description: "A glowing wireframe tesseract projection, a cube within a cube connected by luminous edges, floating on a dark gradient background."
 comments: true
 ---
 
-![A tesseract projection: a 4D cube casting a 3D shadow.](/assets/images/what-does-a-4-dimensional-object-look-like.jpg)
+![A tesseract projection: a 4D cube casting a 3D shadow.](/assets/images/what-does-a-4-dimensional-object-look-like.png)
 *A tesseract projection: a 4D cube casting a 3D shadow.*
 
 <!-- Image Description: A glowing wireframe tesseract projection, a cube within a cube connected by luminous edges, floating on a dark gradient background. -->

@@ -3,12 +3,12 @@ title: "Time Travel Is Real (But Not How Movies Show It)"
 date: 2026-02-01 09:00:00 +08:00
 categories: physics
 tags: ["relativity", "time dilation", "gps", "speed", "gravity"]
-image_name: time-travel-is-real-but-not-how-movies-show-it.jpg
+image_name: time-travel-is-real-but-not-how-movies-show-it.png
 image_description: "Two clocks, one on a satellite and one on Earth, with curved spacetime lines between them."
 comments: true
 ---
 
-![Relativity makes time tick at different rates.](/assets/images/time-travel-is-real-but-not-how-movies-show-it.jpg)
+![Relativity makes time tick at different rates.](/assets/images/time-travel-is-real-but-not-how-movies-show-it.png)
 *Relativity makes time tick at different rates.*
 
 <!-- Image Description: Two clocks, one on a satellite and one on Earth, with curved spacetime lines between them. -->

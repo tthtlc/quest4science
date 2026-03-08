@@ -3,12 +3,12 @@ title: "Fractals: Infinite Complexity from Simple Rules"
 date: 2026-02-01 09:00:00 +08:00
 categories: mathematics
 tags: ["fractals", "iteration", "chaos", "geometry", "patterns"]
-image_name: fractals-infinite-complexity-from-simple-rules.jpg
+image_name: fractals-infinite-complexity-from-simple-rules.png
 image_description: "A swirling fractal coastline-like pattern in deep blues and golds, repeating at multiple scales with fine, lace-like edges."
 comments: true
 ---
 
-![Fractals: infinite complexity from simple rules.](/assets/images/fractals-infinite-complexity-from-simple-rules.jpg)
+![Fractals: infinite complexity from simple rules.](/assets/images/fractals-infinite-complexity-from-simple-rules.png)
 *Fractals: infinite complexity from simple rules.*
 
 <!-- Image Description: A swirling fractal coastline-like pattern in deep blues and golds, repeating at multiple scales with fine, lace-like edges. -->

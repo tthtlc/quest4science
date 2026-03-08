@@ -3,12 +3,12 @@ title: "Why pi Never Ends (and How We Compute Trillions of Digits)"
 date: 2026-02-01 09:00:00 +08:00
 categories: mathematics
 tags: ["pi", "irrational", "algorithms", "computation", "number theory"]
-image_name: why-pi-never-ends-and-how-we-compute-trillions-of-digits.jpg
+image_name: why-pi-never-ends-and-how-we-compute-trillions-of-digits.png
 image_description: "A spiral of digits of pi flowing across a dark background, fading into infinity with a subtle grid overlay."
 comments: true
 ---
 
-![Pi goes on forever, and computers keep pushing further.](/assets/images/why-pi-never-ends-and-how-we-compute-trillions-of-digits.jpg)
+![Pi goes on forever, and computers keep pushing further.](/assets/images/why-pi-never-ends-and-how-we-compute-trillions-of-digits.png)
 *Pi goes on forever, and computers keep pushing further.*
 
 <!-- Image Description: A spiral of digits of pi flowing across a dark background, fading into infinity with a subtle grid overlay. -->

@@ -3,12 +3,12 @@ title: "Why the Sky Is Not Purple"
 date: 2026-02-01 09:00:00 +08:00
 categories: physics
 tags: ["light", "scattering", "atmosphere", "color", "optics"]
-image_name: why-the-sky-is-not-purple.jpg
+image_name: why-the-sky-is-not-purple.png
 image_description: "A bright blue sky gradient above a horizon, with a subtle spectrum overlay showing scattered wavelengths."
 comments: true
 ---
 
-![The sky is blue because short wavelengths scatter most.](/assets/images/why-the-sky-is-not-purple.jpg)
+![The sky is blue because short wavelengths scatter most.](/assets/images/why-the-sky-is-not-purple.png)
 *The sky is blue because short wavelengths scatter most.*
 
 <!-- Image Description: A bright blue sky gradient above a horizon, with a subtle spectrum overlay showing scattered wavelengths. -->

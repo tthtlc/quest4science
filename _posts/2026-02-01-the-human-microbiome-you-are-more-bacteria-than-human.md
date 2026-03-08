@@ -3,12 +3,12 @@ title: "The Human Microbiome: You Are More Bacteria Than Human"
 date: 2026-02-01 09:00:00 +08:00
 categories: biology
 tags: ["microbiome", "gut", "bacteria", "immunity", "health"]
-image_name: the-human-microbiome-you-are-more-bacteria-than-human.jpg
+image_name: the-human-microbiome-you-are-more-bacteria-than-human.png
 image_description: "A silhouette of a human torso filled with colorful microbial icons clustered around the gut."
 comments: true
 ---
 
-![Your microbiome is a vast internal ecosystem.](/assets/images/the-human-microbiome-you-are-more-bacteria-than-human.jpg)
+![Your microbiome is a vast internal ecosystem.](/assets/images/the-human-microbiome-you-are-more-bacteria-than-human.png)
 *Your microbiome is a vast internal ecosystem.*
 
 <!-- Image Description: A silhouette of a human torso filled with colorful microbial icons clustered around the gut. -->

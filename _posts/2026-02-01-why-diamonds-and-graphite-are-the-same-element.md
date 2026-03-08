@@ -3,12 +3,12 @@ title: "Why Diamonds and Graphite Are the Same Element"
 date: 2026-02-01 09:00:00 +08:00
 categories: chemistry
 tags: ["carbon", "allotropes", "bonding", "materials", "structure"]
-image_name: why-diamonds-and-graphite-are-the-same-element.jpg
+image_name: why-diamonds-and-graphite-are-the-same-element.png
 image_description: "A split image showing a diamond crystal lattice on one side and stacked graphite layers on the other."
 comments: true
 ---
 
-![Carbon can be soft or hardest, depending on structure.](/assets/images/why-diamonds-and-graphite-are-the-same-element.jpg)
+![Carbon can be soft or hardest, depending on structure.](/assets/images/why-diamonds-and-graphite-are-the-same-element.png)
 *Carbon can be soft or hardest, depending on structure.*
 
 <!-- Image Description: A split image showing a diamond crystal lattice on one side and stacked graphite layers on the other. -->

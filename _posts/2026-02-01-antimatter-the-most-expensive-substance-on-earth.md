@@ -3,12 +3,12 @@ title: "Antimatter: The Most Expensive Substance on Earth"
 date: 2026-02-01 09:00:00 +08:00
 categories: physics
 tags: ["antimatter", "particles", "annihilation", "accelerators", "energy"]
-image_name: antimatter-the-most-expensive-substance-on-earth.jpg
+image_name: antimatter-the-most-expensive-substance-on-earth.png
 image_description: "A glowing particle and anti-particle spiraling toward each other inside a magnetic trap."
 comments: true
 ---
 
-![Antimatter is rare, powerful, and difficult to store.](/assets/images/antimatter-the-most-expensive-substance-on-earth.jpg)
+![Antimatter is rare, powerful, and difficult to store.](/assets/images/antimatter-the-most-expensive-substance-on-earth.png)
 *Antimatter is rare, powerful, and difficult to store.*
 
 <!-- Image Description: A glowing particle and anti-particle spiraling toward each other inside a magnetic trap. -->

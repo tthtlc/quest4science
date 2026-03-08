@@ -3,12 +3,12 @@ title: "The Banach-Tarski Paradox"
 date: 2026-02-01 09:00:00 +08:00
 categories: mathematics
 tags: ["set theory", "paradox", "geometry", "axiom of choice", "infinity"]
-image_name: the-banach-tarski-paradox.jpg
+image_name: the-banach-tarski-paradox.png
 image_description: "A sphere broken into abstract floating shards, reassembling into two identical spheres, rendered in clean geometric style."
 comments: true
 ---
 
-![The Banach-Tarski paradox challenges our sense of volume.](/assets/images/the-banach-tarski-paradox.jpg)
+![The Banach-Tarski paradox challenges our sense of volume.](/assets/images/the-banach-tarski-paradox.png)
 *The Banach-Tarski paradox challenges our sense of volume.*
 
 <!-- Image Description: A sphere broken into abstract floating shards, reassembling into two identical spheres, rendered in clean geometric style. -->

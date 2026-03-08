@@ -3,12 +3,12 @@ title: "Why Your Brain Cannot Feel Pain"
 date: 2026-02-01 09:00:00 +08:00
 categories: biology
 tags: ["neuroscience", "pain", "brain", "nerves", "health"]
-image_name: why-your-brain-cannot-feel-pain.jpg
+image_name: why-your-brain-cannot-feel-pain.png
 image_description: "An anatomical brain illustration with surrounding nerves highlighted in warm colors."
 comments: true
 ---
 
-![The brain senses pain but does not feel it directly.](/assets/images/why-your-brain-cannot-feel-pain.jpg)
+![The brain senses pain but does not feel it directly.](/assets/images/why-your-brain-cannot-feel-pain.png)
 *The brain senses pain but does not feel it directly.*
 
 <!-- Image Description: An anatomical brain illustration with surrounding nerves highlighted in warm colors. -->
