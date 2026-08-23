@@ -8,18 +8,16 @@ image_description: "A split image showing on one side a hyper-realistic portrait
 comments: true
 ---
 
+*AI drew this picture in 5 seconds – can you tell it’s fake?*
+
+*By Peter Teoh, Science Writer*
 
 ![Can you spot the difference? One image was created by AI in just 5 seconds, the other is a real photo.](/assets/images/ai_generated_vs_real_comparison.jpg)
 *Can you spot the difference? One image was created by AI in just 5 seconds, the other is a real photo.*
 
 <!-- Image Description: A split image showing on one side a hyper-realistic portrait created by AI in seconds, and on the other side a genuine photo of a person. The AI side subtly reveals typical AI artifacts like slightly blurred edges and imperfect reflections, while the real photo shows natural lighting and texture. -->
 
-
-### AI drew this picture in 5 seconds – can you tell it’s fake?
-
-#### How artificial intelligence is creating stunning images — and why spotting fakes is getting harder
-
-*By Peter Teoh, Science Writer*
+---
 
 Imagine telling a computer to draw a picture, and in just five seconds, it creates an image so detailed and realistic that it’s almost impossible to tell it’s fake. Welcome to the world of AI image generation, a rapidly advancing technology that’s reshaping art, media, and even how we see reality itself.
 

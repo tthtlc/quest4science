@@ -8,15 +8,15 @@ image_description: "A high-speed capture of a popcorn kernel mid-explosion, show
 comments: true
 ---
 
+*The surprising science behind your favorite movie snack*
+
+*By Peter Teoh, Science Writer*
 
 ![A popcorn kernel exploding in slow motion, revealing the physics behind its famous pop.](/assets/images/popcorn_explosion_slowmotion.jpg)
 *A popcorn kernel exploding in slow motion, revealing the physics behind its famous pop.*
-
 <!-- Image Description: A high-speed capture of a popcorn kernel mid-explosion, showing the starch 'leg' pushing out and the kernel in the process of turning inside out, with steam expanding inside causing the burst. -->
 
-## The surprising science behind your favorite movie snack
-
-*By Peter Teoh, Science Writer*
+---
 
 Popcorn isn't just a tasty treat — it's a tiny explosion happening right in your kitchen. When you hear that familiar "pop," you're witnessing a fascinating dance of physics and biology in action. But why exactly does popcorn explode? Let’s dive into the science behind the pop.
 

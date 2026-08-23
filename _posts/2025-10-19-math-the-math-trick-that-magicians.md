@@ -8,15 +8,15 @@ image_description: "A magician holding a deck of cards, with three piles of card
 comments: true
 ---
 
+*How simple math makes magic feel like mind reading*
+
+*By Peter Teoh, Science Writer*
 
 ![Mathematics behind magic: How magicians use math tricks to guess your card.](/assets/images/magician_card_trick_math.jpg)
 *Mathematics behind magic: How magicians use math tricks to guess your card.*
-
 <!-- Image Description: A magician holding a deck of cards, with three piles of cards on a table in front of them. The magician is pointing toward a specific pile while a teenager watches in amazement. In the background, faint mathematical symbols and numbers hover subtly, hinting at a secret math formula behind the trick. -->
 
-## How simple math makes magic feel like mind reading
-
-*By Peter Teoh, Science Writer*
+---
 
 Have you ever been amazed when a magician seems to know exactly which card you picked — without peeking? It feels like pure magic, but behind the scenes, math is often the real star. In this article, we’ll uncover the clever mathematics magicians use to guess your card, exploring why it works and how you can impress your friends with your own math-powered magic.
 

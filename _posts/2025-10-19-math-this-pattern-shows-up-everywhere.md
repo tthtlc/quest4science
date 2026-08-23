@@ -8,15 +8,15 @@ image_description: "A close-up photo of a sunflower head showing its dense spira
 comments: true
 ---
 
+*Unlocking Nature’s Secret Code*
+
+*By Peter Teoh, Science Writer*
 
 ![Sunflower seeds arranged in spirals illustrating Fibonacci numbers—nature's way of packing seeds efficiently.](/assets/images/fibonacci_sunflower_spiral.jpg)
 *Sunflower seeds arranged in spirals illustrating Fibonacci numbers—nature's way of packing seeds efficiently.*
-
 <!-- Image Description: A close-up photo of a sunflower head showing its dense spiral seed pattern. The seeds are arranged in two sets of spirals curving clockwise and counterclockwise, illustrating the Fibonacci sequence in nature. -->
 
-### Unlocking Nature’s Secret Code
-
-*By Peter Teoh, Science Writer*
+---
 
 Have you ever wondered why pinecones, sunflowers, and even hurricanes seem to have a mysterious spiral pattern? The answer lies in a fascinating mathematical sequence called the Fibonacci sequence. This simple yet powerful pattern pops up all across nature, shaping everything from the petals on flowers to the way trees branch out. Let’s dive into what the Fibonacci sequence is and why it’s so important to the natural world.
 

@@ -8,15 +8,16 @@ image_description: "A close-up photo of a cat's eyes glowing brightly in the dar
 comments: true
 ---
 
+*Discover the science behind that eerie glow and how a laser pointer reveals your cat’s secret night vision superpower.*
+
+*By Peter Teoh, Science Writer*
 
 ![A cat’s eyes glowing eerily in the dark when illuminated by a laser pointer, revealing the tapetum lucidum at work.](/assets/images/cats-glowing-eyes-laser-pointer.jpg)
 *A cat’s eyes glowing eerily in the dark when illuminated by a laser pointer, revealing the tapetum lucidum at work.*
 
 <!-- Image Description: A close-up photo of a cat's eyes glowing brightly in the dark as a green laser pointer beam is directed towards them, showing the reflective tapetum lucidum effect clearly. -->
 
-## Discover the science behind that eerie glow and how a laser pointer reveals your cat’s secret night vision superpower.
-
-*By Peter Teoh, Science Writer*
+---
 
 Have you ever shone a flashlight or laser pointer at a cat’s eyes in a dark room and watched them light up like tiny glowing orbs? That mysterious glow isn’t magic — it’s a clever natural trick called the *tapetum lucidum* that helps cats see in the dark. Let’s dive into how this works and what happens when you shine a laser pointer right into those shining eyes.
 

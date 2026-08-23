@@ -8,15 +8,16 @@ image_description: "Close-up photo of a smartphone with a visibly swollen batter
 comments: true
 ---
 
+*Why your phone’s battery sometimes looks like it’s puffed up — and what’s really going on inside*
+
+*By Peter Teoh, Science Writer*
 
 ![A swollen phone battery bulges due to internal gas buildup from chemical reactions inside the battery.](/assets/images/swollen_phone_battery.jpg)
 *A swollen phone battery bulges due to internal gas buildup from chemical reactions inside the battery.*
 
 <!-- Image Description: Close-up photo of a smartphone with a visibly swollen battery bulging beneath its screen, distorting the phone's shape. The battery pouch is puffed up like a balloon, showing the physical effect of internal gas buildup. -->
 
-## Why your phone’s battery sometimes looks like it’s puffed up — and what’s really going on inside
-
-*By Peter Teoh, Science Writer*
+---
 
 Have you ever pulled an old phone out of your drawer only to find it looking puffier than when you first used it? If your battery has swollen like a tiny balloon, you’re not alone — this is a surprisingly common problem with lithium-ion batteries, the kind found in almost every smartphone.
 

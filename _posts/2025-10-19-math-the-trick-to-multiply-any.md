@@ -8,18 +8,15 @@ image_description: "A colorful illustration showing a chalkboard with the equati
 comments: true
 ---
 
+*Multiply ANY Number by 99 in Seconds: The Math Trick You’ll Want to Show Your Friends*
+
+*By Peter Teoh, Science Writer*
 
 ![Multiplying by 99 can be as easy as a simple subtraction and a mirror trick—no calculator needed!](/assets/images/math-trick-multiply-by-99.jpg)
 *Multiplying by 99 can be as easy as a simple subtraction and a mirror trick—no calculator needed!*
-
 <!-- Image Description: A colorful illustration showing a chalkboard with the equation '32 × 99 = 3168' being solved step-by-step by a cartoon teenager, with thought bubbles breaking down the mental steps of the Vedic math trick. -->
 
-
-## Multiply ANY Number by 99 in Seconds: The Math Trick You’ll Want to Show Your Friends
-
-### Never Fear Big Numbers Again—Here’s a Shortcut That Works Every Time
-
-*By Peter Teoh, Science Writer*
+---
 
 Have you ever stared at a math problem like 47 × 99 and felt your brain freeze? What if you could solve it in your head—faster than typing it into a calculator? There’s a cool math trick, straight from ancient India (Vedic math), that lets you multiply any number by 99 instantly—no memorizing, no stress[1][2][4]. Let’s break it down, step by step, so you can amaze your friends (and maybe even your math teacher).
 

@@ -8,14 +8,14 @@ image_description: "A colorful split-screen showing a teenager scrolling through
 comments: true
 ---
 
+*Why TikTok Seems to Read Your Mind*
+
+*By Peter Teoh, Science Writer*
 
 ![Your TikTok For You Page is like a digital mirror—each scroll reflects your unique tastes, shaped by a powerful, unseen algorithm.](/assets/images/tiktok-fyp-feed.jpg)
-*Your TikTok For You Page is like a digital mirror—each scroll reflects your unique tastes, shaped by a powerful, unseen algorithm.*
-
 <!-- Image Description: A colorful split-screen showing a teenager scrolling through their TikTok For You Page (FYP) on a smartphone, with a variety of video thumbnails—ranging from dance challenges and science experiments to memes and cooking tips—highlighting the diversity and personalization of content. In the background, faint data streams and algorithm icons subtly hint at the invisible tech at work. -->
 
-
-## Why TikTok Seems to Read Your Mind
+---
 
 Ever feel like TikTok just *gets* you? One minute you’re laughing at cat videos, the next you’re deep into astrophysics explainers—all without lifting a finger. How does TikTok know what you like, often before you do? The answer lies in its super-smart recommendation algorithm, a kind of digital brain that learns from every tap, swipe, and pause you make[1][2][3].
 

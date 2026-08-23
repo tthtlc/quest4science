@@ -8,14 +8,15 @@ image_description: "A vintage illustration or photograph of the Sultan's palace 
 comments: true
 ---
 
-![British warships bombarded the Sultan's palace in Zanzibar, ending the shortest war in history in just 38 minutes on August 27, 1896.](/assets/images/anglo-zanzibar-war-1896.jpg)
-*British warships bombarded the Sultan's palace in Zanzibar, ending the shortest war in history in just 38 minutes on August 27, 1896.*
-
-<!-- Image Description: A vintage illustration or photograph of the Sultan's palace in Zanzibar during the 1896 conflict, with British naval ships visible offshore firing towards the palace under a bright morning sky. -->
-
 ## When Empires Clash: The Anglo-Zanzibar War of 1896
 
 *By Peter Teoh, Science Writer*
+
+![British warships bombarded the Sultan's palace in Zanzibar, ending the shortest war in history in just 38 minutes on August 27, 1896.](/assets/images/anglo-zanzibar-war-1896.jpg)
+*British warships bombarded the Sultan's palace in Zanzibar, ending the shortest war in history in just 38 minutes on August 27, 1896.*
+<!-- Image Description: A vintage illustration or photograph of the Sultan's palace in Zanzibar during the 1896 conflict, with British naval ships visible offshore firing towards the palace under a bright morning sky. -->
+
+---
 
 Imagine a war so brief that it could be completed during your morning routine. Less than an hour of fighting, and it was over. This isn’t a story from fiction—it’s the true tale of the shortest war in recorded history, the Anglo-Zanzibar War of 1896.
 

@@ -8,11 +8,15 @@ image_description: "An illustrated infographic showing the step-by-step journey 
 comments: true
 ---
 
+*When Power Comes with a Pacifier*
+
+*By Peter Teoh, Science Writer*
 
 ![The journey of a WhatsApp message: from your device to your friend's device through secure encryption and the internet.](/assets/images/whatsapp-message-flow.jpg)
 *The journey of a WhatsApp message: from your device to your friend's device through secure encryption and the internet.*
-
 <!-- Image Description: An illustrated infographic showing the step-by-step journey of a WhatsApp message from sender's phone, through encryption, to WhatsApp servers, and finally to the recipient's phone, highlighting encryption locks and network paths. -->
+
+---
 
 ## Discover the secret journey of your texts inside the internet
 

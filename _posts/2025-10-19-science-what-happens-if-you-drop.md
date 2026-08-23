@@ -8,15 +8,16 @@ image_description: "An artistic illustration showing a smartphone falling throug
 comments: true
 ---
 
+*The wild science behind a falling phone*
+
+*By Peter Teoh, Science Writer*
 
 ![A smartphone plunging through Earth's atmosphere from space, encountering air resistance and heating up on the way down.](/assets/images/phone_falling_from_space.jpg)
 *A smartphone plunging through Earth's atmosphere from space, encountering air resistance and heating up on the way down.*
 
 <!-- Image Description: An artistic illustration showing a smartphone falling through Earth's atmosphere from space, with layers of atmosphere visible and the phone glowing due to friction and heat. -->
 
-## The wild science behind a falling phone
-
-*By Peter Teoh, Science Writer*
+---
 
 Imagine this: you accidentally drop your phone—not just from your hand, or a tall building, but all the way from space! What would happen to it as it plummets toward Earth? Would it survive the fall? Could it even cause damage when it hits the ground?
 

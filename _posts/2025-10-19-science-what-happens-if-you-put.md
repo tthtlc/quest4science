@@ -8,15 +8,15 @@ image_description: "A detailed image of a human hand inserted inside the transpa
 comments: true
 ---
 
+*Exploring the Science of Vacuum and Human Tissue*
+
+*By Peter Teoh, Science Writer*
 
 ![A human hand inside a vacuum chamber illustrating the effects of low pressure on the body.](/assets/images/hand_in_vacuum_chamber.jpg)
 *A human hand inside a vacuum chamber illustrating the effects of low pressure on the body.*
-
 <!-- Image Description: A detailed image of a human hand inserted inside the transparent window of a vacuum chamber, showing the vacuum environment with faint visual cues of air molecules being evacuated and slight swelling or skin texture changes on the hand due to pressure difference. -->
 
-## Exploring the Science of Vacuum and Human Tissue
-
-*By Peter Teoh, Science Writer*
+---
 
 Imagine placing your hand inside a sealed chamber, then sucking all the air out so that almost nothing is left inside — this is what happens inside a vacuum chamber. But what exactly would happen to your hand if it were exposed to such a near-empty space? Let’s dive into the fascinating science behind vacuum chambers and the effects of near-zero pressure on the human body.
 

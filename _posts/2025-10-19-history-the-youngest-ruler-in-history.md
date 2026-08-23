@@ -8,15 +8,15 @@ image_description: "A detailed artistic depiction of the coronation of Henry VI 
 comments: true
 ---
 
-
-![Henry VI’s coronation as King of England and France at just nine months old — the youngest ruler in English history.](/assets/images/henry_vi_coronation.jpg)
-*Henry VI’s coronation as King of England and France at just nine months old — the youngest ruler in English history.*
-
-<!-- Image Description: A detailed artistic depiction of the coronation of Henry VI as King of England and France at around nine months old, showing medieval nobles and clergy surrounding the infant king seated on a throne, highlighting the grandeur and solemnity of the ceremony despite his young age. -->
-
 ## When Power Comes with a Pacifier
 
 *By Peter Teoh, Science Writer*
+
+![Henry VI’s coronation as King of England and France at just nine months old — the youngest ruler in English history.](/assets/images/henry_vi_coronation.jpg)
+*Henry VI’s coronation as King of England and France at just nine months old — the youngest ruler in English history.*
+<!-- Image Description: A detailed artistic depiction of the coronation of Henry VI as King of England and France at around nine months old, showing medieval nobles and clergy surrounding the infant king seated on a throne, highlighting the grandeur and solemnity of the ceremony despite his young age. -->
+
+---
 
 Imagine being crowned as a king before you can even walk or talk. Sounds impossible, right? Yet, in history, this actually happened. The youngest ruler ever crowned was Henry VI of England, who became king when he was only about nine months old. This article dives into the fascinating story of Henry VI and other child monarchs, exploring how they ruled and what challenges they faced.
 

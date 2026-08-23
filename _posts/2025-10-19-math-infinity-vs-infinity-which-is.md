@@ -8,18 +8,15 @@ image_description: "A vibrant, colorful illustration showing two infinity symbol
 comments: true
 ---
 
+*Infinity vs. Infinity – Which Is Bigger?*
+
+*By Peter Teoh, Science Writer*
 
 ![Which infinity wins the race? In math, some infinities are actually bigger than others!](/assets/images/infinity_vs_infinity.jpg)
 *Which infinity wins the race? In math, some infinities are actually bigger than others!*
-
 <!-- Image Description: A vibrant, colorful illustration showing two infinity symbols (∞) racing each other on a number line, with one symbol labeled 'countable' and the other 'uncountable'. The background features stylized sets of numbers and geometric shapes to hint at the mathematical concepts behind infinity. -->
 
-
-## Infinity vs. Infinity – Which Is Bigger?
-
-### Not All Infinities Are Created Equal
-
-*By Peter Teoh, Science Writer*
+---
 
 Imagine you’re told to count every grain of sand on every beach in the world. Impossible, right? Now imagine counting every star in the universe. Still impossible! Both tasks seem endless, but are they the same kind of “endless”? In math, the answer is surprising: some infinities are bigger than others. Let’s dive into how mathematicians make sense of this mind-bending idea.
 

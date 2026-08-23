@@ -8,16 +8,16 @@ image_description: "An illustration of a classic pirate ship sailing in the Cari
 comments: true
 ---
 
+*The Truth About Pirates: They Didn’t Actually Say “Arrr!”*
+
+*By Peter Teoh, Science Writer*
 
 ![Pirates during the Golden Age sailed fast ships and flew the notorious Jolly Roger flag, but their speech and behavior were very different from what movies show.](/assets/images/golden_age_pirates_ship.jpg)
 *Pirates during the Golden Age sailed fast ships and flew the notorious Jolly Roger flag, but their speech and behavior were very different from what movies show.*
 
 <!-- Image Description: An illustration of a classic pirate ship sailing in the Caribbean during the Golden Age of Piracy (1650-1720), with pirate flags (Jolly Roger) flying and pirates dressed in period-accurate attire without exaggerated Hollywood stereotypes. -->
 
-
-## The Truth About Pirates: They Didn’t Actually Say “Arrr!”
-
-*By Peter Teoh, Science Writer*
+---
 
 ### Introduction
 

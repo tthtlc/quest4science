@@ -8,16 +8,15 @@ image_description: "A close-up photo of a glass bowl with chunks of ice reacting
 comments: true
 ---
 
+*Can You Make Fire with Ice? (Yes, Here’s How.)*
+
+*By Peter Teoh, Science Writer*
 
 ![Flames dancing on ice! This fiery reaction happens thanks to a special chemical called calcium carbide.](/assets/images/fire-on-ice-experiment.jpg)
 *Flames dancing on ice! This fiery reaction happens thanks to a special chemical called calcium carbide.*
-
 <!-- Image Description: A close-up photo of a glass bowl with chunks of ice reacting with calcium carbide powder, producing visible blue flames and white vapor, demonstrating fire seemingly burning on ice. -->
 
-
-### Can You Make Fire with Ice? (Yes, Here’s How.)
-
-*By Peter Teoh, Science Writer*
+---
 
 Imagine setting a block of ice on fire. Sounds impossible, right? After all, ice is frozen water, and fire needs fuel and heat to burn. But with a bit of chemistry magic, you actually *can* make fire with ice. Let's dive into how this fascinating reaction works and what makes it possible.
 
