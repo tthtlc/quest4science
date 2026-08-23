@@ -9,7 +9,7 @@ comments: true
 ---
 *Dibutyl Phthalate in Glow Sticks: How Dangerous Is It Really?*
 
-![A glowing chemiluminescent glow stick cracked open with colorful liquid seeping out, set against a dark background](/assets/images/glow_stick_chemistry.png)
+![A glowing chemiluminescent glow stick cracked open with colorful liquid seeping out, set against a dark background](/assets/images/glow_stick_chemistry.jpeg)
 
 *By Peter Teoh, Science Writer*
 ---
