@@ -4,6 +4,7 @@ date: 2026-08-23 00:00:00 +08:00
 categories: physics
 tags: ["accelerator physics", "particle accelerators", "electromagnetism", "magnetism", "beam dynamics", "luminosity", "synchrotron radiation"]
 comments: true
+mathjax: true
 ---
 
 **Challenge to the reader:** The Large Hadron Collider bends 7 TeV (7000 GeV) protons around a bending radius of about 2804 m. Using the rigidity formula $p[\mathrm{GeV}/c]\simeq 0.3\,B[\mathrm{T}]\,\rho[\mathrm{m}]$, estimate the dipole magnetic field $B$ needed. You should land within a few percent of the real LHC value.
