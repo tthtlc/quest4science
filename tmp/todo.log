@@ -1,0 +1,38 @@
+
+                                                                               
+  what is the cause of the error in error.log?                                 
+                                                                               
+
+  ⬢ Read error.log
+
+  The build failed during GitHub Actions deployment due to a missing include
+   file. The key error is on line 10:
+
+  Liquid Exception: Could not locate the included file 'copy-share-bar.html'
+   in any of [.../_includes]
+
+  Root cause: _layouts/single.html contains a Liquid {% include 
+  copy-share-bar.html %} tag, but the file _includes/copy-share-bar.html was
+   never committed to the repository — it only exists locally (you can see
+  it listed as an untracked file in the git status).
+  Fix: Commit _includes/copy-share-bar.html to the repository so GitHub
+  Actions can find it during the build.
+
+  $ cd /home/tthtlc/quest4science && git add _includes/copy-share-bar.html &&
+    git status 21s
+    On branch main
+    Your branch is up to date with 'origin/main'.
+    … truncated (28 more lines) · ctrl+o to expand
+
+  _includes/copy-share-bar.html is now staged. You just need to commit and
+  push it:
+
+  git commit -m "new file: _includes/copy-share-bar.html"
+  git push
+
+  That will resolve the build error on GitHub Actions.
+
+
+  To resume this session: agent --resume=bbaefb43-70d0-407f-bc70-e039e77355f1
+😀/home/tthtlc/quest4science>
+

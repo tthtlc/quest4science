@@ -17,6 +17,7 @@ Gemfile.lock
 **/vendor/bundle
 
 # Node.js and NPM
+perplexity
 node_modules
 npm-debug.log*
 package-lock.json
